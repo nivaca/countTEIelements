@@ -7,6 +7,15 @@ import sys
 elementname = "note"
 
 
+def check_if_needed(lines: list) -> bool:
+    match = False
+    orig_pattern = re.compile(f"<{elementname} ")
+    for line in lines:
+        if re.search(orig_pattern, line):
+            match = True
+    return match
+
+
 def count_and_add_n(lines: list) -> list:
     n = 0
     orig_pattern = re.compile(f"<{elementname} ")
@@ -17,12 +26,9 @@ def count_and_add_n(lines: list) -> list:
             pattern = re.compile(f"(<{elementname} .+?>)")
             match = re.search(pattern, line)
             orig_element = match.group(1)  # make a copy of the original element
-            print(f"  {orig_element =}")
             new_element = orig_element  # this is a working copy
             new_element = check_and_remove_n(new_element)
             new_element = add_correct_n(new_element, str(n))
-            print(f"  {new_element = }")
-            pattern = re.compile(new_element)
             newline = re.sub(orig_element, new_element, line)
             print(f"  {newline = }")
 
@@ -89,20 +95,16 @@ def main():
 
     outputfile = inputfile[0:-4] + "_out.tex"
 
-
     with open(inputfile) as f:
         lines = f.readlines()
-        count_and_add_n(lines)
+        if not check_if_needed(lines):
+            print(f"{inputfile} doesn't contain element <{elementname}>. Aborting...")
+            sys.exit(1)
 
-    # lines = unindent(lines)
-    # lines = rmmultispaces(lines)
-    #
-    # buffer = "".join(lines)
-    #
-    # outbuffer = cleanup(buffer)
-    
-    # with open(outputfile, "w") as f:
-    #     f.write(outbuffer)
+        newlines = count_and_add_n(lines)
+
+        with open(outputfile, "w") as outf:
+            outf.writelines(newlines)
 
 
 if __name__ == "__main__":
