@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" Counts the occurrances of a TEI element and adds the @n="{count}" """
+""" Counts the occurrances of a TEI element and adds the corresponding @n="{count}" """
 
 import re
 import sys
@@ -7,19 +7,25 @@ import sys
 elementname = "note"
 
 
-def count_and_notes(lines: list) -> list:
+def count_and_add_n(lines: list) -> list:
     n = 0
     pattern = re.compile(f"<{elementname} ")
     for line in lines:
         if re.search(pattern, line):
+            print(f"  Original {line = }")
             n += 1
             pattern = re.compile(f"(<{elementname} .+?>)")
             match = re.search(pattern, line)
-            element = match.group(1)
-            if check_if_has_n(element):
-                element = delete_existing_n(element)
-            element = add_correct_n(element, n)
-            print(f"{element = }")
+            orig_element = match.group(1)  # make a copy of the original element
+            print(f"  {orig_element =}")
+            new_element = orig_element  # this is a working copy
+            if check_if_has_n(orig_element):
+                new_element = delete_existing_n(new_element)
+            new_element = add_correct_n(new_element, n)
+            print(f"  {new_element = }")
+            pattern = re.compile(new_element)
+            line = re.sub(orig_element, new_element, line)
+            print(f"  New {line = }")
 
 
 def add_correct_n(element: str, value: int) -> str:
@@ -64,8 +70,6 @@ def main():
     num_args = len(sys.argv)
     inputfile = ""
 
-    print(f"{sys.argv=}")
-
     if num_args > 1:
         inputfile = sys.argv[1]
     else:
@@ -81,7 +85,7 @@ def main():
 
     with open(inputfile) as f:
         lines = f.readlines()
-        count_and_notes(lines)
+        count_and_add_n(lines)
 
     # lines = unindent(lines)
     # lines = rmmultispaces(lines)
