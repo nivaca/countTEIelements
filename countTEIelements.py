@@ -89,7 +89,7 @@ def make_backup(inputfile: str):
 
 @click.command()
 @click.option('--onlydelete', default=False, help='Only remove @n in element.')
-@click.option('--dry', default=False, help='Dry run (do not make any changes).')
+@click.option('--dry', default=False, flag_value=True, help='Dry run (do not make any changes).')
 @click.option('--elementname', default="note", help='XML element to be counted.')
 @click.argument('inputfile')
 def main(inputfile: str, elementname: str, dry: bool, onlydelete: bool):
