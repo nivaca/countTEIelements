@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """ Counts the occurrances of a TEI element and adds the corresponding @n="{count}" """
-
+import os
 import re
 import sys
 import click
@@ -15,7 +15,7 @@ def check_if_needed(lines: list, elementname: str) -> bool:
     return match
 
 
-def count_and_add_n(lines: list, elementname: str) -> list[list, int]:
+def count_and_add_n(lines: list, elementname: str, onlydelete: bool) -> list[list, int]:
     n = 0
     newlines: list[str] = []
     orig_pattern = re.compile(f"<{elementname} ")
@@ -27,7 +27,8 @@ def count_and_add_n(lines: list, elementname: str) -> list[list, int]:
             orig_element = match.group(1)  # make a copy of the original element
             new_element = orig_element  # this is a working copy
             new_element = check_and_remove_n(new_element)
-            new_element = add_correct_n(new_element, str(n))
+            if not onlydelete:
+                new_element = add_correct_n(new_element, str(n))
             line = re.sub(orig_element, new_element, line)
         newlines.append(line)
     return [newlines, n]
@@ -79,32 +80,29 @@ def cleanup_element(element: str) -> str:
     return element
 
 
+def make_backup(inputfile: str):
+    bakfile = f"{inputfile}.bak"
+    if os.path.isfile(bakfile):
+        os.remove(bakfile)
+    os.rename(inputfile, bakfile)
+
+
 @click.command()
+@click.option('--onlydelete', default=False, help='Only remove @n in element.')
 @click.option('--dry', default=False, help='Dry run (do not make any changes).')
 @click.option('--elementname', default="note", help='XML element to be counted.')
 @click.argument('inputfile')
-def main(inputfile: str, elementname: str, dry: bool):
-    # num_args = len(sys.argv)
-    # inputfile = ""
-    # if num_args > 1:
-    #     inputfile = sys.argv[1]
-    # else:
-    #     print(f"Usage: python3 countteinotes file.xml")
-    #     exit(1)
-    #
-
+def main(inputfile: str, elementname: str, dry: bool, onlydelete: bool):
     if inputfile[-3:] != "xml":
         print(f"{inputfile} is not an XML file. Aborting...")
         sys.exit(1)
-
-    # outputfile = inputfile[0:-4] + "_out.xml"
 
     with open(inputfile) as f:
         lines = f.readlines()
         if not check_if_needed(lines, elementname):
             print(f"{inputfile} doesn't contain element <{elementname}>. Aborting...")
             sys.exit(1)
-        outlist = count_and_add_n(lines, elementname)
+        outlist = count_and_add_n(lines, elementname, onlydelete)
         newlines = outlist[0]
         numchanges = outlist[1]
 
@@ -112,9 +110,13 @@ def main(inputfile: str, elementname: str, dry: bool):
         print(f"  Dry run:")
         print(f"  {numchanges} instances of <{elementname}> would have been overwritten in {inputfile}.")
     else:
+        make_backup(inputfile)
         with open(inputfile, "w") as f:
             f.writelines(newlines)
-            print(f"  {numchanges} instances of <{elementname}> were overwritten in {inputfile}.")
+            if onlydelete:
+                print(f"  The @n of <{elementname}> was deleted {numchanges} times in {inputfile}.")
+            else:
+                print(f"  {numchanges} instances of <{elementname}> were overwritten in {inputfile}.")
 
 
 if __name__ == "__main__":
