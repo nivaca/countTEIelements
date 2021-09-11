@@ -1,0 +1,2804 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+  schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>El prevenido engañado</title>
+        <author>María de Zayas y Sotomayor</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Universidad de los Andes</publisher>
+        <pubPlace>Bogotá, Colombia</pubPlace>
+        <date when="2021">2021</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Codificado en TEI por María José Ospina Reyes en mayo de 2021.</p>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-05-19" status="draft" n="0.0.0"> <p>Archivo creado por primera vez.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>   
+      
+      
+      <div>
+        <p><pb n="1" xml:id="img_0001"/>
+          <lb n="001"/><hi rend="bold">NOVELA <choice><orig>IIII.</orig><reg>IV</reg></choice></hi>
+        </p>
+      </div>
+      
+      
+      <div>
+        <p>
+          <lb n="002"/><hi rend="bold">EL PREVENIDO
+          <lb n="003"/>ENGAÑADO<reg>.</reg></hi>
+        </p>
+      </div>
+      
+      
+      <div>
+        <p>
+          <lb n="004"/>Tuuo la <choice><orig>I</orig><reg>i</reg></choice>lustre <choice><orig>C</orig><reg>c</reg></choice>iudad de <placeName>Granada</placeName>, milagroso
+          <lb n="005"/>assombro de las grandezas de la <placeName>Andaluzia</placeName>, por
+          <lb n="006"/>hijo a don <name>Fadrique</name>, cuyo apellido<reg>,</reg> y linage no
+          <lb n="007"/>serà justo que se diga<reg>,</reg> por los nobles deudos quam
+          <lb n="008"/>en ella tiene<choice><orig>; s</orig><reg>. S</reg></choice>olo se dize que su nobleza<reg>,</reg> y riqueza corrian
+          <lb n="009"/>parejas con su talle, siendo en lo vno<reg>,</reg> y lo otro, el de mas
+          nom<lb n="010" break="no"/>bre, no solo en su tierra<orig>,</orig> sino en otras muchas<reg>,</reg> donde era
+          co<lb n="011" break="no"/>nocido, no dandole otro que el de rico<reg>,</reg> y galan don
+          <persName>Fadri<lb n="012" break="no"/>que</persName>. Murieron sus padres, quedando este <choice><orig>C</orig><reg>c</reg></choice>auallero muy
+          <lb n="013"/>moço, mas el se gouernaua con tanto acuerdo<reg>,</reg> que todos
+          <lb n="014"/>se admirauan de su entendimiento, porque no parecia de tan
+          <lb n="015"/>pocos anos como tenia<choice><orig> y :</orig><reg>. Y</reg></choice> como los moços sin amor, dizen
+          <lb n="016"/>algunos que son jugadores sin dinero, o dançantes sin son,
+          <lb n="017"/>empleò su voluntad en vna gallarda<reg>,</reg> y hermosa dama de su
+          <lb n="018"/>misma tierra, cuyo nombre es <persName>Serafina</persName>, y vn <choice><orig>S</orig><reg>s</reg></choice>erafin en
+          be<lb n="019" break="no"/>lleza, aunque no tan rica como don <persName>Fadrique</persName>. Y
+          apassio<lb n="020" break="no"/>nose tanto por ella, quanto ella<reg>,</reg> desdeñosa<reg>,</reg> le
+          desfauore<lb n="021" break="no"/>cia, por tener ocupado el desseo en otro <choice><orig>C</orig><reg>c</reg></choice>auallero de la
+          <lb n="022"/><choice><orig>C</orig><reg>c</reg></choice>iudad (lastima, por cierto, bien grande, que llegasse vn
+          <lb n="023"/>hombre de las partes de don <persName>Fadrique</persName>, a querer donde
+          <lb n="024"/>tenga otro tomada la possession)<reg>.</reg> <choice><orig>n</orig><reg>N</reg></choice>o inoraua don <persName>Fadrique</persName>
+          <lb n="025"/>el amor de <persName>Serafina</persName>, mas pareciale que<orig>,</orig> con su riqueza<orig>,</orig> 
+          ven<pb n="2" xml:id="img_0002" break="no"/><lb n="002" break="no"/>ceria mayores inconuenientes, y mas siendo el galan que
+          <lb n="003"/>la dama amaua, ni de los mas ricos, ni de los mas
+          principa<lb n="004" break="no"/>les. Seguro estaua don <persName>Fadrique</persName>, de que apenas pediria a
+          <persName>Se<lb n="005" break="no"/>rafina</persName> a sus padres, quando la tendria. Mas <persName>Serafina</persName> no
+          es<lb n="006" break="no"/>taua de esse parecer, porque esto del casarse, tras el
+          pa<lb n="007" break="no"/>pel<reg>,</reg> y el desden<reg>,</reg> oy, y mañana<reg>:</reg> el fauor<reg>,</reg> tiene no se que
+          <lb n="008"/>saynece<reg>,</reg> que enamora<reg>,</reg> y embelesa el alma<reg>,</reg> y hechiza el
+          <lb n="009"/>gusto. Y<reg> </reg>a esta misma causa<reg>,</reg> procurò don <persName>Fadrique</persName>
+          gran<lb n="010" break="no"/>gear primero la voluntad de <persName>Serafina</persName><reg>,</reg> que la de sus
+          pa<lb n="011" break="no"/>dres, y mas viendo competidor fauorecido, si bien no
+          <lb n="012"/>creia de la virtud<reg>,</reg> y honestidad de su dama, que se
+          esten<lb n="013" break="no"/>dia a mas su amor<reg>,</reg> que <reg>[</reg>a<reg>]</reg> amar<reg>,</reg> y dessear, que aunque
+          es<lb n="014" break="no"/>te es el cimiento en que se funda amor, ya pensaua el
+          <lb n="015"/>grangear para si lo mismo.
+        </p>
+      </div> 
+      
+      
+      <div>
+        <p>Empeçò, con estas esperanças,
+          <lb n="016"/>a regalar a <persName>Serafina</persName><reg>,</reg> y a sus criadas, y ella a fauorecerle
+          <lb n="017"/>mas que hasta alli, porque, aunque queria a don
+          <persName>Vicen<lb n="018" break="no"/>te</persName>, que assi se llama el querido, no queria ser aborrezida
+          <lb n="019"/>de don <persName>Fadrique</persName>, y las criadas a fomentar sus esperanças,
+          <lb n="020"/>por quanto creia el amante, que era cierto su
+          pensamien<lb n="021" break="no"/>to<reg>,</reg> en quanto a alcançar mas que el otro galan. Y con
+          es<lb n="022" break="no"/>te contento, vna noche, que las criadas auian prometido
+          <lb n="023"/>tener a su dama en el balcon. <choice><orig>c</orig><reg>C</reg></choice>antò, al son de vn laud, en que
+          <lb n="024"/>era muy diestro, este <choice><orig>S</orig><reg>s</reg></choice>oneto.
+        </p>
+      </div>
+      
+      
+      <div>
+        <lb n="025"/><lg n="1"><l>Que muera yo, tyrana, por tus ojos<reg>,</reg></l>
+          <lb n="026"/><l>y que gusten tus ojos de matarme,</l>
+          <lb n="027"/><l>que quiera, con tus ojos, consolarme<reg>,</reg></l>
+          <lb n="028"/><l>y que me den tus ojos mil enoxos.</l>
+          <lb n="029"/><l>Que rinda yo a tus ojos, por despojos<reg>,</reg></l>
+          <lb n="030"/><l>mis ojos, y ellos, en lugar de amarte,</l>
+          <lb n="031"/><l>pidiendo en mis enoxos alegrarme<reg>,</reg></l>
+          <lb n="032"/><l>las flores me conuiertan en abrojos.</l>
+          
+          
+          <!--<pb n="3" xml:id="img_0003"/>--> 
+          
+          
+          <lb n="001"/><l><pb n="3" xml:id="img_0003"/> <choice><orig>q</orig><reg>Q</reg></choice>ue me maten tus ojos con desdenes,</l>
+          <lb n="002"/><l>con rigores, con zelos, con tibieça,</l>
+          <lb n="003"/><l>quando mis ojos por tus ojos mueren<choice><orig>.</orig><reg>:</reg></choice></l>
+          <lb n="004"/><l><reg>¡</reg>Ay dulce ingrata<reg>!</reg>, que con los ojos tienes</l>
+          <lb n="005"/><l>tan grande ingratitud como belleza,</l>
+          <lb n="006"/><l>contra vnos ojos que <reg>a</reg> tus ojos quieren.</l>
+        </lg>
+      </div>
+      
+      
+      <div>
+        <p>
+          <lb n="007"/>Agrandecieron<orig>,</orig> y engrandecieron a don <persName>Fadrique</persName><orig>,</orig> las que
+          <lb n="008"/>escuchauan la musica, la gracia, y la destreza con que avia
+          can<lb n="009" break="no"/>tado<choice><orig>,</orig><reg>;</reg></choice> mas no se diga que <persName>Serafina</persName> estaba a la ventana,
+          por<lb n="010" break="no"/>que desde aquella noche se negó de suerte a los ojos de
+          <lb n="011"/>don <persName>Fadrique</persName>, que por diligencias que hizo, no la pudo
+          <lb n="012"/>ver en muchos dias, ni por papeles que la escriuio<orig>,</orig> pudo
+          <lb n="013"/>alcançar respuesta, y la que le davan sus criadas<reg>,</reg> a sus
+          im<lb n="014" break="no"/>portunas  quexas<reg>,</reg> era<reg>,</reg> que <persName>Serafina</persName> auia dado en una
+          me<lb n="015" break="no"/>lancolia tan profunda<reg>,</reg> que no tenia vna hora de salud.
+          Sos<lb n="016" break="no"/>pechó don <persName>Fadrique</persName><reg>,</reg> que seria el mal de <persName>Serafina</persName><reg>,</reg> el
+          ver<lb n="017" break="no"/>le defraudada de las esperancas que, quica, tenia, de
+          ver<lb n="018" break="no"/>se casada con don <persName>Vicente</persName>, porque no le veia passear la
+          ca<lb n="019" break="no"/>lle<reg>,</reg> como solia, y creyo que por su causa se auria retirado.
+          <lb n="020"/>Y pareciendole que astaua obligado a restaurarle a su
+          da<lb n="021" break="no"/>ma el gusto que le auia quitado, <choice><orig>s</orig><reg>f</reg></choice>iado en que<reg>,</reg> con su
+          ta<lb n="022" break="no"/>lle<reg>,</reg> y riqueza<reg>,</reg> le grandeatia la perdida alegria<reg>,</reg> y quitaria
+          <lb n="023"/>sus pesares, la pidio a sus padres por muger.
+        </p>
+      </div> 
+      
+      
+      <div>
+        <p>Ellos que
+          vie<lb n="024" break="no"/>ron (como dizen) el cielo abierto, no solo le dieron vn si,
+          <lb n="025"/>acopañado de infinitos agradecimientos, mas se
+          ofrecie<lb n="026" break="no"/>ron a ser esclauos suyos. Y tratando con su hija este
+          nego<lb n="027" break="no"/>cio, ella, que era discreta, dia a entender<reg>,</reg> que se holgaua
+          <lb n="028"/>mucho<reg>,</reg> y que estaba presta para darle gusto, si su salud la
+          <lb n="029"/>ayudasse, que les pedia<reg>,</reg> que entreuuiessen a don <persName>Fadrique</persName>
+          <lb n="030"/>algunos dias<reg>,</reg> hasta que mojorasse, que luego se haria
+          quan<lb n="031" break="no"/>to mandavan en aquel caso.
+        </p>
+      </div> 
+      
+      
+      <div>
+        <p>Tuuieron sus padres de la
+          da<lb n="032" break="no"/>ma<reg>,</reg> esta respuesta por bastante, y a don <persName>Fadrique</persName><reg>, que</reg> no
+          
+          
+          <pb n="4" xml:id="img_0004"/>
+          
+          <lb n="001"/>le parecio mala, y assi pidio a sus suegros<choice><orig>, </orig><reg> (</reg></choice>que ya por
+          <lb n="002"/>tales los tenia<reg>)</reg><reg>,</reg> que regalassen mucho a su esposa, para
+          <lb n="003"/>que cobrasse mas presto salud, ayudando el, por su
+          par<lb n="004" break="no"/>te<reg>,</reg> con muchos règalos, passeando su calle, aun con mas
+          <lb n="005"/>puntualidad que antes, tanto<orig>,</orig> por el amor que la tenia,
+          <lb n="006"/>quanto por los rezelos con que le hazia viuir don
+          <persName>Vi<lb n="007" break="no"/>cente</persName>, aunque su descuydo le consolaua<orig>,</orig> con sus
+          temo<lb n="008" break="no"/>res<reg>.</reg>
+        </p>
+      </div> 
+      
+      
+      <div>
+        <p><persName>Seraphina</persName> tal vez se ponia a la ventana, dando<reg>,</reg> con
+          <lb n="009"/>su hermosura<orig>,</orig> aliento a las esperanzas de su amante<choice><orig>:</orig><reg>,</reg></choice>
+          aun<lb n="010" break="no"/>que su color<reg>,</reg> y tristeza<reg>,</reg> le dauan claros indicios de su
+          <lb n="011"/>mal, y por esto, estaua<reg>,</reg> lo mas del tiempo<reg>,</reg> en la cama<choice><orig>,</orig><reg>;</reg></choice>
+          <lb n="012"/>y las vezes que la visitaua su esposo, que con este titulo<reg>,</reg>
+          <lb n="013"/>lo hazia, algunas le recibia en ella, y en presencia de su
+          <lb n="014"/>madre<reg>,</reg> y criadas, por quitarle los atreuimientos<reg>,</reg> que
+          <lb n="015"/>este nombre le podian dar.
+        </p>
+      </div> 
+      
+      
+      <div>
+        <p>Passaronse en esto algunos
+          me<lb n="016" break="no"/>ses, al cabo de los quales<reg>,</reg> don <persName>Fadrique</persName>, desesperado de
+          <lb n="017"/>tal enfermedad<reg>,</reg> y resuelto en casarse, estuuiesse con
+          sa<lb n="018" break="no"/>lud<reg>,</reg> ò sin ella, vna noche, que, como otras muchas,
+          <lb n="019"/>estaua a vna esquina<reg>,</reg> velando sus zelos<reg>,</reg> y adorando las
+          <lb n="020"/>paredes de su enferma señora, vio a mas de las dos de
+          <lb n="021"/>la noche<reg>,</reg> abrir la puerta de su casa<reg>,</reg> y salir vna muger,
+          <lb n="022"/>que en el ayre<reg>,</reg> y hechura del cuerpo<reg>,</reg> le pareciò ser
+          <persName>Se<lb n="023" break="no"/>raphina</persName><choice><orig>; a</orig><reg>. A</reg></choice>dmirose, y casi muerto de zelos, se fue
+          acer<lb n="024" break="no"/>cando mas, donde claro conocio ser la misma<choice><orig>,</orig><reg>; y</reg></choice>
+          sospechan<lb n="025" break="no"/>do que yua a buscar la causa de su temor, la fue
+          siguien<lb n="026" break="no"/>do, y viola entrar en vna como corraliza<reg>,</reg> en que se
+          so<lb n="027" break="no"/>lia guardar madera, y ya, por estar sin puertas<orig>,</orig> y las
+          <lb n="028"/>paredes medio caydas, no seruia sino de esconder<reg>,</reg> y
+          <lb n="029"/>guardar los que para algunas trauesuras<reg>,</reg> amorosas<reg>,</reg> se
+          en<lb n="030" break="no"/>trauan dentro. Aqui pues, entrò <persName>Seraphina</persName>, y don
+          <persName>Fadri<lb n="031" break="no"/>que</persName><reg>,</reg> ya cierto de que dentro deuia destar don <persName>Vicente</persName>,
+          irri<lb n="032" break="no"/>tado a vna colerica accion<reg>,</reg> como a quien le parecia que le
+          <lb n="033"/>tocaua, aquella tan honrosa<reg>,</reg> quan justa venganza, dio la
+          <lb n="034"/>buelta por la otra parte, y entrando dentro<reg>,</reg> vio como la 
+          da<pb n="5" xml:id="img_0005" break="no"/><lb n="001" break="no"/>ma se auia baxado a vna parte <reg>en</reg> que estaua vn aposentillo
+          <lb n="002"/>derriuado, y que tragandose vnos gemidos sordos,
+          lla<lb n="003" break="no"/>mando a <name>Dios</name>, y a muchos <choice><orig>S</orig><reg>s</reg></choice>antos<orig>,</orig> que le ayudassen,
+          pa<lb n="004" break="no"/>rio vna criatura, y los gritos, desenganaron al
+          a<lb n="005" break="no"/>mante<reg>,</reg> de lo mismo que estaua dudando. Pues<reg>,</reg> como
+          <lb n="006"/><persName>Seraphina</persName> se vio libre de tal embaraço, recogiendose
+          <lb n="007"/>vn faldellin, se boluio a su casa, dexandose aquella
+          ino<lb n="008" break="no"/>cente a lo que le sucediesse<choice><orig>,</orig><reg> (</reg></choice>de noche, y en tal parte,
+          <lb n="009"/>y con tan poco regalo, pues que el suelo le seruia de
+          <lb n="010"/>cama, y de mantillas<reg>)</reg>.
+        </p>
+      </div> 
+      
+      
+      <div>
+        <p>Mas el cielo que, a costa de la
+          <lb n="011"/>opinion de <persName>Seraphina</persName><reg>,</reg> y de la passion de don <persName>Fadrique</persName>,
+          <lb n="012"/>quiso que no muriesse sin <choice><orig>B</orig><reg>b</reg></choice>
+          <lb n="013" break="no"/>gò, donde estaua llorando en el suelo, y tomandola, la
+          <lb n="014"/>emboluio en su capa, haziendose mil <choice><orig>C</orig><reg>c</reg></choice>ruzes de tal
+          ca<lb n="015" break="no"/>so, y coligiendo<reg>,</reg> que el mal de <persName>Seraphina</persName><reg>,</reg> era este, y
+          <lb n="016"/>que el padre era don <persName>Vicente</persName>, por cuyo hecho<reg>,</reg> se
+          a<lb n="017" break="no"/>uia retirado. Y dando infinitas gracias a <name>Dios</name>, que le
+          <lb n="018"/>auia sacado de su desdicha, por tal modo, se fue con
+          a<lb n="019" break="no"/>quella prenda a la casa de vna <choice><orig>C</orig><reg>c</reg></choice>omadre, y le dixo que
+          <lb n="020"/>pusiesse aquella criatura como auia de estar, y le
+          buscas<lb n="021" break="no"/>se<reg>,</reg> con toda breuedad<reg>,</reg> vna ama, que le importaua la
+          vi<lb n="022" break="no"/>da que viuiesse.</p>
+      </div> 
+      
+      
+      <div>
+        <p>Hizolo la comadre, y mirandola con
+          <lb n="023"/>atencion<reg>,</reg> vio que era vna ninma tan hermosa<reg>,</reg> que mas
+          <lb n="024"/>parecia <choice><orig>A</orig><reg>a</reg></choice>ngel del cielo<reg>,</reg> que criatura. Buscose el ama,
+          <lb n="025"/>y don <persName>Fadrique</persName><reg>,</reg> luego el siguiente dia<reg>,</reg> hablò con vna
+          <lb n="026"/>señora deuda suya, para que en su casa se criasse
+          <persName>Gra<lb n="027" break="no"/>cia</persName>, que este nombre se le puso en el <choice><orig>B</orig><reg>b</reg></choice>autismo.
+        </p>
+      </div>
+      
+      
+      <div>
+        <p>Dexe<lb n="028" break="no"/>mos la criar, que a su tiempo se dirà de ella<reg>,</reg> como de
+          <lb n="029"/>la persona mas importante desta historia, y vamos a
+          <persName>Sera<lb n="030" break="no"/>phina</persName>, que ya guarecida de su mal, dentro de ocho dias,
+          <lb n="031"/>viendose restaurada en su primera hermosura, dixo a
+          <lb n="032"/>sus padres<reg>,</reg> que quando gustassen se podria efectuar el
+          <lb n="033"/>casamiento con don <persName>Fadrique</persName><choice><orig>, e</orig><reg>. E</reg></choice>l qual temeroso y esear
+          <lb n="034"/>mentado de tal sucesso, se fue a la casa de su parienta,
+          
+          
+          <pb n="6" xml:id="img_0006"/>
+          
+          <lb n="001"/>la que tenia en su poder a <persName>Gracia</persName>, y le dixo, que a el le auia
+          <lb n="002"/>dado desseo de ver algunas tierras de <placeName>España</placeName>, y que en esso
+          <lb n="003"/>queria gastar algunos años, pues era moço, que el le
+          que<lb n="004" break="no"/>ria dexar poder<reg>,</reg> para que gouernasse su hazienda<choice><orig>;</orig><reg>,</reg></choice> que
+          <lb n="005"/>hiziesse y des hiziesse en ella<choice><orig>,</orig><reg>;</reg></choice> que solo le suplicaua que
+          tu<lb n="006" break="no"/>uiesse grandissimo cuydado con doña <persName>Gracia</persName>, haziendo quen
+          <lb n="007"/>ta que era su hija, porque en ella auia vn grandissimo
+          secre<lb n="008" break="no"/>to, y que si <name>Dios</name> la guardaua hasta que tuuiesse tres años,
+          <lb n="009"/>que le pedia encarecidamente que la pusiesse en vn
+          conuen<lb n="010" break="no"/>to, donde se criasse sin que llegasse a conocer las cosas del
+          <lb n="011"/>mundo, porque lleuaua cierto desinio<reg>,</reg> quam andando el
+          tiem<lb n="012" break="no"/>po, le sabria.</p>
+      </div>
+      
+      
+      <div>
+        <p>Y hecho esto, haziendo lleuar toda su ropa
+          <lb n="013"/>en casa de su tia, tomò grandissima cantidad de dineros<reg>,</reg>
+          <lb n="014"/>y joyas,y escriuiendo este soneto, se le embio a <persName>Seraphina</persName>,
+          <lb n="015"/>y luego con solo vn criado se puso a cauallo, guiando su
+          ca<lb n="016" break="no"/>mino a la noble, y riquissima <choice><orig>C</orig><reg>c</reg></choice>iudad de <placeName>Seuilla</placeName>.</p>
+      </div>
+      
+      
+      <div>
+        <p>Recibio
+          <lb n="017"/><persName>Seraphina</persName> el papel que dezia assi.</p></div>
+      <lb n="018"/><div><lg n="2"><l>Si quando hazerme igual a ti podias,</l>
+        <lb n="019"/><l>ingrata, con tibieca me trataste,</l>
+        <lb n="020"/><l>y a fuerça de desdenes procuraste</l>
+        <lb n="021"/><l>mostrarme el poco amor que me tenias.</l>
+        <lb n="022"/><l>Si a vista de ojos, de las glorias mias<reg>,</reg></l>
+        <lb n="023"/><l>el premio con engaños me quitaste,</l>
+        <lb n="024"/><l>y en todas ocasiones me mostraste</l>
+        <lb n="025"/><l>montes de nieue en tus entrañas frias.</l>
+        <lb n="026"/><l>Aora que no puedes, <reg>¿</reg>porque quieres</l>
+        <lb n="027"/><l>buscar el fuego entre cenizas muertas<choice><orig>,</orig><reg>?</reg></choice></l>
+        <lb n="028"/><l><choice><orig>d</orig><reg>D</reg></choice>exale estar, ten lastima a mis años.</l>
+        <lb n="029"/><l>Impossibles me ofreces, falsa eres,</l>
+        <lb n="030"/><l>no auiues essas llamas que no aciertas,</l>
+        
+        
+        <lb n="001"/><l><pb n="7" xml:id="img_0007"/>que a tu pesar ya he visto desengaños.</l></lg></div>
+      <div>
+        <p>
+          <lb n="002"/>Este papel, si bien tan ciego, dio mucho que temer a
+          <persName>Se<lb n="003" break="no"/>rafina</persName>, y mas que aunque hizo algunas diligencias por saber
+          <lb n="004"/>que se auia hecho la criatura que dexò en la corraliza, no
+          <lb n="005"/>fue possible<choice><orig>,</orig><reg>;</reg></choice> y confirmando dos mil sospechas, con la
+          repen<lb n="006" break="no"/>tina partida de don <persName>Fadrique</persName>, y mas sus padres, que dezian
+          <lb n="007"/>que en algo se fundaua, viendo que <persName>Serafina</persName> gustaua de ser
+          <lb n="008"/>monja<choice><orig>:</orig><reg>,</reg></choice> ayudaron su desseo<choice><orig>, y </orig><reg>Y</reg></choice> assi se entrô en vn
+          monaste<lb n="009" break="no"/>rio<reg>,</reg> harto confusa<reg>,</reg> y cuydadosa de lo que le auia sucedido,
+          <lb n="010"/>y mas <reg>el</reg> del desalumbramiento que tuuo<reg>,</reg> en dexar alli
+          a<lb n="011" break="no"/>quella criatura, viendo que si se auia muerto, o la auian
+          co<lb n="012" break="no"/>mido perros, que cargaua su conciencia tal delito, motiuo
+          <lb n="013"/>para que procurasse<reg>,</reg> con su vida<reg>,</reg> y penitencia<reg>,</reg> no solo
+          al<lb n="014" break="no"/>cançar perdon de su pecado, sino nombre de santa, y assi
+          <lb n="015"/>era tenida por tal en <placeName>Granada</placeName>.</p>
+      </div>
+      
+      
+      <div>
+        <p>Llegò don <persName>Fadrique</persName> a
+          <placeName>Se<lb n="016" break="no"/>uilla</placeName>, tan escarmentado en <persName>Serafina</persName>, que por ella, vitraxaua
+          <lb n="017"/>a todas las demas mugeres, no haziendo excepcion de
+          nin<lb n="018" break="no"/>guna<choice><orig>;</orig><reg>,</reg></choice> cosa contraria a su entendimiento, pues para vna mala,
+          <lb n="019"/>ay ciento buenas, y no todas lo son, ni es justo,
+          mezclan<lb n="020" break="no"/>do vnas con otras, culparlas a todas. Mas<reg>,</reg> en fin<reg>,</reg> el dezia que
+          <lb n="021"/>no auia de fiar dellas, y mas de las discretas, porque de muy
+          <lb n="022"/>sabias<orig>,</orig> y entendidas<reg>,</reg> dauan en trauiessas<reg>,</reg> y viciosas, y que
+          <lb n="023"/>con sus astucias, engañauan a los hombres<choice><orig>:</orig><reg>;</reg></choice> pues vna muger
+          <lb n="024"/>no auia de saber mas de hazer su labor<reg>,</reg> y rezar, gouernar
+          <lb n="025"/>su casa<reg>,</reg> y criar sus hijos<choice><orig>:</orig><reg>;</reg></choice> y lo demas eran bachillerias<reg>,</reg> y
+          su<lb n="026" break="no"/>tilezas<reg>,</reg> que no seruian, sino de perderse mas presto.</p>
+      </div>
+      
+      
+      <div>
+        <p>Con
+          <lb n="027"/>esta opinion, como digo, entrò en <placeName>Seuilla</placeName>, y se fue a
+          pos<lb n="028" break="no"/>sar en casa de vn de<choice><orig>a</orig><reg>u</reg></choice>do suyo, hombre principal<reg>,</reg> y rico,
+          <lb n="029"/>con intento de estarse alli algunos meses, gozando de las
+          <lb n="030"/>grandezas que se cuentan desta <choice><orig>C</orig><reg>c</reg></choice>iudad<reg>.</reg> <choice><orig>(y</orig><reg>Y</reg></choice> como algunos
+          <lb n="031"/>dias la passeasse<reg>,</reg> en companmia de aquel su deudo<choice><orig>)</orig><reg>,</reg></choice> vio en vna de
+          <lb n="032"/>las mas prancipales calles della, a la puerra de vna
+          hermo<lb n="033" break="no"/>sisisama c<choice><orig>u</orig><reg>a</reg></choice>sa, baxar de vn coche vna dama gen habito de
+          
+          
+          <pb n="8" xml:id="img_0008"/>
+          
+          <lb n="001"/>viuda, la mas bella que le parecio auer visto en su vidas<choice><orig>: e</orig><reg>. E</reg></choice>ra,
+          <lb n="002"/>sobre hermosa, muy moça<reg>,</reg>  y de gallardo talle, y tan rica<reg>,</reg>
+          <lb n="003"/>y principal, segun le dixo aquel su deudo, que era de lo
+          me<lb n="004" break="no"/>jor<reg>,</reg>  y mes ilustre de <placeName>Seuilla</placeName>. Y aunque don <persName>Fadrique</persName> yua
+          <lb n="005"/>escarmentado del sucesso de <persName>Serafina</persName>, no por esso rehuso
+          <lb n="006"/>el dexarse vencer de la belleza de dona <persName>Beatriz</persName>, que este es
+          <lb n="007"/>el nombre de la bellissima viuda.</p>
+      </div>
+      
+      
+      <div>
+        <p>Passò don <persName>Fadrique</persName> la
+          <lb n="008"/>calle, dexando en ella el alma, y como la prenda no era
+          pa<lb n="009" break="no"/>ra perder, pidio a su camarada<reg>,</reg> que diessen otra buelta. A
+          <lb n="010"/>esta accion le respondio don <persName>Mateo</persName> (que assi se llamaua)<reg>:</reg></p></div>
+      <div>
+        <p>
+          <lb n="011"/>Pienso, amigo don <persName>Fadrique</persName>, que no dexareys a <placeName>Seuilla</placeName>
+          <lb n="012"/>tan presto, tierno soys. A fe que os ha puesto bueno la
+          <lb n="013"/>vista desta dama<choice><orig>:</orig><reg>.</reg></choice></p>
+      </div>
+      
+      
+      <div>
+        <p>Yo siento de mi lo mismo (respondio
+          <lb n="014"/>don <persName>Fadrique</persName>) y aun gastaria, si pensasse ser suyo, los
+          a<lb n="015" break="no"/>nios que el <name>Cielo</name> me ha dado de vida.</p>
+      </div>
+      
+      
+      <div>
+        <p>Conforme fuere
+          <lb n="016"/>vuestra pretension (replicò don <persName>Mateo</persName>) porque os
+          aduier<lb n="017" break="no"/>to, que la hazienda, nobleza, y virtud desta dama, no
+          <lb n="018"/>admite sino es la del matrimonio, aunque fuera el
+          pre<lb n="019" break="no"/>tendiente, el mismo <choice><orig>R</orig><reg>r</reg></choice>ey, porque ella tiene veynte y
+          <lb n="020"/>quatro anos, quatro estuuo casada con vn <choice><orig>C</orig><reg>c</reg></choice>auallero igual
+          <lb n="021"/>suyo, y dos ha que està viuda<choice><orig>:</orig><reg>;</reg></choice> y en este tiempo no ha
+          me<lb n="022" break="no"/>recido ninguno ni sus desseos<reg>,</reg> donzella, ni su vista casada,
+          <lb n="023"/>ni su voluntad viuda, con auer mas que cabellos tiene en
+          <lb n="024"/>su cabeça, pretendientes deste bien. Mas si vuestro amor
+          <lb n="025"/>es de la calidad que me significays, y quereys que yo le
+          <lb n="026"/>proponga vuestras partes, pues, para ser su marido<reg>,</reg>  no
+          <lb n="027"/>os faltan las que ella puede dessear, lo harè, que ya
+          po<lb n="028" break="no"/>dra ser<reg>,</reg>  que entre tantos llamados<reg>,</reg>  seays vos el
+          escogi<lb n="029" break="no"/>do. Ella es deuda de mi muger a cuya causa la visito
+          al<lb n="030" break="no"/>gunas vezes<choice><orig>. Y</orig><reg>, y</reg></choice> ya me prometo buen sucesso, porque veys<reg>,</reg>
+          <lb n="031" break="no"/>la alli se ha puesto en el balcon, que no es poco fauor<reg>,</reg>
+          a<lb n="032" break="no"/>uer fauorecido vuestros desseos, sin darnos con la ventana
+          <lb n="033"/>en los ojos.</p>
+      </div>
+      
+      
+      <div>
+        <p><reg>¡</reg>Ay, amigo<reg>!</reg>(dixo, a esta sazon, don
+          <persName>Fadri<lb n="034" break="no"/>que</persName>) y<reg>, ¿</reg>como me atreuerè yo a pretender, lo que a tan
+          
+          
+          <pb n="9" xml:id="img_0009"/>
+          
+          <lb n="001" break="no"/>tos <choice><orig>C</orig><reg>c</reg></choice>aualleros de <placeName>Seuilla</placeName>, ha negado, siendo forastero<choice><orig>,</orig><reg>?</reg></choice>
+          <lb n="002"/><choice><orig>m</orig><reg>M</reg></choice>as si he de morir, sin que lo sepa, a manos de mis
+          des<lb n="003" break="no"/>seos, muera a manos de sus desengaños<reg>,</reg> y desdenes<choice><orig>,</orig><reg>. H</reg></choice>a
+          <lb n="004" break="no"/>blalda, amigo, y demas de dezirle mi nobleza<reg>,</reg> y
+          hazien<lb n="005" break="no"/>da, le podreys dezir, que muero por ella.</p>
+      </div>
+      
+      
+      <div>
+        <p>Con esto
+          die<lb n="006" break="no"/>ron los dos buelta a la calle, haziendole<reg>,</reg>  al passar<reg>,</reg> vna
+          <lb n="007"/>cortès reuerencia<choice><orig>:</orig><reg>,</reg></choice> a la qual<reg>,</reg> la bellissima doña <persName>Beatriz</persName>,
+          <lb n="008"/>que al baxar del coche<reg>,</reg> vio con el cuydado que la
+          mi<lb n="009" break="no"/>rò don <persName>Fadrique</persName>, pareciendole forastero<reg>,</reg> y viendole en
+          <lb n="010"/>compania de don <persName>Mateo</persName> con cuydado, luego que dexò
+          <lb n="011"/>el manto<reg>,</reg> ocupò la ventana<reg>,</reg> y viendose, como digo,
+          sa<lb n="012" break="no"/>ludar con tanta cortesia, auiendo visto<reg>,</reg>  que mientras
+          ha<lb n="013" break="no"/>blauan<reg>,</reg>  la mirauan, hizo otra, no menos cumplida.</p></div> 
+      
+      
+      <div><p>Die<lb n="014" break="no"/>ron con esto la buelta a su casa, muy contisto<reg>[s]</reg> de auer
+        vis<lb n="015" break="no"/>to a doña <persName>Beatriz</persName> tan humana, quedando de acuerdo
+        <lb n="016"/>que don <persName>Mateo</persName> la hablasse otro dia<reg>,</reg> en razon del
+        casa<lb n="017" break="no"/>miento mas don <persName>Fadrique</persName> estaua tal<reg>,</reg> que quisiera que
+        <lb n="018"/>luego se tratara. Passo la noche, y no tan apriessa<reg>,</reg>
+        co<lb n="019" break="no"/>m<reg>i</reg>o el enamorado <choice><orig>C</orig><reg>c</reg></choice>auallero, quisiera, el qual dio pri<reg>e</reg>s
+        <lb n="020" break="no"/>sa a su amigo, para que fuesse a saber las nueuas de su
+        vi<lb n="021" break="no"/>da<reg>,</reg> o muerte. Y assi lo hizo.</p>
+      </div>
+      
+      
+      <div>
+        <p>Hablò, en fin, a doña <persName>Beatriz</persName>,
+          <lb n="022"/>proponiendole <reg>todas</reg> las partes del nouio. A lo qual respodio la
+          <lb n="023"/>dama<orig>,</orig> que le agradecia mucho la merced que le hazia, y
+          <lb n="024"/>a su amigo el dessear honrarla de su persona, mas que ella
+          <lb n="025"/>auia propuesto el dia que enterrò a su dueño, no casarse
+          <lb n="026"/>hasta que passassen tres años, por guardar mas el decoro
+          <lb n="027"/>que deuia a su amor, que por esta causa despedia quantos le
+          <lb n="028"/>tratauan desto, con alguna aspereza, por no dar a todos que
+          <lb n="029"/>ta de sus desinios<choice><orig>:</orig><reg>;</reg></choice> mas quam si esse cauallero se atreuia a
+          aguar<lb n="030" break="no"/>dar el año que le faltaua, que ella le daua su palabra<reg>,</reg>  de que
+          <lb n="031"/>no fuesse otro su marido, porque<reg>,</reg> si auia de tratar verdad, le
+          <lb n="032"/>auia agradado mucho su talle<orig>,</orig>  sin afectacion, y sobre todo
+          <lb n="033"/><reg>todas</reg> las partes que le auia propuesto, porque ella desseaua que
+          <lb n="034"/>fuesse assi<orig>,</orig> y el que huuiesse de ser su dueno, hombre sin 
+          
+          <!--<pb n="10" xml:id="img_0010" break="no"/>-->
+          
+          in<pb n="10" xml:id="img_0010" break="no"/><lb n="001" break="no"/>uenciou<reg>,</reg> ni asseos de hombres inuencioneros. Con esta
+          res<lb n="002" break="no"/>puesta boluio don <persName>Mateo</persName> a su amigo, no poco contento,
+          <lb n="003"/>por parecerle que no auia negociado muy mal.</p>
+      </div>
+      
+      
+      <div>
+        <p>Don
+          <persName>Fadri<lb n="004" break="no"/>que</persName> cada hora se enamoraua mas, si bien le desconsolaua la
+          <lb n="005"/>imaginacion de auer de aguardar tanto tiempo<reg>,</reg>  se
+          determi<lb n="006" break="no"/>nò de estarse aquel ano en <placeName>Seuilla</placeName>, pareciendole buen
+          pre<lb n="007" break="no"/>mio la hermosa viuda, si llegaua a alcançarla<choice><orig>; y</orig><reg>. Y</reg></choice> como yua
+          <lb n="008"/>tambien bastecido de dineros, adereçò vn quarto en la
+          ca<lb n="009" break="no"/>sa de su deudo, recibio criados<reg>,</reg>  y empeçò a e<reg>s</reg>char galas,
+          pa<lb n="010" break="no"/>ra despertar el animo de su dama<choice><orig>;</orig><reg>,</reg></choice> a la qual visitaua<reg>,</reg> tal vez
+          <lb n="011"/>en compania de don <persName>Mateo</persName>, que menos que conel, no
+          <lb n="012"/>se le hiziera tanto fauor. Quiso regalar, mas no le fue
+          per<lb n="013" break="no"/>mitido, porque dona <persName>Beatriz</persName> no quiso recebir vn alfiler<choice><orig>. e</orig><reg>. E</reg></choice>l
+          <lb n="014"/>mayor fauor que le hazia, a ruego de sus criadas<choice><orig>,</orig><reg>(</reg></choice> que no las
+          <lb n="015"/>tenia el <choice><orig>G</orig><reg>g</reg></choice>ranadino mal dispuestas, porquam lo que su ama
+          rega<lb n="016" break="no"/>teaua el recebir, ellas lo tenian por profession<reg>,</reg> y costumbre,
+          <lb n="017"/>y assi no <reg>le</reg> desfauorecian<reg>,</reg> en este particular, su cuydado<reg>)</reg>, era,
+          <lb n="018"/>quando ellas le dezian, que estaua en la calle, salir al balcon,
+          <lb n="019"/>dando luz al mundo, con la belleza de sus ojos, y tal vez
+          a<lb n="020" break="no"/>companarlas de noche, por oyr cantar a don <persName>Fadrique</persName>, que
+          <lb n="021"/>(como he dicho) lo hazia diestramente.</p>
+      </div>
+      
+      
+      <div>
+        <p>Y vna, entre muchas,
+          <lb n="022"/>que le dio musica, cantò este <choice><orig>R</orig><reg>r</reg></choice>omance, que el mismo auia
+          <lb n="023"/>hecho, porque dona <persName>Beatriz</persName> no auia salido aquel dia al
+          bal<lb n="024" break="no"/>con, enoxada de que le auia visto<reg>(</reg> en la <choice><orig>I</orig><reg>i</reg></choice>glesia, hablar con
+          <lb n="025"/>vna dama. En fin el cantò assi.</p></div>
+      <lb n="026"/><div><lg n="3"><l>Alta torre de <name>Babel</name>,</l>
+        <lb n="027"/><l>edificio de <persName>Nembrot</persName>,</l>
+        <lb n="028"/><l>que pensò subir al cielo,</l>
+        <lb n="029"/><l>y en vn grande abismo dio.</l>
+        <lb n="030"/><l>Parecen mis esperanças,</l>
+        <lb n="031"/><l>que segun entendi yo,</l>
+        
+        
+        
+        <!--<pb n="11" xml:id="img_0011"/>-->
+        
+        <lb n="001"/><l><pb n="11" xml:id="img_0011"/>al cielo de mis desseos</l>
+        <lb n="002"/><l>llegara su pretension.</l>
+        <lb n="003"/><l>Mas, como fue su cimiento</l>
+        <lb n="004"/><l>el rapazillo de <name>Amor</name>,</l>
+        <lb n="005"/><l>sin meritos, para ser</l>
+        <lb n="006"/><l>reuerenciado por <name>Dios</name>:</l>
+        <lb n="007"/><l>Mudo, como niño al fin,</l>
+        <lb n="008"/><l>su trauiessa condicion,</l>
+        <lb n="009"/><l>siendo ciego, para ver</l>
+        <lb n="010"/><l>de mi firmeza, el valor.</l>
+        <lb n="011"/><l><reg>¡</reg>Ay, mal logrados desseos<reg>,</reg> </l>
+        <lb n="012"/><l>caydos, como <persName>Faeton</persName><reg>!</reg>,</l>
+        <lb n="013"/><l><reg>¿</reg>por que quisistes subiros</l>
+        <lb n="014"/><l>al alto carro del <choice><orig>S</orig><reg>s</reg></choice>ol<reg>?</reg>.</l>
+        <lb n="015"/><l>Esperanças derribadas,</l>
+        <lb n="016"/><l>marchitas, como la flor,</l>
+        <lb n="017"/><l>horas alegres, que aora</l>
+        <lb n="018"/><l>sereys horas de dolor.</l>
+        <lb n="019"/><l><reg>¿</reg>Donde pensauas subir,</l>
+        <lb n="020"/><l>gallarda imaginacion,</l>
+        <lb n="021"/><l>si tus alas son de cera,<note xml:id="d1e1900" type="comentario">
+          Hace referencia a <persName>Ícaro</persName>.
+        </note>
+        </l>
+        <lb n="022"/><l>y este signo es de <choice><orig>L</orig><reg>l</reg></choice>eon.<reg>?</reg><note xml:id="d1e1915" type="comentario" n='2'>
+          El león, en la astrología y la alquimia, hace referencia al fuego; que puede derretir la cera con la que se pegan las alas al cuerpo. Así se refiere a echar a bajo la presunción.
+        </note>
+        </l>
+        <lb n="023"/><l>Bien pensaste que te diera</l>
+        <lb n="024"/><l>mano, y braços aficion,</l>
+        <lb n="025"/><l>vano fue tu pensamiento,</l>
+        <lb n="026"/><l>si en esso se confiò.</l>
+        <lb n="027"/><l>En el <name>Valcon</name> del <name>Oriente</name></l>
+        
+        
+        
+        <!--<pb n="12" xml:id="img_0012"/>-->
+        
+        <lb n="001"/><l><pb n="12" xml:id="img_0012"/> oy ha salido mi <name>Sol</name>,</l>
+        <lb n="002"/><l>encubriendo, con nublados,</l>
+        <lb n="003"/><l>la luz de su perfeccion.</l>
+        <lb n="004"/><l>Caros vende amor sus gustos,</l>
+        <lb n="005"/><l>y si los dà, es con pension,</l>
+        <lb n="006"/><l>que son censos al quitar,</l>
+        <lb n="007"/><l>que es la desdicha mayor.</l>
+        <lb n="008"/><l>Mueras quemado en mi fuego,</l>
+        <lb n="009"/><l>ciego linze, niño dios,</l>
+        <lb n="010"/><l>mas perdona, amor, mi ofensa,</l>
+        <lb n="011"/><l>que humilde, a tus pies estoy.</l></lg></div>
+      <div>
+        <p>
+          <lb n="012"/>El fauor que alcançò don <persName>Fadrique</persName> esta noche, fue oyr
+          <lb n="013"/>a doña <persName>Beatriz</persName>, que dixo a sus criadas, que ya era hora de
+          <lb n="014"/>recoger, dando a entender con esto<reg>,</reg> que le auia oydo. Con
+          <lb n="015"/>lo que fue mas contento<reg>,</reg> que si le huuieran hecho señor
+          <lb n="016"/>del mundo.</p>
+      </div>
+      
+      
+      <div>
+        <p>En esta vida passò nuestro amante mas de seys
+          <lb n="017"/>meses, sin que jamas pudiesse alcançar de dona <persName>Beatriz</persName>
+          li<lb n="018" break="no"/>cencia para verla a solas, cuyos honestos recatos le tenian
+          <lb n="019"/>tan enamorado, que no tenia punto de reposo. Y assi vna
+          <lb n="020"/>noche que se hallò en la calle de su dama, como otras
+          mu<lb n="021" break="no"/>chas, viendo la puerta abierta, por mirar de mas cerca su
+          <lb n="022"/>hermosura, se atreuio<reg>,</reg> con algun recato<reg>,</reg> a entrar en su casa<reg>,</reg><reg>;</reg> y
+          <lb n="023"/>sucediole tambien, que sin ser visto de nadie, llegó al
+          quar<lb n="024" break="no"/>to de doña <persName>Beatriz</persName>, y desde la puerta de vn corredor la vio
+          <lb n="025"/>sentada en su estrado con sus criadas, que estauan velando<choice><orig>,</orig> <reg>(</reg></choice>y
+          <lb n="026"/>ella rezando en vnas <choice><orig>H</orig><reg>h</reg></choice>oras. Y como acabasse su deuoto
+          e<lb n="027" break="no"/>xercicio<choice><orig>,</orig><reg>). Y</reg></choice> dando muestras de querer desnudarse<reg>,</reg> para irse a
+          <lb n="028"/>la cama, le pidieron ellas<choice><orig>,</orig> <reg>(</reg></choice>como si estouieran cohechadas de
+          <lb n="029"/>don <persName>Fadrique</persName>, o supieran que las estaua mirando<reg>)</reg>, que
+          can<lb n="030" break="no"/>tasse vn poco. A lo que donna <persName>Beatriz</persName> se escusò<reg>,</reg> con dezir que
+          <persName><choice><orig>Iuan</orig><reg>Juan</reg></choice></persName> 
+          
+          
+          <pb n="13" xml:id="img_0013"/>
+          
+          <lb n="001"/>no estaua de humor, que estiua melancolica<reg>.</reg> <choice><orig>m</orig><reg>M</reg></choice>as vna de las
+          <lb n="002"/>criadas, que era mas desembuelta que las demas, se
+          leuan<lb n="003" break="no"/>tò, y entrò en vna quadra, de donde salio con vna harpa,
+          di<lb n="004" break="no"/>ziendo:</p>
+      </div>
+      
+      
+      <div>
+        <p>A fe, senora, que si ay melancolia, este es el mejor
+          a<lb n="005" break="no"/>liuio<choice><orig>, c</orig><reg>. C</reg></choice>ante <choice><orig>V. m.</orig><reg>Vuestra merced</reg></choice> va poco, y verâ como se halla mas
+          aliuia<lb n="006" break="no"/>da.</p>
+      </div>
+      
+      
+      <div>
+        <p>Dezir esto, y ponerle la harpa en las manos, fue todo
+          <lb n="007"/>vno. <reg>(</reg>Y assi le fue fuerça.<reg>)</reg> Y ella, por darles gusto, cantò
+          <lb n="008"/>assi.</p></div>
+      <lb n="009"/><div><lg n="4"><l>Quando el <name>Alua</name> muestra</l>
+        <lb n="010"/><l>su alegre risa,</l>
+        <lb n="011"/><l>quando quita alegre</l>
+        <lb n="012"/><l>la negra cortina,</l>
+        <lb n="013"/><l>al balcon de <name>Oriente</name>,</l>
+        <lb n="014"/><l>porque salga el dia.</l>
+        <lb n="015"/><l>Quando muestra hermosa,</l>
+        <lb n="016"/><l>la madexa rica,</l>
+        <lb n="017"/><l>derramando perlas</l>
+        <lb n="018"/><l>sobre clauellinas,</l>
+        <lb n="019"/><l>y en fin quando el campo</l>
+        <lb n="020"/><l>vierte alegria,</l>
+        <lb n="021"/><l><hi rend="italic">llora ausente de <name>Albano</name>,</hi></l>
+        <lb n="022"/><l><hi rend="italic">zelos <name>Marfisa</name>.</hi></l>
+        <lb n="023"/><l>Quando alegre apresta</l>
+        <lb n="024"/><l>la carroza rica,</l>
+        <lb n="025"/><l>a <persName>Febo</persName> que viene</l>
+        <lb n="026"/><l>de las <name>Playas</name> <name>Indias</name>.</l>
+        <lb n="027"/><l>Quando entre cristales,</l>
+        <lb n="028"/><l>claras fuentezillas</l>
+        
+        
+        
+        <!--<pb n="14" xml:id="img_0014"/>-->
+        
+        <lb n="001"/><l><pb n="14" xml:id="img_0014"/> murmuran de enganos,</l>
+        <lb n="002"/><l>aljofar destilan.</l>
+        <lb n="003"/><l>Quando al son del agua</l>
+        <lb n="004"/><l>cantan las <name>Ninfas</name>,</l>
+        <lb n="005"/><l><hi rend="italic">llora ausente de <name>Albano</name>,</hi></l>
+        <lb n="006"/><l><hi rend="italic">zelos <name>Marfisa</name>.</hi></l>
+        <lb n="007"/><l>Quando entre claueles,</l>
+        <lb n="008"/><l>con sus claras linfas,</l>
+        <lb n="009"/><l>guarnicion de plata</l>
+        <lb n="010"/><l>en sus ojos pinta,</l>
+        <lb n="011"/><l>quando dan las aues,</l>
+        <lb n="012"/><l>con sonoras liras,</l>
+        <lb n="013"/><l>norabuena a <persName>Febo</persName></l>
+        <lb n="014"/><l>de su hermosa vista.</l>
+        <lb n="015"/><l>Quando en los <name>Serranos</name></l>
+        <lb n="016"/><l>mil gustos se miran,</l>
+        <lb n="017"/><l><hi rend="italic">llora ausente de <name>Albano</name>,</hi></l>
+        <lb n="018"/><l><hi rend="italic">zelos <name>Marfisa</name>.</hi></l>
+        <lb n="019"/><l>Fue aquesta zagala,</l>
+        <lb n="020"/><l>monstruo de la villa,</l>
+        <lb n="021"/><l>de los ojos muerte,</l>
+        <lb n="022"/><l>de la muerte vida.</l>
+        <lb n="023"/><l>fiero basilisco,</l>
+        <lb n="024"/><l>causa de desdichas,</l>
+        <lb n="025"/><l>porque en sus desdenes</l>
+        <lb n="026"/><l>veneno tenia.</l>
+        <lb n="027"/><l>Quando a sus donayres,</l>
+        
+        
+        
+        <!--<pb n="15" xml:id="img_0015"/>-->
+        
+        <lb n="001"/><l><pb n="15" xml:id="img_0015"/> que eran sal dezian,</l>
+        <lb n="002"/><l><hi rend="italic">llora, ausente de <name>Albano</name>,</hi></l>
+        <lb n="003"/><l><hi rend="italic">zelos <name>Marfisa</name>.</hi></l>
+        <lb n="004"/><l>Rindio sus desdenes</l>
+        <lb n="005"/><l>a la bizarria</l>
+        <lb n="006"/><l>de vn serrano ingrato,</l>
+        <lb n="007"/><l>que ausente la oluida.</l>
+        <lb n="008"/><l>Y quando el alegre,</l>
+        <lb n="009"/><l>nueua prenda estima,</l>
+        <lb n="010"/><l>bellezas defiende,</l>
+        <lb n="011"/><l>finezas publica,</l>
+        <lb n="012"/><l>Hermosuras rinde,</l>
+        <lb n="013"/><l>y a glorias aspira,</l>
+        <lb n="014"/><l><hi rend="italic">llora, ausente de <name>Albano</name>,</hi></l>
+        <lb n="015"/><l><hi rend="italic">zelos <name>Marfisa</name>.</hi></l></lg></div>
+      <div>
+        <p>
+          <lb n="016"/>Dexò, con esto, el <name>Arpa</name>, diziendo que la viniessen a
+          des<lb n="017" break="no"/>nudar, dexando a don <persName>Fadrique</persName><choice><orig>,</orig> <reg>(</reg></choice>que le tenian
+          embelesa<lb n="018" break="no"/>do el donayre<reg>,</reg> la voz<reg>,</reg> y dulçura de la musica<choice><orig>,</orig><reg>)</reg></choice> como en
+          <lb n="019"/>tinieblas<choice><orig>, n</orig><reg>. N</reg></choice>o tuuo sospecha de la letra, porque<reg>,</reg> como tal
+          <lb n="020"/>vez se hazen para agradar a vn musico, pinta el <choice><orig>P</orig><reg>p</reg></choice>oeta
+          co<lb n="021" break="no"/>mo quiere. Y viendo que ya dona <persName>Beatriz</persName> se auia
+          entra<lb n="022" break="no"/>do a acostar, se baxò al portal<reg>,</reg> para irse a su casa, mas fue
+          <lb n="023"/>en vano<reg>,</reg> porque el cochero, que possaua alli en vn
+          apo<lb n="024" break="no"/>sentillo, auia cerrado la puerta de la calle<choice><orig>,</orig><reg>;</reg></choice> seguro de que
+          <lb n="025"/>no auia quien entrasse<reg>,</reg> ni saliesse, y entradose a acostar.</p></div>
+      <div>
+        <p>
+          <lb n="026"/>Pesole a don <persName>Fadrique</persName> en el alma, mas viendo que no
+          a<lb n="027" break="no"/>uia remedio, se sento en vn poyo<reg>,</reg> para aguardar la maña
+          <lb n="028" break="no"/>na, porque, aunque fuera facil llamar que l<choice><orig>a</orig><reg>e</reg></choice> abriessen,
+          <lb n="029"/>no quiso, por no poner en opinion, ni en lenguas de cria
+          
+          
+          <pb n="16" xml:id="img_0016"/>
+          
+          <lb n="001" break="no"/>das<reg>,</reg> la honra de doña <persName>Beatriz</persName><reg>;</reg> pareciendole que mientras el
+          <lb n="002"/>cochero abria, <reg>en</reg> siendo de dia, se podria el esconder en vna
+          <lb n="003"/>entrada de cueua.</p>
+      </div>
+      
+      
+      <div>
+        <p>Dos horas auria quam estaua alli, quando,
+          sintien<lb n="004" break="no"/>do ruydo en la puerta del quarto de su dama, quam desde
+          don<lb n="005" break="no"/>de estaua sentado, se via <reg>ella,</reg> la escalera<reg>,</reg> y corredor, puso los
+          <lb n="006"/>ojos donde sintiò el rumor<reg>,</reg> y vio salir a doña <persName>Beatriz</persName>,
+          nue<lb n="007" break="no"/>ua admiracion, para quien creia que estaua ya durmiendo.
+          <lb n="008"/>Traia la dama, sobre la camisa, vn faldellin de buelta de <choice><orig>T</orig><reg>t</reg></choice>a
+          <lb n="009" break="no"/>ui encarnado, cuya plata, y guarnicion parecian estrellas, sin
+          <lb n="010"/>traer sobre si otra cosa<reg>,</reg> mas que vn rebozino del mismo
+          ta<lb n="011" break="no"/>ui, aforrado en felpa a<choice><orig>c</orig><reg>c</reg></choice>ul, puesta tan al desgayre<reg>,</reg> que
+          dexa<lb n="012" break="no"/>ba ver en la blancura de la camisa, los bordados de hilo de
+          <lb n="013"/>pita (en que es <placeName>Seuilla</placeName> mas estremada que otra ninguna
+          tier<lb n="014" break="no"/>ra de <placeName>Espana</placeName>) sus dorados cabellos cogidos en vna
+          redezi<lb n="015" break="no"/>lla de seda açul, y plata, aunque por algunas partes
+          descom<lb n="016" break="no"/>puestos, para componer con ellos la belleza de su rostro<choice><orig>:</orig><reg>;</reg></choice> en
+          <lb n="017"/>su garganta dos hilos de gruessas perlas, conformes a otras
+          <lb n="018"/>muchas bueltas<reg>,</reg> que llesaua en sus hermosas munecas,
+          <lb n="019"/>cuya blancura se via sin embaraço, por ser la manga de
+          <lb n="020"/>la camisa suelta, a modo de manga de <choice><orig>F</orig><reg>f</reg></choice>rayle.</p>
+      </div>
+      
+      
+      <div>
+        <p>De
+          to<lb n="021" break="no"/>do esto pudo el <choice><orig>G</orig><reg>g</reg></choice>ranadino dar bastantes señas, porque
+          <lb n="022"/>dona <persName>Beatriz</persName> trahia en vna de sus blanquissimas manos,
+          <lb n="023"/>vna buxia de cera encendida<reg>,</reg> en vn candelero de
+          pla<lb n="024" break="no"/>ta, a la luz de la qual<reg>,</reg> estuuo contemplando en tan <choice><orig>A</orig><reg>a</reg></choice>n
+          <lb n="025" break="no"/>gelica figura, juzgandose por dichoso<reg>,</reg> si fuera el el
+          su<lb n="026" break="no"/>geto que yua a buscar. En la otra mano trahia vna
+          sal<lb n="027" break="no"/>ua de plata, y sobre ella vno, o dos vidrios de conserua<reg>,</reg>
+          <lb n="028"/>y algunos bizcochos, vna limitilla con vino<reg>,</reg> y sobre el
+          <lb n="029"/>vn braço, vna toalla blanquissima, cuyos encaxes<reg>,</reg> y
+          bor<lb n="030" break="no"/>dados dauan agradable gusto.</p>
+      </div>
+      
+      
+      <div>
+        <p><choice><orig>(</orig><reg>¡</reg></choice>Valgame <name>Dios</name><reg>!</reg><choice><orig>,</orig> <reg>(</reg></choice>dezia
+          en<lb n="031" break="no"/>tre si, don <persName>Fadrique</persName>, mirandola desde que salio de su
+          a<lb n="032" break="no"/>posento, hasta que la vio baxar por la escalera<choice><orig>,</orig><reg>) ¿</reg></choice>quien
+          se<lb n="033" break="no"/>rà el venturoso<reg>,</reg> a quien va a seruir tan hermosa <choice><orig>M</orig><reg>m</reg></choice>aes
+          <lb n="034" break="no"/>tresala<choice><orig>,</orig> <reg>? ¡</reg></choice>ay, si yo fuera, y como diera en cambio quanto
+          
+          
+          <pb n="17" xml:id="img_0017"/>
+          
+          
+          <lb n="001"/>vale mi hazienda<choice><orig>.)</orig><reg>!</reg></choice></p>
+      </div>
+      
+      
+      <div>
+        <p>Diziendo esto, como la vio, que
+          a<lb n="002" break="no"/>uiendo va acabado de baxar abaxo, y que endereçaua
+          <lb n="003"/>sus passos àzia donde estaua, se fue retirando hasta la
+          ca<lb n="004" break="no"/>ualieriza, y en ella, por estar mas encubierto, se entrò<reg>.</reg>
+          <lb n="005" break="no"/><choice><orig>m</orig><reg>M</reg></choice>as viendo que doña <persName>Beatriz</persName>, encaminaua sus passos a
+          <lb n="006"/>la misma parte, se metiò detras de vno de los cauallos
+          <lb n="007"/>del coche. Entrò, en fin, la dama, en tan indecente
+          lu<lb n="008" break="no"/>gar<reg>,</reg> para tanta belleza, y sin mirar en don <persName>Fadrique</persName>, que
+          <lb n="009"/>estaua escondido detras del cauallo, endereçò azia vn
+          a<lb n="010" break="no"/>posentillo<reg>,</reg> que al fin de la caualleriza estaua. Creyò
+          <lb n="011"/>don <persName>Fadrique</persName> de tal successo<reg>,</reg> que algun criado enfermo
+          <lb n="012"/>despertaua la caridad<reg>,</reg> y piadosa condicion de doña
+          <persName>Bea<lb n="013" break="no"/>triz</persName><reg>,</reg> à tal accion, aunque mas competente era para
+          algu<lb n="014" break="no"/>na de las muchas criadas que tenia<reg>,</reg> que no para tal señora<choice><orig>,</orig><reg>.</reg></choice>
+          <lb n="015"/>Mas atribuyendolo todo a <choice><orig>C</orig><reg>c</reg></choice>hristiandad<reg>,</reg> y deuota
+          hu<lb n="016" break="no"/>mildad, quiso verel fio de todo, y saliendo de donde
+          es<lb n="017" break="no"/>taua<reg>,</reg> caminò tras ella<reg>,</reg> hasta ponerse en parte que via
+          to<lb n="018" break="no"/>do quanto ania dentro del aposentillo, por ser tan
+          peque<lb n="019" break="no"/>no<reg>,</reg> que apenas cabia vna cama.</p>
+      </div>
+      
+      
+      <div>
+        <p>Grande fue el valor de
+          <lb n="020"/>don <persName>Fadrique</persName><reg>,</reg> en tal caso, porque assi como llegò
+          cer<lb n="021" break="no"/>ca<reg>,</reg> y déscubriò todo lo que dentro del aposento se
+          ha<lb n="022" break="no"/>zia, vio a su dama en vna ocasion tan terrible para el<reg>,</reg>
+          <lb n="023"/>que no sè como tuuo paciencia para sufrirla. Es el
+          ca<lb n="024" break="no"/>so<reg>,</reg> que en vna cama<reg>,</reg> que estaua en esta parte que he
+          di<lb n="025" break="no"/>cho, estaua echado vn negro<reg>,</reg> tan atezado<reg>,</reg> que parecia
+          he<lb n="026" break="no"/>cho de vn vocazi su rostro<choice><orig>, p</orig><reg>. P</reg></choice>arecia en la edad de hasta
+          <lb n="027"/>veynte y ocho<reg>,</reg> o treynta anos, mas tan feo<reg>,</reg> y
+          abomina<lb n="028" break="no"/>ble<reg>,</reg> que no sè si fue la passion<reg>,</reg> o si era la verdad, le
+          pa<lb n="029" break="no"/>reciò que el demonio no podia serlo tanto. Parecia
+          an<lb n="030" break="no"/>si mismo<reg>,</reg> en su desflaquecido semblante<reg>,</reg> que le
+          falta<lb n="031" break="no"/>ua poco para acabar la vida, porque tenia el pecho
+          me<lb n="032" break="no"/>dio leuantado, con lo que parecia mas abominable.</p></div> 
+      
+      
+      <div><p>Sento<lb n="033" break="no"/>se dona <persName>Beatriz</persName>, en entrando, sobre la cama, y poniendo
+        <lb n="034"/>sobre vna mesilla<choice><orig>,</orig><reg>(</reg></choice>que estaua junto a la cama<choice><orig>,</orig><reg>)</reg></choice> la vela<reg>,</reg> y lo
+        
+        
+        <pb n="18" xml:id="img_0018"/>
+        
+        
+        <lb n="001"/>demas que lleuaua, le empeçò a componer la cama,
+        parecien<lb n="002" break="no"/>dole en la hermosura, ella vn <choice><orig>A</orig><reg>a</reg></choice>ngel<reg>,</reg> y el vn démonio;
+        puso<lb n="003" break="no"/>le tras esto<reg>,</reg> vna de sus hermosissimas manos sobre la frente,
+        <lb n="004"/>y con enternecida<orig>,</orig> y lastimada voz<orig>,</orig> le empecò a dezir<choice><orig>,</orig><reg>:</reg></choice></p>
+      </div>
+      
+      
+      <div>
+        <p><reg>¿</reg>Co
+          <lb n="005" break="no"/>mo estas <persName>Antonio</persName><reg>?</reg><choice><orig>, n</orig> <reg>¿N</reg></choice>o me hablas mi bien<choice><orig>,</orig><reg>?</reg></choice> oye, abre los ojos,
+          <lb n="006"/>mira quam esta aqui <persName>Beatriz</persName><choice><orig>,</orig><reg>;</reg></choice> toma hijo mio, come vn bocado
+          <lb n="007"/>desta conserua, animate, por amor de mi, sino quieres que
+          <lb n="008"/>yo te acompanne en la muerte<reg>,</reg> como te he querido en la
+          vi<lb n="009" break="no"/>da. <reg>¿</reg>Oyesme amores, no quieres responderme, ni mirarme<choice><orig>,</orig><reg>?</reg></choice></p></div>
+      <div>
+        <p>
+          <lb n="010"/><choice><orig>d</orig><reg>D</reg></choice>iziendo esto, derramando por sus ojos<reg>,</reg> gruessas perlas,
+          <lb n="011"/>juntò su rostro con el del endemoniado negro, dexando
+          <lb n="012"/>a don <persName>Fadrique</persName>, que la miraua, mas muerto<reg>,</reg> que el, sin
+          <lb n="013"/>saber que hazerse<reg>,</reg> ni que dezirse<choice><orig>, v</orig><reg>. V</reg></choice>nas vezes
+          determi<lb n="014" break="no"/>nandote a perderse, y otras considerando<reg>,</reg> que lo mas
+          a<lb n="015" break="no"/>certado ena apartarse de aquella pretension.</p>
+      </div>
+      
+      
+      <div>
+        <p>Estando en
+          <lb n="016"/>esto<reg>,</reg> abriò el negro los ojos, y mirando a su ama, con
+          <lb n="017"/>voz debilitada<reg>,</reg> y flaca, le dixo, apartandola con las
+          ma<lb n="018" break="no"/>nos el rostro que tenia junto al suyo<choice><orig>,</orig><reg>:</reg></choice></p>
+      </div>
+      
+      
+      <div>
+        <p><reg>¿</reg>Que me quieres,
+          se<lb n="019" break="no"/>ñora<choice><orig>, d</orig><reg>? ¡D</reg></choice>exame ya<reg>,</reg> por <name>Dios</name><choice><orig>, q</orig><reg>! ¿Q</reg></choice> ue es esto, que aun estando ya
+          <lb n="020"/>acabando la vida, me persigues<choice><orig>, n</orig><reg>? N</reg></choice>o basta que tu viciosa
+          con<lb n="021" break="no"/>dicion me tiene como estoy, sino que quières, que
+          quan<lb n="022" break="no"/>do ya estoy en el fin de mi vida, aun acuda a cumplir tus
+          <lb n="023"/>viciosos apetitos<choice><orig>: C</orig><reg>C</reg></choice>asate, señora, casate, y dexa me <reg>ya</reg> a
+          <lb n="024"/>mi, que ni te quiero ver, ni comer lo que me das.
+          Mo<lb n="025" break="no"/>rir quiero, pues ya no estoy para otra cosa.</p>
+      </div>
+      
+      
+      <div>
+        <p>Y diziendo esto,
+          <lb n="026"/>se boluio del otro lado, sin querer responder mas a doña
+          <lb n="027"/><persName>Beatriz</persName>, aunque mas tierna<reg>,</reg> y amorosa mente le llamana, o
+          <lb n="028"/>fuesse que se murio luego, o que no quisiesse hazer caso de
+          <lb n="029"/>sus lagrimas<orig>,</orig> y palabras<reg>.</reg> Doña <persName>Beatriz</persName><reg>.</reg> cansada ya, se boluio
+          <lb n="030"/>a su quarto, la mas llorosa<reg>,</reg> y triste del mundo.</p>
+      </div>
+      
+      
+      <div>
+        <p>Don
+          <persName>Fadri<lb n="031" break="no"/>que</persName> aguardò que abriessen la puerta, y apenas la vio
+          abier<lb n="032" break="no"/>ta, quando se salio<reg>,</reg> huyendo de aquella casa<choice><orig>,</orig> <reg>(</reg></choice>peor, a su
+          <lb n="033"/>parecer, que el maldito jardin de <name>Falerina</name>, y el engaño
+          <lb n="034" break="no"/>so meson de <name>Atlante</name><choice><orig>,</orig><reg>)</reg></choice> tan llena de confusion<reg>,</reg> y abor
+          
+          
+          <pb n="19" xml:id="img_0019"/>
+          
+          
+          <lb n="001" break="no"/>recimiento, quanto primero de gusto<reg>,</reg> y gloria. Acostose en
+          <lb n="002"/>llegando a su casa, sin dezir nada a su amigo. Y saliendo a la
+          <lb n="003"/>tarde, dio vna buelta por la calle de la virtuosa viuda<reg>,</reg> mas
+          <lb n="004"/>por ver que rumor auia, a tiempo que vio sacar a enterrar
+          <lb n="005"/>el negro.</p>
+      </div>
+      
+      
+      <div>
+        <p>Boluiose a su casa, siempre guardando para si este
+          <lb n="006"/>secreto, y en tres<reg>,</reg> o quatro dias que boluio a passear la
+          ca<lb n="007" break="no"/>lle, ya no por amor, sino por ver<reg>,</reg> y enterarse mas de lo que
+          <lb n="008"/>aun no creia, aunque lo auia visto, mas nunca vio a doña
+          <lb n="009"/><persName>Beatriz</persName>, tan sentida<reg>,</reg> y retirada la tenia la muerte de su
+          ne<lb n="010" break="no"/>gro amante. Al cabo de los quales, estando sobre mesa<reg>,</reg>
+          ha<lb n="011" break="no"/>blando con su amigo, entrò vna criada de doña <persName>Beatriz</persName><choice><orig>:</orig><reg>,</reg></choice> y
+          <lb n="012"/>en viendole, con mucha cortesia<reg>,</reg> y contento, le puso en sus
+          <lb n="013"/>manos vn papel, que dezia assi<choice><orig>.</orig><reg>:</reg></choice></p></div>
+      <div>
+        <p>
+          <lb n="014"/>Donde ay voluntad, poco siruen los terceros<choice><orig>,</orig><reg>. De</reg></choice> la vuestra
+          <lb n="015"/>estoy satisfecha, y de vuestras finezas pagada, y assi no
+          quie<lb n="016" break="no"/>ro aguardar lo que falta del ano<reg>,</reg> para daros la merecida
+          <lb n="017"/>possession de mi persona<reg>,</reg> y hazienda<choice><orig>, q</orig><reg>. Q</reg></choice>uando quisieredes
+          <lb n="018"/>se podra efetuar nuestro matrimonio, con las condiciones
+          <lb n="019"/>que fueredes seruido, porque mi amor<reg>,</reg> y vuestro
+          mereci<lb n="020" break="no"/>miento, no me dexan reparar en nada. <name>Dios</name> os guarde<reg>(</reg>co
+          <lb n="021" break="no"/>mo desseo<reg>)</reg>.
+          <lb n="022"/><choice><orig>D</orig><reg>d</reg></choice>oña <persName>Beatriz</persName>.</p></div>
+      <div>
+        <p>
+          <lb n="023"/>Tres o quatro vezes leyò don <persName>Fadrique</persName> este papel, y aun
+          <lb n="024"/>no acabaua de creer tal, y assi no hazia mas que darle
+          buel<lb n="025" break="no"/>tas<reg>,</reg> y en su coraçon admirarse de lo que le sucedia, que ya
+          <lb n="026"/>dos vezes auia estado a pique de caer en tanta afrenta, y
+          tan<lb n="027" break="no"/>tas le auia descubierto el cielo secretos tan importantes. Y
+          <lb n="028"/>como viesse claro que la determinada resolucion de doña
+          <lb n="029"/><persName>Beatriz</persName><reg>,</reg> nacia de auer faltado su negro amante, en vn
+          pun<lb n="030" break="no"/>to hizo la suya<reg>,</reg> y se resoluio a vna determinacion honrada,
+          <lb n="031"/>y diziendo a la criada<reg>,</reg> que se aguardasse, salio a otra sala, y
+          <lb n="032"/>llamando a su amigo, le dixo estas bręues razones<choice><orig>.</orig><reg>:</reg></choice></p>
+      </div>
+      
+      
+      <div>
+        <p>Amigo,
+          <lb n="033"/>a mi me importa la vida<reg>,</reg> y la honra<reg>,</reg> salir dentro de vna
+          ho<lb n="034" break="no"/>ra de <placeName>Seuilla</placeName>, y no me ha de acompanar mas que el criado
+          
+          
+          <pb n="20" xml:id="img_0020"/>
+          
+          
+          <lb n="001"/>que traxe de <placeName>Granada</placeName>. Y essa ropa que ahi queda vendereys
+          <lb n="002"/>despues de auerme partido, y pagareys con el dinero quam
+          die<lb n="003" break="no"/>ren por ella<reg>,</reg> a los demas criados. El porque<reg>,</reg> y como, no os
+          <lb n="004"/>puedo dezir, porque ay opiniones de por medio<choice><orig>, y</orig><reg>. Y</reg></choice>o os
+          escri<lb n="005" break="no"/>uirè donde hiziere assiento. Esto me importa, ni me
+          repli<lb n="006" break="no"/>queys<reg>,</reg> ni me pregunteys, sino que mientras escriuo vn
+          pa<lb n="007" break="no"/>pel, me busqueys dos mulas, y no querays saber, por aora,
+          <lb n="008"/>mas.</p>
+      </div>
+      
+      
+      <div>
+        <p>Y luego, escriuiendo vn papel a dona <persName>Beatriz</persName>, y
+          dando<lb n="009" break="no"/>le a la criada que lleuasse a su ama<choice><orig>;</orig><reg>, y</reg></choice> auiendole ya traydo las
+          <lb n="010"/>mulas, se puso de camino<choice><orig>,</orig><reg>;</reg></choice> y saliendo de <placeName>Seuilla</placeName>, tomò el de
+          <lb n="011"/><placeName>Madrid</placeName>, con su antiguo tema<reg>,</reg> de abominar de las mugeres
+          <lb n="012"/>discretas, que fiadas en su saber<reg>,</reg> procurauan engañar a los
+          <lb n="013"/>hombres.</p>
+      </div>
+      
+      
+      <div>
+        <p>Dexemosle ir hasta su tiempo<reg>,</reg> y boluamos a
+          do<lb n="014" break="no"/>ña <persName>Beatriz</persName>, que en recibiendo el papel<reg>,</reg> le abriò, y
+          leyendo<lb n="015" break="no"/>le, vio que dezia assi:</p></div>
+      <div>
+        <p>
+          <lb n="016"/>La voluntad que yo he tenido a <choice><orig>V. m.</orig><reg>Vuestra merced</reg></choice> no ha sido solo con
+          <lb n="017"/>desseo de posseer su belleza, porquam he lleuado la mira a su
+          hon<lb n="018" break="no"/>ra<reg>,</reg> y opinion, como lo han dicho mis recatos<reg>,</reg> y finezas<choice><orig>, y</orig> <reg>. Y</reg></choice>o, seño
+          <lb n="019" break="no"/>ra mia, soy algo escrupuloso<reg>,</reg> y harè cargo de conciencia<reg>,</reg> en quam
+          <lb n="020"/><choice><orig>V. m.</orig><reg>Vuestra merced</reg></choice><reg>,</reg> viuda de anteayer, se case oy<choice><orig>, a</orig> <reg>. A</reg></choice>guarde <choice><orig>V. m.</orig><reg>Vuestra merced</reg></choice> si quiera
+          o<lb n="021" break="no"/>tro ano, a su negro mal logrado, que a su tiempo se tratarâ de
+          <lb n="022"/>lo que <choice><orig>V. m.</orig><reg>Vuestra merced</reg></choice> dize<choice><orig>:</orig><reg>,</reg></choice> cuya vida guarde y consuele el cielo<choice><orig>,</orig><reg>.</reg></choice></p></div>
+      <div>
+        <p>
+          <lb n="023"/>Pensò dona <persName>Beatriz</persName> perder<reg>,</reg> con este papel<reg>,</reg> su juyzio, mas
+          <lb n="024"/>viendo quam ya don <persName>Fadrique</persName> era ydo, dio el si a vn cauallero que
+          <lb n="025"/>le auiam propuesto, remediando con el marido la falta del
+          muer<lb n="026" break="no"/>to amante.</p>
+      </div>
+      
+      
+      <div>
+        <p>Por sus jornadas contadas, como dizem, llegò don
+          <persName>Fa<lb n="027" break="no"/>drique</persName><reg>,</reg> a <placeName>Madrid</placeName>,y fuesse a possar a los barrios del <name>Carmen</name>,
+          <lb n="028"/>en casa de vn tio suyo<reg>,</reg> quam tenia alli casas proprias. Era este
+          <lb n="029"/><choice><orig>C</orig><reg>c</reg></choice>auallero rico<reg>,</reg> y tenia<reg>,</reg> para heredero de su hazienda<reg>,</reg> vn
+          so<lb n="030" break="no"/>lo hijo<reg>,</reg> llamado don <persName><choice><orig>Iuan</orig><reg>Juan</reg></choice></persName>, gallardo moço, y de mas de su
+          ta<lb n="031" break="no"/>lle, discreto, alentado, y muy afable. Teniale su padre
+          despo<lb n="032" break="no"/>sado con vna prima suya muy rica, aunquam el matrimonio se
+          di<lb n="033" break="no"/>lataua<reg>,</reg> hasta quam la nouia tuniesse edad, porquam la quam en este
+          tiem<lb n="034" break="no"/>po alcangaua era diez anos.</p>
+      </div>
+      
+      
+      <div>
+        <p>Con este cauallero tomò don <persName>Fadri
+          
+          
+          <pb n="21" xml:id="img_0021"/>
+          
+          <lb n="001" break="no"/>que</persName> tanta amistad<orig>,</orig> quam passaua el amor del parentesco, quam en pocos
+          <lb n="002"/>dias se tratauam como hermanos. Andaua don <persName><choice><orig>Iuan</orig><reg>Juan</reg></choice></persName> muy
+          melam<lb n="003" break="no"/>colico, en lo qual reparando don <persName>Fadrique</persName>, despues de
+          auer<lb n="004" break="no"/>le obligado<reg>,</reg> con darle quenta de su vida<reg>,</reg> y sucessos, sin nonbrar
+          <lb n="005"/>partes, por parecerle quam no es verdadera amistad la quam tiene
+          <lb n="006"/>reseruado algun secreto a su amigo, le rogò quam le dixesse de
+          <lb n="007"/>quam le procedia aquella tristeza, porquam en su alegre condicion
+          <lb n="008"/>era muy de notar.</p>
+      </div>
+      
+      
+      <div>
+        <p>Don <persName><choice><orig>Iuan</orig><reg>Juan</reg></choice></persName>quam no desseaua otra cosa<orig>,</orig> por
+          sen<lb n="009" break="no"/>tir menos su mal<reg>,</reg> comunicandole, le respondio a sus
+          pregun<lb n="010" break="no"/>tas, estas breues, y sucintas palabras:</p>
+      </div>
+      
+      
+      <div>
+        <p>Amigo don <persName>Fadrique</persName>, yo
+          <lb n="011"/>amo tiernissimamente vna dama desta Corte, a la qual
+          dexa<lb n="012" break="no"/>ron sus padres<reg>,</reg> quando murierom<reg>,</reg> mucha hazienda, con obligacion
+          <lb n="013"/>quam se casasse con vn primo suyo, quam està en <placeName>Indias</placeName><choice><orig>, n</orig><reg>. N</reg></choice>o ha
+          llega<lb n="014" break="no"/>do nuestro amor a mas quam vna honesta conuersaciom, reseruando
+          <lb n="015"/>el premio del<reg>,</reg> para quando venga su esposo, porquam aora ni su
+          <lb n="016"/>estado<reg>,</reg> ni el mio dan lugar a mas amorosas trauesuras, pues
+          <lb n="017"/>aunquam no gozo de mi esposa, <reg>(</reg>en fin<reg>)</reg> me sirue de cadena para
+          <lb n="018"/>no poder disponer de mi. Deziros su hermosura, serà querer
+          <lb n="019"/>cifrar a la misma belleza en vna breue suma, pues su
+          enten<lb n="020" break="no"/>dimiento es tan por estremo, que en letras humanas, no ay
+          <lb n="021"/>quien la auentage. Finalmente doña <persName>Ana</persName>, que este es su
+          nom<lb n="022" break="no"/>bre, es el milagro desta edad, porquam ella, y doña <persName>Violante</persName> su
+          <lb n="023"/>prima, son las <persName>Sebilas</persName> de <placeName>España</placeName>, entrambas bellas,
+          entram<lb n="024" break="no"/>bas discretas, musicas, <choice><orig>P</orig><reg>p</reg></choice>oetas.Y en fin en ellas dos se
+          ha<lb n="025" break="no"/>lla lo que en razon de belleza<reg>,</reg> y discrecion<reg>,</reg> està repartido
+          <lb n="026"/>en todas las mugeres del mundo. Hanle dicho a doña
+          <persName>A<lb n="027" break="no"/>na</persName><reg>,</reg> que yo galanteo vna dama<reg>,</reg> cuyo nombre es <persName>Nis<choice><orig>a</orig><reg>e</reg></choice></persName>,
+          por<lb n="028" break="no"/>que el <choice><orig>D</orig><reg>d</reg></choice>omingo passado me vieron hablar con ella en <placeName><choice><orig>s</orig><reg>S</reg></choice>an</placeName>
+          <lb n="029"/><placeName>Gines</placeName>, donde acude. En fin, muy zelosa, me dixo ayer<reg>,</reg> que
+          <lb n="030"/>me estuuiesse en mi casa<reg>,</reg> y no boluiesse en mi vida a la
+          su<lb n="031" break="no"/>ya<choice><orig>, Y</orig><reg>; y</reg></choice> porque sabe que me abraso de zelos, quando
+          nom<lb n="032" break="no"/>bra a su esposo, porque<reg>,</reg> aunque ha de ser el el
+          mediane<lb n="033" break="no"/>ro de mi ventura, con todo, no quisiera versa en otro
+          po<lb n="034" break="no"/>der que el mio, me dixo, que en solo el adora, y que le es
+          
+          
+          <pb n="22" xml:id="img_0022"/>
+          
+          
+          <lb n="001" break="no"/>pera con mucho gusto<reg>,</reg> y cuydado. Escriuile sobre esto vn
+          pa<lb n="002" break="no"/>pel, y en su respuesta me embio otro, que es este, porque
+          <lb n="003"/>en hazer versos es tan estremada como en lo demas.</p>
+      </div>
+      
+      
+      <div>
+        <p>Esto
+          <lb n="004"/>dixo, sacando vn papel, el qual<reg>,</reg> tomandole don <persName>Fadrique</persName>,
+          <lb n="005"/>vio que dezia assi<choice><orig>.</orig><reg>:</reg></choice></p></div>
+      <lb n="006"/><div><lg n="5"><l>Tus sinrazones, <persName>Lisardo</persName>,</l>
+        <lb n="007"/><l>son tantas, que ya me fuerça</l>
+        <lb n="008"/><l>mi agrauio a darte la culpa,</l>
+        <lb n="009"/><l>y tomarme yo la pena.</l>
+        <lb n="010"/><l>Mas no me quiero poner</l>
+        <lb n="011"/><l>con tu ingratitud en quentas,</l>
+        <lb n="012"/><l>porque siempre los ingratos</l>
+        <lb n="013"/><l>zeros por numeros dexan.</l>
+        <lb n="014"/><l>Preside apetito solo,</l>
+        <lb n="015"/><l><persName>Lisardo</persName>, y es bien que tema,</l>
+        <lb n="016"/><l>que quentas de obligaciones,</l>
+        <lb n="017"/><l>a todas horas las niega.</l>
+        <lb n="018"/><l>Y assi no quiero traerte</l>
+        <lb n="019"/><l>a la memoria mis penas,</l>
+        <lb n="020"/><l>pues jamas diste recibo</l>
+        <lb n="021"/><l>de cosa que tanto pesa.</l>
+        <lb n="022"/><l>Vayan al ayre suspiros,</l>
+        <lb n="023"/><l>pues lo son, y no se metan</l>
+        <lb n="024"/><l>en contar, pues no los llaman;</l>
+        <lb n="025"/><l>quantos sus millares sean.</l>
+        <lb n="026"/><l>Las lagrimas a la mar,</l>
+        <lb n="027"/><l>los cuydados a mis quexas,</l>
+        <lb n="028"/><l>y mi aficion a tu yelo,</l>
+        
+        <!--<pb n="23" xml:id="img_0023"/>-->
+        
+        <lb n="001"/><l><pb n="23" xml:id="img_0023"/> para que quede sin fuerça.</l>
+        <lb n="002"/><l>Dezir, <persName>Lisardo</persName>, que yo,</l>
+        <lb n="003"/><l>por entretener ausencias,</l>
+        <lb n="004"/><l>esfueręo tu voluntad,</l>
+        <lb n="005"/><l>enganante tus quimeras.</l>
+        <lb n="006"/><l>Si quisiera entretenerme,</l>
+        <lb n="007"/><l>pastores tiene el aldea,</l>
+        <lb n="008"/><l>que aunque les doy disfauores,</l>
+        <lb n="009"/><l>mis pobres partes celebran,</l>
+        <lb n="010"/><l>En que pudiera escoger</l>
+        <lb n="011"/><l>alguno que me tuuiera,</l>
+        <lb n="012"/><l>con amor entretenida,</l>
+        <lb n="013"/><l>y con interes contenta.</l>
+        <lb n="014"/><l>Y tu, <persName>Lisardo</persName>, aunque alcanças</l>
+        <lb n="015"/><l>fauores que otros dessean,</l>
+        <lb n="016"/><l>tan solo no los estimas,</l>
+        <lb n="017"/><l>sino que ya los desprecias.</l>
+        <lb n="018"/><l><persName>Lisardo</persName>, creyera yo,</l>
+        <lb n="019"/><l>que de muger de mis prendas,</l>
+        <lb n="020"/><l>con solo vn mirar suaue,</l>
+        <lb n="021"/><l>fauor, y premio te diera.</l>
+        <lb n="022"/><l>Mas comosiempre quisiste</l>
+        <lb n="023"/><l>ser ingrato a mis finezas,</l>
+        <lb n="024"/><l>ni estimas mi voluntad,</l>
+        <lb n="025"/><l>ni con la tuya me premias.</l>
+        <lb n="026"/><l>Que no sabes que es amor,</l>
+        <lb n="027"/><l>tengo por cosa muy cierta,</l>
+        
+        
+        
+        <!--<pb n="24" xml:id="img_0024"/>-->
+        
+        <lb n="001"/><l><pb n="24" xml:id="img_0024"/> no has entrado en los principios</l>
+        <lb n="002"/><l>y ya los fines desseas.</l>
+        <lb n="003"/><l>Lo que dà lugar mi estado,</l>
+        <lb n="004"/><l>te fauorezco, no quieras</l>
+        <lb n="005"/><l>quam me alargue a mas, si el tuyo</l>
+        <lb n="006"/><l>tiene a mi gusto la rienda.</l>
+        <lb n="007"/><l>Ya temes que el mayoral,</l>
+        <lb n="008"/><l>que ha de ser mi dueño, venga,</l>
+        <lb n="009"/><l>si tu remedio aborrezes,</l>
+        <lb n="010"/><l><persName>Lisardo</persName>, <reg>¿</reg>de que te quexas<choice><orig>.</orig><reg>?</reg></choice></l>
+        <lb n="011"/><l>Pides salud, y si aplico</l>
+        <lb n="012"/><l>el remedio, desesperas,</l>
+        <lb n="013"/><l>esso es querer que te sangren,</l>
+        <lb n="014"/><l>sin que te rompan la vena.</l>
+        <lb n="015"/><l>Lo cierto es, que ya <persName>Lisardo</persName>,</l>
+        <lb n="016"/><l>te mata nueua belleza,</l>
+        <lb n="017"/><l>y hazes mi amor achacoso,</l>
+        <lb n="018"/><l>ya lo entiendo, no soy necia.</l>
+        <lb n="019"/><l><reg>¡</reg>Maldiga, <persName>Lisardo</persName> el cielo,</l>
+        <lb n="020"/><l>a quien, con gracias agenas,</l>
+        <lb n="021"/><l>a lo que adora, enamora,</l>
+        <lb n="022"/><l>tal como a mile suceda<choice><orig>.</orig><reg>!</reg></choice></l>
+        <lb n="023"/><l>Canta el musico en la calle,</l>
+        <lb n="024"/><l>haze versos el <choice><orig>P</orig><reg>p</reg></choice>oeta,</l>
+        <lb n="025"/><l>y apassionase la dama,</l>
+        <lb n="026"/><l>y oluida al que la requiebra.</l>
+        <lb n="027"/><l>Ya conozco tus enganos,</l>
+        
+        
+        
+        <!--<pb n="25" xml:id="img_0025"/>-->
+        
+        <lb n="001"/><l><pb n="25" xml:id="img_0025"/> ya conozco tus cautelas,</l>
+        <lb n="002"/><l>mas pues yo te alabè a <persName>Nise</persName>,</l>
+        <lb n="003"/><l><reg>¡</reg>que mucho que tu la quieras<choice><orig>.</orig><reg>!</reg></choice></l>
+        <lb n="004"/><l>Gozes, ingrato <persName>Lisardo</persName>,</l>
+        <lb n="005"/><l>mil anos de su belleza,</l>
+        <lb n="006"/><l>tantos fauores te rinda,</l>
+        <lb n="007"/><l>como a mi me matan penas,</l>
+        <lb n="008"/><l>Beue sus dulces enganos,</l>
+        <lb n="009"/><l>los mios amargos dexa,</l>
+        <lb n="010"/><l>que yo al templo de mi fe</l>
+        <lb n="011"/><l>pienso colgar la cadena.</l>
+        <lb n="012"/><l>Desde alli estare mirando</l>
+        <lb n="013"/><l>como el que mira al que juegas</l>
+        <lb n="014"/><l>el naype en que te auenturas,</l>
+        <lb n="015"/><l>tu verdad, y <choice><orig>s</orig><reg>[t]</reg></choice>u cautela.</l>
+        <lb n="016"/><l>No me quexo deste agrauio,</l>
+        <lb n="017"/><l><persName>Lisardo</persName>, porque mis quexas,</l>
+        <lb n="018"/><l>no te bolueran amante,</l>
+        <lb n="019"/><l>y es darte vengança en ellas.</l>
+        <lb n="020"/><l>Tu estàs muy bien empleado,</l>
+        <lb n="021"/><l>porque sus tiznadas hebras;</l>
+        <lb n="022"/><l>es euano en que se engasta</l>
+        <lb n="023"/><l>su hermosura, y tus finezas.</l>
+        <lb n="024"/><l>Sus ojos negros, luzeros,</l>
+        <lb n="025"/><l>en cuyas niñas trauiessas,</l>
+        <lb n="026"/><l>hallara tu guerra paz,</l>
+        <lb n="027"/><l>y bonança tu tormenta.</l>
+        
+        
+        
+        <!--<pb n="26" xml:id="img_0026"/>-->
+        <lb n="001"/><l><pb n="26" xml:id="img_0026"/> Tu vestiràs sus colores,</l>
+        <lb n="002"/><l>con que saldras, aunque negras,</l>
+        <lb n="003"/><l>mas galan, que con las mias,</l>
+        <lb n="004"/><l>pues, con gusto, las desprecias.</l>
+        <lb n="005"/><l>Podras tomar por deuoto,</l>
+        <lb n="006"/><l>para aliuio de tus penas,</l>
+        <lb n="007"/><l>al glorioso san <persName>Gines</persName>,</l>
+        <lb n="008"/><l>que es de tu <persName>Nise</persName> la <choice><orig>I</orig><reg>i</reg></choice>glesia.</l>
+        <lb n="009"/><l>Con esto pido al amor,</l>
+        <lb n="010"/><l>de tu inconstancia se duela,</l>
+        <lb n="011"/><l><name>Dios</name> te guarde de mi casa,</l>
+        <lb n="012"/><l>la que tu gusto dessea.</l></lg></div>
+      <div>
+        <p>
+          <lb n="013"/>No ay mucho que temer a este enemigo (dixo, acabando
+          <lb n="014"/>de leer el papel, don <persName>Fadrique</persName>) porque<reg>,</reg> a lo que muestra,
+          <lb n="015"/>mas rendida estâ, que furiosa. La muger escriue bien, y si<reg>,</reg>
+          <lb n="016"/>como dezis, es tan hermosa, hazeys mal en no conseruar su
+          <lb n="017"/>amor<reg>,</reg> hasta coger el premio del.</p>
+      </div>
+      
+      
+      <div>
+        <p>Esto es (respondio don <persName><choice><orig>luan</orig><reg>Juan</reg></choice></persName>)
+          <lb n="018"/>vna tilde, vn rasguno, vna nada, conforme a lo que ay en ella
+          <lb n="019"/>de belleza<reg>.</reg> y discrecion, porque ha sido<reg>,</reg> muchas vezes<reg>,</reg>
+          lla<lb n="020" break="no"/>mada la <choice><orig>Sebila</orig><reg>Sibila</reg></choice> <choice><orig>E</orig><reg>e</reg></choice>spañola.</p>
+      </div>
+      
+      
+      <div>
+        <p>Por <name>Dios</name>, primo (replicò don
+          <persName>Fa<lb n="021" break="no"/>drique</persName>) que temo a las mugeres que son tan sabias<reg>,</reg> mas que
+          <lb n="022"/>a la muerte, que quisiera hallar vna que ignorarâ las cosas
+          <lb n="023"/>del mundo, al p<choice><orig>e</orig><reg>[a]</reg></choice>so que essa las comprehende, y si la hallâra,
+          <lb n="024"/><reg>¡</reg>viue <name>Dios</name><reg>!</reg> que me auia de emplear en seruirla, y amarla;
+          <lb n="025"/>mas ya son todas tan agudas, que no ay quien las alcance<choice><orig>,</orig><reg>.</reg></choice>
+          <lb n="026"/><choice><orig>t</orig><reg>T</reg></choice>odas saben amar<reg>,</reg> y engañar<choice><orig>;</orig><reg>,</reg></choice> y assi me tienen tan
+          escarmen<lb n="027" break="no"/>tado las discretas<reg>,</reg> que desseo tener batalla con vna boba.</p></div>
+      <div>
+        <p>
+          <lb n="028"/><choice><orig>No l</orig><reg>L</reg></choice>o dezis de veras (dixe don <persName><choice><orig>luan</orig><reg>Juan</reg></choice></persName>) porque no se que
+          ho<lb n="029" break="no"/>bre apetece vna muger necia, no solo para aficionarse, mas
+          <lb n="030"/>para comunicarla vn quarto de hora; pues dizen que los quam
+          
+          
+          <pb n="27" xml:id="img_0027"/>
+          
+          
+          <lb n="001"/>en el mundo son mas celebrados<reg>,</reg> que el entendimiento es
+          <lb n="002"/>manjar del alma<choice><orig>;</orig><reg>,</reg></choice> pues mientras los ojos se ceuan en la
+          blan<lb n="003" break="no"/>cura, en las vellas manos, eu los lindos ojos, y en la
+          gallar<lb n="004" break="no"/>dia del cuerpo<choice><orig>: Y</orig><reg>, y</reg></choice>finalmente en todo aquello, digno de
+          a<lb n="005" break="no"/>mado, en la dama<choice><orig>. N</orig><reg>, n</reg></choice>o es razon que el alma, no solo estè de
+          <lb n="006"/>balde, sino que no se mantenga de cosas tan pesadas, y
+          en<lb n="007" break="no"/>fadosas<reg>,</reg> como las necedades, pues siendo el alma tan pura
+          <lb n="008"/>criatura, no la hemos de dar manjares grosseros.</p>
+      </div>
+      
+      
+      <div>
+        <p>Aora
+          dexe<lb n="009" break="no"/>mos esta disputa (dixo don <persName>Fadrique</persName>) que en esso ay mucho
+          <lb n="010"/>que dezir, que yo se lo que en este caso me conuiene, y
+          res<lb n="011" break="no"/>pondamos a doña <persName>Ana</persName>, aunque mejor respuesta era ir a
+          ver<lb n="012" break="no"/>la<choice><orig>;</orig><reg>,</reg></choice> pues no la ay mas tierna<reg>,</reg> y de mas sentimiento<reg>,</reg> que la
+          <lb n="013"/>misma persona, y mas que desseo ver si me haze sangre su
+          <lb n="014"/><choice><orig>P</orig><reg>p</reg></choice>rima<reg>,</reg> para entretenerme con ella el tiempo que he de estar
+          <lb n="015"/>en <placeName>Madrid</placeName>.</p>
+      </div>
+      
+      
+      <div>
+        <p>Vamos allà (dixo don <persName><choice><orig>luan</orig><reg>Juan</reg></choice></persName>,) que si os he de
+          con<lb n="016" break="no"/>fessar verdad, por <name>Dios</name> que lo desseo<choice><orig>:</orig><reg>;</reg></choice> mas aduertid que
+          do<lb n="017" break="no"/>ña <persName>Violante</persName> no es necia, y si es que por esta parte os
+          desa<lb n="018" break="no"/>gradan las mugeres, no teneys que ir alla.</p>
+      </div>
+      
+      
+      <div>
+        <p>Acomodareme
+          <lb n="019"/>con el tiempo (respondio don <persName>Fadrique</persName>).</p>
+      </div>
+      
+      
+      <div>
+        <p>Con esto, de
+          con<lb n="020" break="no"/>formidad<reg>,</reg> se fueron a ver las hermosas <choice><orig>P</orig><reg>p</reg></choice>rimas, de las
+          qua<lb n="021" break="no"/>les fueron recebidos con mucho gusto, si bien doña <persName>Ana</persName>
+          es<lb n="022" break="no"/>taua como zelosa, cahareña aunque tuuo muy poco que
+          ha<lb n="023" break="no"/>zer don <persName><choice><orig>luan</orig><reg>Juan</reg></choice></persName> en quitarla el ceño<reg>,</reg></p>
+      </div>
+      
+      
+      <div>
+        <p><choice><orig>v</orig><reg>V</reg></choice>io don <persName>Fadrique</persName> a
+          <persName>Vio<lb n="024" break="no"/>lante</persName>, y pareciole vna de las mas bellas damas que hasta
+          <lb n="025"/>entonces auia visto, aunque entrassen en ellas <persName>Seraphina</persName> y
+          <lb n="026"/>dona <persName>Beatriz</persName>. Estauase retratando (curiosidad vsada en la
+          <name>Cor<lb n="027" break="no"/>te</name>) y para esta ocasion<reg>,</reg> estaua tan bien adereçada<reg>,</reg> que
+          pare<lb n="028" break="no"/>ce quam de proposito<reg>,</reg> para rendir a don <persName>Fadrique</persName><reg>,</reg> se auia
+          ves<lb n="029" break="no"/>tido con tanta curiosidad y riqueza. Tenia puesta vna saya
+          <lb n="030"/>entera negra, toda quajada de l<choice><orig>a</orig><reg>e</reg></choice>ntejuelas<reg>,</reg> y votones de oro
+          <lb n="031"/>cintura y collar de diamantes, y <reg>(</reg>en su cabeça<reg>)</reg> vn apretador de
+          <lb n="032"/>rubies. A cuyo assunto, despues de muchas cortesias,
+          tomany<lb n="033" break="no"/>do don <persName>Fadrique</persName> vna <choice><orig>G</orig><reg>g</reg></choice>uitarra, cantò este <choice><orig>R</orig><reg>r</reg></choice>omance, de quien
+          <lb n="034"/>las musas le hiziero gracia como quien era tan <reg>su</reg> amigo<choice><orig>.</orig><reg>:</reg></choice></p></div>
+      
+      
+      
+      <!--<pb n="28" xml:id="img_0028"/>-->
+      
+      <lb n="001"/><div><lg n="6"><l><pb n="28" xml:id="img_0028"/> <name>Zagala</name> cuya hermosura,</l>
+        <lb n="002"/><l>mata, enamora, y alegra,</l>
+        <lb n="003"/><l>siendo del cielo milagro;</l>
+        <lb n="004"/><l>y gloria de nuestra aldea.</l>
+        <lb n="005"/><l><reg>¿</reg>Que pinzel aura tan sabio,</l>
+        <lb n="006"/><l>supuesto que <persName>Apeles</persName> sea,</l>
+        <lb n="007"/><l>el que le gouierna, y rige,</l>
+        <lb n="008"/><l>para imitar tu belleca<choice><orig>.</orig><reg>?</reg></choice></l>
+        <lb n="009"/><l><reg>¿</reg>Que rayos, aunque el del <name>Sol</name>,</l>
+        <lb n="010"/><l>nos de los de su madexa,</l>
+        <lb n="011"/><l>que igualen a la hermosura</l>
+        <lb n="012"/><l>dessas tus castañas trenças<choice><orig>.</orig><reg>?</reg></choice></l>
+        <lb n="013"/><l><reg>¿</reg>Que luzes a las que miro,</l>
+        <lb n="014"/><l>en essas claras estrellas</l>
+        <lb n="015"/><l>vissumbre que a los diamantes</l>
+        <lb n="016"/><l>eclipsan sus luzes bellas<choice><orig>.</orig><reg>?</reg></choice></l>
+        <lb n="017"/><l><reg>¿</reg>Que acucenas a tu frente,</l>
+        <lb n="018"/><l>que arcos de amor a tus cejas,</l>
+        <lb n="019"/><l>que viras a tus pestanas,</l>
+        <lb n="020"/><l>a tu vista que saetas<choice><orig>.</orig><reg>?</reg></choice></l>
+        <lb n="021"/><l><reg>¿</reg>Que <choice><orig>R</orig><reg>r</reg></choice>osas <choice><orig>A</orig><reg>a</reg></choice>lexandrinas,</l>
+        <lb n="022"/><l>a tus mexillas, pues quedan</l>
+        <lb n="023"/><l>a su encarnado, vencidas,</l>
+        <lb n="024"/><l>a su hermosura sugetas<choice><orig>.</orig><reg>?</reg></choice></l>
+        <lb n="025"/><l><reg>¿</reg>Que rubis con essos labios,</l>
+        <lb n="026"/><l>sin duda <name>Zagala</name> que eran</l>
+        <lb n="027"/><l>con los finos de tu boca,</l>
+        
+        
+        
+        <!--<pb n="29" xml:id="img_0029"/>-->
+        
+        <lb n="001"/><l><pb n="29" xml:id="img_0029"/> falsos los de tu cabeca</l>
+        <lb n="002" break="no"/><l>Tus palabras son claueles,</l>
+        <lb n="003"/><l>y tus blancos dientes, perlas,</l>
+        <lb n="004"/><l>de las que, llorando el <name>Alua</name>,</l>
+        <lb n="005"/><l>borda los campos con ellas.</l>
+        <lb n="006"/><l>Cristal, tu hermosa garganta,</l>
+        <lb n="007"/><l>coluna en que se sustenta</l>
+        <lb n="008"/><l>vn cielo donde amor viue,</l>
+        <lb n="009"/><l>si como <name>Dios</name> se aposenta.</l>
+        <lb n="010"/><l><reg>¿</reg>Que meue iguala a essas manos,</l>
+        <lb n="011"/><l>en cuyas neuadas sierras,</l>
+        <lb n="012"/><l>los atreuidos se pierden,</l>
+        <lb n="013"/><l>quando passar las intentan<choice><orig>.</orig><reg>?</reg></choice></l>
+        <lb n="014"/><l>De lo que encubre el vestido,</l>
+        <lb n="015"/><l>çagala hermosa quisiera,</l>
+        <lb n="016"/><l>dezir muchas alabanças,</l>
+        <lb n="017"/><l>mas no se atreue mi lengua.</l>
+        <lb n="018"/><l>Que si, qual otra <persName>Campaspe</persName>,</l>
+        <lb n="019"/><l>mostrays tan diuinas prendas,</l>
+        <lb n="020"/><l><reg>¡</reg>ay del <persName>Apeles</persName> que os mira,</l>
+        <lb n="021"/><l>y sin esperança del las<choice><orig>.</orig><reg>!</reg></choice></l>
+        <lb n="022"/><l>Dezid, çagala al <persName>Apeles</persName>,</l>
+        <lb n="023"/><l>cuyos pinzeles se empleans</l>
+        <lb n="024"/><l>en trasladar de esse cielo,</l>
+        <lb n="025"/><l>vuestra hermosura a la tierra.</l>
+        <lb n="026"/><l>Que el, y yo seremos cortos,</l>
+        <lb n="027"/><l>pinzel, y pluma se quedan,</l>
+        
+        
+        <pb n="30" xml:id="img_0030"/>
+        
+        
+        <lb n="001"/><l>sin saber sacar la estampa,</l>
+        <lb n="002"/><l>que al natural se parezca.</l>
+        <lb n="003"/><l>Pues el molde en que os formò</l>
+        <lb n="004"/><l>la sabia naturaleza,</l>
+        <lb n="005"/><l>ya el mundo no le possee,</l>
+        <lb n="006"/><l>porque otra qual vos no tenga.</l>
+        <lb n="007"/><l>Diamantes, oro, cristal,</l>
+        <lb n="008"/><l>luzeros, rosa, acucenas,</l>
+        <lb n="009"/><l>cielos, estrellas, rubies,</l>
+        <lb n="010"/><l>claueles, jazmines, perlas,</l>
+        <lb n="011"/><l>Todo en vuestra presencia,</l>
+        <lb n="012"/><l>pierde el valor, y sin belleza queda,</l>
+        <lb n="013"/><l><reg>¿</reg>Que pinzel, ni que pluma,</l>
+        <lb n="014"/><l>haran de tal belleza breue suma<choice><orig>.</orig><reg>?</reg></choice></l></lg></div>
+      <div>
+        <p>
+          <lb n="015"/>Encarecieron doña <persName>Ana</persName><reg>,</reg> y su prima<orig>,</orig> la voz&gt;<reg>,</reg> y los versos
+          <lb n="016"/>de don <persName>Fadrique</persName>, y mas doña <persName>Violante</persName>, que como se sintiò
+          <lb n="017"/>alabar, empeçô a mirar bien al <name>Granadino</name>, dexando desde
+          <lb n="018"/>esta tarde empeçado el juego en la mesa de <persName>Cupido</persName>, y <reg>[a]</reg> don
+          <lb n="019"/><persName>Fadrique</persName> tan aficionado&gt;<reg>,</reg> y perdido, que por entonces no
+          <lb n="020"/>siguio la opinion de aborrezer las discretas&gt;<reg>,</reg> y temer las
+          as<lb n="021" break="no"/>tutas, porque otro dia, antes de ir con don <persName><choice><orig>luan</orig><reg>Juan</reg></choice></persName>&gt;<reg>,</reg> a casa de
+          <lb n="022"/>las bellas primas, embiò a doña <persName>Ana</persName> este papel&gt;<choice><orig>.</orig><reg>:</reg></choice></p></div>
+      <lb n="023"/><div><lg n="7"><l>Por cuerda os tiene amor en su instrumento,</l>
+        <lb n="024"/><l>bella, y diuina prima, y tanto estima</l>
+        <lb n="025"/><l>vuestro suaue son, que ya de prima,</l>
+        <lb n="026"/><l>os leuanta a tercera, y muda intento.</l>
+        <lb n="027"/><l>Discreto fue de amor el pensamento,</l>
+        <lb n="028"/><l>y con vuestro valor tanto se anima,</l>
+        
+        
+        
+        <!--<pb n="31" xml:id="img_0031"/>-->
+        
+        
+        <lb n="001"/><l><pb n="31" xml:id="img_0031"/> que siendo prima, quiere que se imprima</l>
+        <lb n="002"/><l>en vuestro ser tan soberano acento.</l>
+        <lb n="003"/><l>Baxar a prima suele vna tercera,</l>
+        <lb n="004"/><l>mas siendo prima, el ser tercera, es cosa</l>
+        <lb n="005"/><l>diuina, nueua, milagrosa, y rara.</l>
+        <lb n="006"/><l>Y digo, que si <persName>Orfeo</persName> mereciera</l>
+        <lb n="007"/><l>hazer con vos su musica diuina,</l>
+        <lb n="008"/><l>a los que adormecia, enamorara:</l>
+        <lb n="009"/><l>Mas, pluma mia, para,</l>
+        <lb n="010"/><l>que desta prima bella,</l>
+        <lb n="011"/><l>amor que la possee, cante della.</l>
+        <lb n="012"/><l>Lo que yo le suplico,</l>
+        <lb n="013"/><l>es, que siendo tercera,</l>
+        <lb n="014"/><l>diga a su bella prima que me quiera.</l></lg></div>
+      <div>
+        <p>
+          <lb n="015"/>La respuesta que doña <persName>Ana</persName> dio a don <persName>Fadrique</persName><reg>,</reg> fue
+          de<lb n="016" break="no"/>zirle<reg>,</reg> quam en esso tenia ella muy poco que hazer, porque
+          do<lb n="017" break="no"/>ña <persName>Violante</persName> estaua muy aficionada a su valor. Con esto
+          que<lb n="018" break="no"/>dò tan loçano<reg>,</reg> y contento<reg>,</reg> que ya estaua oluidado de todo
+          <lb n="019"/>punto de su opinion<reg>,</reg> y de los sucessos de <persName>Seraphina</persName><reg>,</reg> y
+          <persName>Bea<lb n="020" break="no"/>triz</persName>. Passaronse muchos dias en esta voluntad, sin estenderse
+          <lb n="021"/>a mas los atreuimientos amorosos, que a solo aquello que sin
+          <lb n="022"/>riesgo del honor<reg>,</reg> se podia gozar, teniendo estos
+          impedimen<lb n="023" break="no"/>tos tan enamorado a don <persName>Fadrique</persName><reg>,</reg> que casi estaua
+          determi<lb n="024" break="no"/>nado a casarse, aunquam <persName>Violante</persName> jamas tratò nada acerca
+          des<lb n="025" break="no"/>to porque verdaderamente aborrezia el casarse, temerosa
+          <lb n="026"/>de perder la libertad, que entonces gozaua.</p>
+      </div>
+      
+      
+      <div>
+        <p>Sucedio, pues,
+          <lb n="027"/>que vn dia<reg>,</reg> estandose vistiendo los dos primos<orig>,</orig> para ir a ver
+          <lb n="028"/>las dos primas, fueron auisados<reg>,</reg> por vn recado de sus damas<reg>,</reg>
+          <lb n="029"/>como su esposo de doña <persName>Ana</persName> era venido tan de secreto<orig>,</orig> que
+          
+          
+          <pb n="32" xml:id="img_0032"/>
+          
+          
+          <lb n="001"/>no auian sido auisadas de su venida, y que esta accion las
+          <lb n="002"/>tenia tan espantadas, creyendo ella<reg>,</reg> que no sin causa, venia
+          <lb n="003"/>assi, sino que le auia obligado algun temeroso desinio, que
+          <lb n="004"/>era fuerça, hasta assegurarse, viuir con recat<choice><orig>,</orig><reg>;</reg></choice> que les
+          <lb n="005"/>suplicauan<reg>,</reg> que armandose de paciencia, como ellas
+          ha<lb n="006" break="no"/>zian, que no solo no las visitassen, mas que escusassen el
+          <lb n="007"/>passar por la calle, hasta que tuuiessen otro auiso.</p>
+      </div>
+      
+      
+      <div>
+        <p>Nueua
+          <lb n="008"/>fue esta<reg>,</reg> para ellos<reg>,</reg>  pesadissima, y que la lleuaron<reg>,</reg> y
+          re<lb n="009" break="no"/>cibieron con muestras de mucho sentimiento, y mas
+          quan<lb n="010" break="no"/>do supieron<reg>,</reg> dentro de quatro dias<reg>,</reg> como se auia
+          despo<lb n="011" break="no"/>sado doña <persName>Ana</persName>, poniendo el nueuo dueno<reg>,</reg> tanta
+          clausu<lb n="012" break="no"/>ra<reg>,</reg> y recato en la casa, por ser muy zeloso, como
+          hom<lb n="013" break="no"/>bre experimentado en cosas, y que passaua ya de
+          quaren<lb n="014" break="no"/>ta anos, que ni ala ventana era possible verlas<reg>,</reg> ni ellas
+          <lb n="015"/>embiaron a dezirles mas palabra, ni aun a saber de su
+          sa<lb n="016" break="no"/>lud<choice><orig>.</orig><reg>:</reg></choice> <choice><orig>D</orig><reg>d</reg></choice>oña <persName>Ana</persName><reg>,</reg> por la ocupacion de su esposo, y doña
+          <persName>Vio<lb n="017" break="no"/>lante</persName>, por lo que se dirâ a su tiempo.</p>
+      </div>
+      
+      
+      <div>
+        <p>Aguardando
+          nue<lb n="018" break="no"/>uo auiso, con impacientes ansias<reg>,</reg> y penosos
+          pensamien<lb n="019" break="no"/>tos, passaron don <persName><choice><orig>luan</orig><reg>Juan</reg></choice></persName><reg>,</reg> y don <persName>Fadrique</persName> vn mes, bien
+          des<lb n="020" break="no"/>esperados<choice><orig>,</orig><reg>;</reg></choice> viendo que no auia memoria de su pena,
+          de<lb n="021" break="no"/>terminaronse a todo riesgo<reg>,</reg> a passar la calle<reg>,</reg> y procurar
+          <lb n="022"/>ver asus damas, o alguna criada de su casa. Anduuieron
+          <lb n="023"/>en fin vn dia<reg>,</reg> y otro, en los quales vian entrar a su
+          ma<lb n="024" break="no"/>rido de dona <persName>Ana</persName> en su casa, y con el vn hermano suyo
+          <lb n="025"/>estudiante, moço, y galan<choice><orig>. M</orig><reg>; m</reg></choice>as no fue possible verlas ni
+          <lb n="026"/>a ellas, ni aun vna sombra que pareciesse muger<choice><orig>,</orig><reg>;</reg></choice> algunos
+          <lb n="027"/>criados si, mas como no eran conocidos, no se atreuiana
+          <lb n="028"/>dezirles nada.</p>
+      </div>
+      
+      
+      <div>
+        <p>Con estas ansias madrugauan<reg>,</reg> y
+          trasnocha<lb n="029" break="no"/>nan<choice><orig>. Y</orig><reg>, y</reg></choice> vn <choice><orig>D</orig><reg>d</reg></choice>omingo<reg>,</reg> muy de mañana<reg>,</reg> fue su ventura tal<reg>,</reg>
+          <lb n="030"/>que vieron salir vna criada de doña <persName>Violante</persName><reg>,</reg> que yua
+          <lb n="031"/>a <choice><orig>M</orig><reg>m</reg></choice>issa, a la qual don <persName><choice><orig>luan</orig><reg>Juan</reg></choice></persName>llegò a hablar, y ella<reg>,</reg> con
+          <lb n="032"/>mil temores, mirando a vna parte<reg>,</reg> y a otra, despues de
+          <lb n="033"/>auerles contado el recato con que vivian<reg>,</reg> y la zelosa
+          con<lb n="034" break="no"/>dicion de su señor, tomando vn papel que don <persName><choice><orig>luan</orig><reg>Juan</reg></choice></persName> lle
+          
+          
+          <pb n="33" xml:id="img_0033"/>
+          
+          
+          <lb n="001" break="no"/>uaua escrito, para quando hallasse alguna ocasion, se fue
+          <lb n="002"/>con la mayor priessa del mundo<choice><orig>,</orig><reg>;</reg></choice> solo les dixo, que
+          andu<lb n="003" break="no"/>uiessen por alli otro dia, que ella procuraria la respuesta.</p></div>
+      <div>
+        <p>
+          <lb n="004"/>Ella le lleuò a su señora, y leydo<reg>,</reg> dezia assi<choice><orig>.</orig><reg>:</reg></choice></p></div>
+      <div>
+        <p>
+          <lb n="005"/>Mas siento el oluido<reg>,</reg> que los zelos, porque ellos son
+          <lb n="006"/>mal sin remedio, y el le pudiera tener<reg>,</reg> si durara la voluntad<choice><orig>,</orig><reg>.</reg></choice>
+          <lb n="007"/><choice><orig>l</orig><reg>L</reg></choice>a mia pide misericordia<choice><orig>,</orig><reg>;</reg></choice> si ay alguna centella del passado
+          <lb n="008"/>fuego, vsese della en caso tan cruel.</p></div>
+      <div>
+        <p>
+          <lb n="009"/>Leydo el papel por las damas<reg>,</reg> dieron la respuesta a la
+          <lb n="010"/>misma criada, que como vio a los <choice><orig>C</orig><reg>c</reg></choice>aualleros, se le
+          arro<lb n="011" break="no"/>xò por la ventana.Y abierto el papel, leyeron con el,
+          es<lb n="012" break="no"/>tas palabras.</p></div>
+      <div>
+        <p>
+          <lb n="013"/>El dueno es zeloso<reg>,</reg> y rezien casado, tanto<reg>,</reg> que aun no
+          <lb n="014"/>ha tenido lugar de arrepentirse<reg>,</reg> ni descuydarse. Mas el ha
+          <lb n="015"/>de ir<reg>,</reg> dentro de ocho dias<reg>,</reg> a <placeName>Valladolid</placeName><reg>,</reg> a ver vnos
+          deu<lb n="016" break="no"/>dos suyos, entonces pagarè deudas<reg>,</reg> y darè disculpas.</p></div>
+      <div>
+        <p>
+          <lb n="017"/>Con este papel, a quien los dos primos dieron mil besos,
+          <lb n="018"/>haziendole mil deuotas recomendaciones, como si fuera
+          <lb n="019"/><choice><orig>O</orig><reg>o</reg></choice>raculo se entretuuleron algunos dias<choice><orig>,</orig><reg>;</reg></choice> mas viendo que ni
+          <lb n="020"/>se les auisaua de lo que en el se prometia, ni auia mas
+          <lb n="021"/>nouedad<reg>,</reg> que hasta alli<reg>,</reg> en casa de sus señoras, porque
+          <lb n="022"/>ni en la calle<reg>,</reg> ni en la ventana<reg>,</reg> era impossible verlas.
+          <lb n="023"/>Tan desesperados como antes de auerle recebido,
+          empe<lb n="024" break="no"/>çaron a rondar de dia, y de noche, passandoscles
+          mu<lb n="025" break="no"/>chas dellas de claro en claro, en la calle.</p>
+      </div>
+      
+      
+      <div>
+        <p>Pues<reg>,</reg> vn dia<reg>,</reg>
+          <lb n="026"/>que acertò don <persName><choice><orig>luan</orig><reg>Juan</reg></choice></persName><reg>,</reg> a entrar en la <placeName><choice><orig>I</orig><reg>i</reg></choice>glesia del Carmen</placeName>, a
+          <lb n="027"/>oir <choice><orig>M</orig><reg>m</reg></choice>issa, vio entrar a su querida doña <persName>Ana</persName> (vista para el,
+          <lb n="028"/>harto milagrosa.) Y comoviesse que se entrò en vna <choice><orig>C</orig><reg>c</reg></choice>a
+          <lb n="029" break="no"/>pilla<reg>,</reg> a oir <choice><orig>M</orig><reg>m</reg></choice>issa, le fue siguiendo los passos, y a pesar
+          <lb n="030"/>de vn escudero<reg>,</reg> que la acompannaua, se arrodillò a su
+          <lb n="031"/>milmo lado. Y despues de passar<orig>,</orig> entre los dos<reg>,</reg> largas
+          <lb n="032"/>quexas<reg>,</reg> y breues disculpas, conforme lo que dâ lugar la
+          <lb n="033"/>parte donde estauan, le respondio doña <persName>Ana</persName><reg>,</reg> que su
+          ma<lb n="034" break="no"/>rido, aunque dezia<reg>,</reg> que se auia de ir a <placeName>Valladolid</placeName>,
+          
+          
+          <pb n="34" xml:id="img_0034"/>
+          
+          
+          <lb n="001"/>no lo auia hecho<choice><orig>,</orig><reg>;</reg></choice> mas que ella no hallaua otro
+          reme<lb n="002" break="no"/>dio<orig>,</orig> para hablarle vn rato de espacio, sino era<reg>,</reg> que
+          a<lb n="003" break="no"/>quella noche viniesse, que le abriria la puerta, mas que
+          a<lb n="004" break="no"/>uia de venir con el su primo don <persName>Fadrique</persName>, el qual se auia de
+          <lb n="005"/>acostar con su esposo, en su lugar<choice><orig>,</orig><reg>;</reg></choice> que para esto hazia
+          mu<lb n="006" break="no"/>cho al caso el estar ella enoxada con el, tanto, que auia
+          mu<lb n="007" break="no"/>chos dias que no se hablauan<choice><orig>,</orig><reg>;</reg></choice> y que demas de que el sueño
+          <lb n="008"/>se apoderaua bastantemente del, era tanto el enoxo<reg>,</reg> que
+          sa<lb n="009" break="no"/>bia muy ciertò que no echaria de ver la burla, y que aunquam
+          <lb n="010"/>su prima pudiera suplir esta falta, era impossible<reg>,</reg> respecto
+          <lb n="011"/>de que estaua enferma, y que sino era desta suerte<reg>,</reg> que no
+          <lb n="012"/>hallaua modo de satisfazer sus desseos.</p>
+      </div>
+      
+      
+      <div>
+        <p>Quedò<reg>,</reg> con esto<reg>,</reg> don
+          <lb n="013"/><persName><choice><orig>luan</orig><reg>Juan</reg></choice></persName> mas confuso que jamas<choice><orig>: p</orig><reg>. P</reg></choice>or vna parte via lo que
+          per<lb n="014" break="no"/>dia, y por otra temia que don <persName>Fadrique</persName> no auia de querer
+          <lb n="015"/>venir en tal concierto<reg>.</reg> Fuesse con esto a su casa, y despues
+          <lb n="016"/>de largas peticiones<reg>,</reg> y encarecimientos, le contò lo que
+          do<lb n="017" break="no"/>na Ana le auia dicho. A lo qual don <persName>Fadrique</persName> le respondio,
+          <lb n="018"/>que si estaua loco, porque no podia creer que si tuuiera
+          juy<lb n="019" break="no"/>zio, dixera tal disparate. Tras esto dezia mil gracias<reg>,</reg> y
+          do<lb n="020" break="no"/>nayres, encareciendo el fauor que le hazia doña <persName>Ana</persName>, en
+          <lb n="021"/>quererle acomodar con tan linda moça. Y en estas
+          deman<lb n="022" break="no"/>das<reg>,</reg> y respuestas, suplicando el vno<reg>,</reg> y escusandose el
+          o<lb n="023" break="no"/>tro, passaron algunas horas. Mas viendole don <persName>Fadrique</persName> tan
+          <lb n="024"/>rematado<reg>,</reg> que sacò la espada para matarse, bien contra su
+          <lb n="025"/>voluntad<reg>,</reg> concedio con el<reg>,</reg> en ocupar el lugar de doña
+          <persName>A<lb n="026" break="no"/>na</persName>, al lado de su esposo.</p>
+      </div>
+      
+      
+      <div>
+        <p>Y assi se fueron juntos a su casa,
+          <lb n="027"/>que como llegasse allâ<reg>,</reg> la <choice><orig>D</orig><reg>d</reg></choice>ama, que estaua con
+          cuyda<lb n="028" break="no"/>do, conociendo<reg>,</reg> de su venida<reg>,</reg> que don <persName>Fadrique</persName> auia
+          a<lb n="029" break="no"/>cetado el partido, les mandò abrir, y entrados en fin en vna
+          <lb n="030"/>sala antes de llegar a la quadra donde estana la cama,
+          man<lb n="031" break="no"/>dô doña <persName>Ana</persName> demudar a don <persName>Fadrique</persName>. Y obedecida de
+          <lb n="032"/>mal talante, descalço, y en camisa, estando todo sin
+          <lb n="033"/>luz, le entrò en la quadra, y poniendole junto a la
+          ca<lb n="034" break="no"/>ma, le dixo passo<reg>,</reg> que se acostasse, y en dexandole alli,
+          
+          
+          <pb n="35" xml:id="img_0035"/>
+          
+          
+          <lb n="001"/>muy alegre<reg>,</reg> se fue con su amante<reg>,</reg> a otra quadra.</p>
+      </div>
+      
+      
+      <div>
+        <p>(Dexemos
+          <lb n="002" break="no"/>la con el, y vamos a don <persName>Fadrique</persName>) que assi como se vio
+          a<lb n="003" break="no"/>costado al lado de vn hombre, cuyo honor estauan
+          ofendien<lb n="004" break="no"/>do el<reg>,</reg> con suplir la falta de su esposa, y su primo
+          gozando<lb n="005" break="no"/>la, considerando lo que podia suceder<reg>,</reg> y lo quam podian costar
+          <lb n="006"/>tales atreuimientos, estaua tan temeroso<reg>,</reg> y desuelado que
+          <lb n="007"/>diera quanto valia su hazienda<reg>,</reg> por no auerse puesto en tal
+          <lb n="008"/>estado. Y mas quando suspirando<reg>,</reg> entre suenos<reg>,</reg> el
+          ofen<lb n="009" break="no"/>dido marido, dio buelta àzia donde creyo que estaua su
+          es<lb n="010" break="no"/>posa, y echandole vn braco al cuello, dio muestras de
+          que<lb n="011" break="no"/>rer llegorse a ella, si bien como esta accion la hazia dormido,
+          <lb n="012"/>no prosiguio a delante<choice><orig>,</orig><reg>;</reg></choice> don <persName>Fadrique</persName> que se vio en tanto
+          <lb n="013"/>peligro, tomò muy passo el braco del dormido señor, y
+          qui<lb n="014" break="no"/>tandole de si, se retirò a la esquina de la cama, no
+          culpan<lb n="015" break="no"/>do a otro que a si<reg>,</reg> de auerse puesto en tal ocasion, por el
+          va<lb n="016" break="no"/>no antojo de dos amantes locos.</p>
+      </div>
+      
+      
+      <div>
+        <p>Apenas se vio libre de
+          es<lb n="017" break="no"/>to, quando el enganado marido, estendiendo los pies fue
+          <lb n="018"/>a juntar con los del temeroso companero, siendo para el
+          ca<lb n="019" break="no"/>da accion destas la muerte. En fin el vno procurando
+          llegar<lb n="020" break="no"/>se<reg>,</reg> y el otro apartarse, se passò la noche, tanto quam ya la luz
+          em<lb n="021" break="no"/>peçò a mostrarse por los resquizios de las puertas,
+          poniendo<lb n="022" break="no"/>le esto en mas cuydado<reg>,</reg> que lo de mas<reg>,</reg> viendo que en vano
+          a<lb n="023" break="no"/>uia de ser lo padezido<reg>,</reg> si acabaua de amanecer antes quam
+          do<lb n="024" break="no"/>ña <persName>Ana</persName> viniesse<choice><orig>,</orig><reg>;</reg></choice> pues considerando que no le yua en salir de
+          <lb n="025"/>alli menos que la vida, se leuantò lo mas passo quam pudo, y fue
+          a<lb n="026" break="no"/>tentando hasta dar con la puerta, quam como llegasse a intentar
+          <lb n="027"/>abrirla, encontrò<reg>[se]</reg> con doña <persName>Ana</persName><reg>,</reg> que a este punto la abria, y
+          <lb n="028"/>como le viò con la voz alta, le dixo:</p>
+      </div>
+      
+      
+      <div>
+        <p>Donde vays tan
+          apries<lb n="029" break="no"/>sa, señor don <persName>Fadrique</persName></p>
+      </div>
+      
+      
+      <div>
+        <p><choice><orig>, a</orig><reg>A</reg></choice>y senora (respondiò <reg>)</reg> con la voz
+          <lb n="030"/>baxa<choice><orig>,</orig><reg>) ¿</reg></choice>y como os aueys descuydado tanto, sabiendo mi
+          pe<lb n="031" break="no"/>ligro<choice><orig>, d</orig><reg>? D</reg></choice>exadme salir por <name>Dios</name>, que si despierta vuestro
+          due<lb n="032" break="no"/>ño, no lo libraremos bien.</p>
+      </div>
+      
+      
+      <div>
+        <p><reg>¿</reg>Como salir<reg>?</reg> (replicò la astuta
+          da<lb n="033" break="no"/>ma, hablando alto, que podia ser oyda) <choice><orig>p</orig><reg>P</reg></choice>or <name>Dios</name> que ha de
+          <lb n="034"/>ver mi marido con quien ha dormido esta noche, para que
+          
+          
+          <pb n="36" xml:id="img_0036"/>
+          
+          
+          <lb n="001"/>vea en que han parado sus zelos<reg>,</reg> y sus cuydados.</p>
+      </div>
+      
+      
+      <div>
+        <p>Y
+          dizien<lb n="002" break="no"/>do esto, sin poder don <persName>Fadrique</persName> estoruarlo, respecto de su
+          <lb n="003"/>turbacion<reg>,</reg> y ser la quadra pequeña, se llegò a la cama, y
+          a<lb n="004" break="no"/>briendo vna ventana, tirò las cortinas <reg>(</reg>diziendo:</p>
+      </div>
+      
+      
+      <div>
+        <p>Mirad,
+          se<lb n="005" break="no"/>ñor, marido, con quiem aueys passado la noche<orig>)</orig></p>
+      </div>
+      
+      
+      <div>
+        <p><choice><orig>p</orig><reg>P</reg></choice>uso don
+          <persName>Fa<lb n="006" break="no"/>drique</persName> los ojos en el señor de la cama, y en lugar de ver el
+          <lb n="007"/>barbado esposo de doña <persName>Ana</persName><orig>,</orig> vio a su hermosissima
+          <persName>Violan<lb n="008" break="no"/>te</persName>, porque su marido de doña <persName>Ana</persName><reg>,</reg> ya caminaua mas auia
+          <lb n="009"/>de seis dias. Parecia la hermosa dama al <choice><orig>A</orig><reg>a</reg></choice>lua, quando
+          cor<lb n="010" break="no"/>riendo las cortinas a la noche, sale derramando perlas
+          so<lb n="011" break="no"/>bre los floridos campos.</p>
+      </div>
+      
+      
+      <div>
+        <p>Quedò con esta burla de las
+          her<lb n="012" break="no"/>mosas primas tan corrido don <persName>Fadrique</persName><reg>,</reg> que no hablaua
+          <lb n="013"/>palabra, ni la hallaua a proposito, viendolas a ellas celebrar<reg>,</reg>
+          <lb n="014"/>con rissa<reg>,</reg> el sucesso, contando <persName>Violante</persName> el cuydado con que
+          <lb n="015"/>le auia hecho estar.</p>
+      </div>
+      
+      
+      <div>
+        <p>Mas como el <choice><orig>G</orig><reg>g</reg></choice>ranadino se cobrase de
+          <lb n="016"/>su turbacion, dandoles lugar doña <persName>Ana</persName>, coxio el fruto de
+          <lb n="017"/>las <choice><orig>F</orig><reg>f</reg></choice>lores que ausa sembrado, gozando con su dama<reg>,</reg> muy
+          <lb n="018"/>regalada vida. No solo mientras estuuo ausente el marido
+          <lb n="019"/>de doña <persName>Ana</persName>, que se detuuo en pleytos de hazienda
+          algu<lb n="020" break="no"/>nos dias, sino despues de venido, quam por medio de vna criada,
+          <lb n="021"/>a quien don <persName>Fadrique</persName> regalaua, entraua las mas noches a
+          ver<lb n="022" break="no"/>se con ella, con harta embidia de don <persName><choice><orig>luan</orig><reg>Juan</reg></choice></persName>, que como no
+          <lb n="023"/>podia gozar de su doña <persName>Ana</persName>, le pesaua de las dichas de su
+          <lb n="024"/>primo.</p>
+      </div>
+      
+      
+      <div>
+        <p>Passados algunos meses<reg>,</reg> que don <persName>Fadrique</persName> gozaua
+          <lb n="025"/>de su dama, con las mayores muestras de amor que
+          pensar<lb n="026" break="no"/>se puede, tanto que <reg>,</reg> obligado desellas, se de terminò mil
+          ve<lb n="027" break="no"/>zes a lazerla su esposa, si viera en ella voluntad de casarse<choice><orig>,</orig><reg>;</reg></choice>
+          <lb n="028"/>mas tratandole de mudar estado, <reg>lo</reg> atajaua con mil forçosas
+          <lb n="029"/>escusas.</p>
+      </div>
+      
+      
+      <div>
+        <p>Al cabo deste tiempo, quando con mas descuydo
+          <lb n="030"/>estaua don <persName>Fadrique</persName><reg>,</reg>de tal sucesso, empecò <persName>Violante</persName> a
+          a<lb n="031" break="no"/>floxar en su amor, tanto que escusaua lo mas que podia,
+          <lb n="032"/>el verle<choice><orig>, y</orig><reg>. Y</reg></choice> el<reg>,</reg> zeloso, dando la culpa a nueuo empleo, se
+          ha<lb n="033" break="no"/>zia mas enfadosoty aborrezido<choice><orig>, y</orig><reg>. Y</reg></choice> desesperado de verse
+          cay<lb n="034" break="no"/>do de su dichasquando mas en la cumbre della estaua, cohe
+          
+          
+          <pb n="37" xml:id="img_0037"/>
+          
+          
+          <lb n="001" break="no"/>chò<reg>,</reg> con regalos, y acarieiò<reg>,</reg> con promesas<reg>,</reg> vna criada, y
+          su<lb n="002" break="no"/>po lo que diera algo por no saberlo<choice><orig>,</orig><reg>;</reg></choice> porque la traydora<reg>,</reg> le
+          <lb n="003"/>dixo que se hiziesse malo<reg>,</reg> y que diesse a entender a su
+          se<lb n="004" break="no"/>ñora que estaua en la cama, porque descuydada de su
+          ve<lb n="005" break="no"/>nida, no estuuiesse apercebida, como otras vezes, y quam
+          vinies<lb n="006" break="no"/>se aquella noche, que ella dexaria la puerta abierta, con
+          cu<lb n="007" break="no"/>ya comodidad veria lo que desseaua.</p>
+      </div>
+      
+      
+      <div>
+        <p>Podia hazerse esto con
+          <lb n="008"/>facilidad, respecto que <persName>Violante</persName>, desde que se cafò su prima,
+          <lb n="009"/>possaua en vn quarto a parte, donde estaua sin tener que
+          in<lb n="010" break="no"/>teruenir con doña <persName>Ana</persName><reg>,</reg> ni su marido, cuya condicion no
+          po<lb n="011" break="no"/>dia sufrirse, y mas <persName>Violante</persName>, que ya ensenada a su libertad,
+          <lb n="012"/>no queria tener a quien guardar decoro, si bien tenia
+          puer<lb n="013" break="no"/>ta por donde se correspondia con ellos<reg>,</reg> y comia muchas
+          ve<lb n="014" break="no"/>zes, obligando su agrado, a dessear su esposo de doña <persName>Ana</persName>
+          <lb n="015"/>su conuersacion.</p>
+      </div>
+      
+      
+      <div>
+        <p>Saliole a pelo el fingimiento a don
+          <persName>Fadri<lb n="016" break="no"/>que</persName>, porque <persName>Violante</persName> lo creyò, y dando lugar a lo que le
+          <lb n="017"/>estoruaua el no darle a don <persName>Fadrique</persName> el que siempre auia
+          <lb n="018"/>tenido, se recogio mas temprano que otras vezes. Es el
+          <lb n="019"/>caso, que el hermano del marido de doña <persName>Ana</persName>, como
+          <lb n="020"/>todo lo mas del tiempo assistia con el<orig>,</orig> y su cuñada, se
+          a<lb n="021" break="no"/>ficionò de doña <persName>Violante</persName>, y ella obligada de la voluntad
+          <lb n="022"/>de don <persName>Fadrique</persName>, no auia dado lugar a su desseo.</p>
+      </div>
+      
+      
+      <div>
+        <p>Mas
+          <lb n="023"/>ya, o cansada de el<reg>,</reg> o satisfecha de las joyas<reg>,</reg> y regalos
+          <lb n="024"/>de su nueuo amante, dio al traues con las obligaciones
+          <lb n="025"/>del antiguo, cuyo nueuo entretenimiento fue causa<reg>,</reg>
+          pa<lb n="026" break="no"/>ra que le priuasse de todo punto de su gloria, no
+          dan<lb n="027" break="no"/>do lugar a los desseos<reg>,</reg> y afectos de don <persName>Fadrique</persName>. Pues
+          <lb n="028"/>esta noche, que le parecio<orig>,</orig> que porsu indispoficion<reg>,</reg>
+          es<lb n="029" break="no"/>taua segura, auisò a su amanto<choice><orig>, y</orig><reg>. Y</reg></choice> el, dando a entender
+          <lb n="030"/>que se quedaua en su casa, como otras vezes<reg>,</reg> en la casa
+          <lb n="031"/>de su hermano, vino al punto a gozar de la ocasion. Pues
+          <lb n="032"/>como don <persName>Fadrique</persName> hallasse la puerta abierta, y no se lo
+          <lb n="033"/>sufriesse el coraçon<reg>,</reg> a esperar, oyendo hablar<reg>,</reg> llegò a la de
+          <lb n="034"/>la sala, y entrando hallò a la dama ya acostada, y al moç
+          
+          
+          <pb n="38" xml:id="img_0038"/>
+          
+          <lb n="001"/>que se estaua descalçando para hazer lo mismo<choice><orig>,</orig><reg>.</reg></choice></p>
+      </div>
+      
+      
+      <div>
+        <p><choice><orig>n</orig><reg>N</reg></choice>o pudo en
+          <lb n="002"/>este punto la colera de don <persName>Fadrique</persName> ser tan cuerda<reg>,</reg> que
+          <lb n="003"/>no le obligasse a entrar con determinacion de molerle a
+          pa<lb n="004" break="no"/>los, por no ensuziar la espada en vn moçuelo de tan pocos
+          <lb n="005"/>años. Mas el amante que vio entrar aquel hombre tan
+          de<lb n="006" break="no"/>terminado, y se vio desnudo<reg>,</reg> y sin espada, se baxò al suelo, y
+          <lb n="007"/>tomando vn çapaco, le encubriò en la mano, como que
+          fues<lb n="008" break="no"/>se vn pistolete<choice><orig>,</orig><reg>;</reg></choice> y diziendole, que sino se tenia a fuera<reg>,</reg> le
+          ma<lb n="009" break="no"/>taria, cobrò la puerta, y en poco espacio la calle, dexando a
+          <lb n="010"/>don <persName>Fadrique</persName> temeroso de su accion.</p>
+      </div>
+      
+      
+      <div>
+        <p>Pues<reg>,</reg> como <persName>Violante</persName>,
+          <lb n="011"/>ya resuelta a perder de todo punto la amistad de don
+          <persName>Fadri<lb n="012" break="no"/>que</persName>, le viesse quedar como elado, mirando a la puerta por
+          <lb n="013"/>donde auia salido su competidor, empeçò a reirse muy de
+          <lb n="014"/>proposito, solenizando la burla del capato. Desto mas
+          ofen<lb n="015" break="no"/>dido el <choice><orig>G</orig><reg>g</reg></choice>ranadino que de lo demas, no pudo la passion
+          de<lb n="016" break="no"/>xar de darle atreuimiento, y llegandose a <persName>Violante</persName><reg>,</reg> la dio
+          <lb n="017"/>tres o quatro bofetadas, que la bañò en sangre<choice><orig>,</orig><reg>;</reg></choice> y ella,
+          perdi<lb n="018" break="no"/>da de enoxo, le dixo que se fuesse con <name>Dios</name>, que llamaria
+          <lb n="019"/>a su cunado<reg>,</reg> y le haria que le costasse caro. El que no
+          repara<lb n="020" break="no"/>ua en amenazas, prosiguiò en su determinada colera,
+          asien<lb n="021" break="no"/>dola de los cabellos<reg>,</reg> y trayendola a mal traer, tanto que la
+          <lb n="022"/>obligò a dar gritos, a los quales doña <persName>Ana</persName>, y su esposo se
+          le<lb n="023" break="no"/>uantaron<reg>,</reg> y vinieron a la puerta que passaua a su possada.</p></div>
+      <div>
+        <p>
+          <lb n="024"/>Don <persName>Fadrique</persName>, temeroso de ser descubierto, y mas si
+          vinies<lb n="025" break="no"/>se la justicia, pues le podian achacar lo que quisiessen, se
+          sa<lb n="026" break="no"/>lio de aquella casa, y llegando a la de don <persName><choice><orig>luan</orig><reg>Juan</reg></choice></persName> que era
+          tan<lb n="027" break="no"/>bien la suya, le contò lo que auia passado, y ordenò su
+          par<lb n="028" break="no"/>tida para el <choice><orig>R</orig><reg>r</reg></choice>eyno de <name>Sicilia</name>, donde supo que yua el <name>Duque
+            <lb n="029"/>de Ossuna</name> a ser <choice><orig>V</orig><reg>v</reg></choice>irey, y acomodandose con el para este
+          pas<lb n="030" break="no"/>srge, se partiò dentro de quatro dias, dexando a don <persName><choice><orig>luan</orig><reg>Juan</reg></choice></persName>
+          <lb n="031"/>muy triste, y pesaroso de lo sucedido, pues era causa de
+          a<lb n="032" break="no"/>uer perdido tan buen amigo<reg>.</reg></p>
+      </div>
+      
+      
+      <div>
+        <p>Llegô don <persName>Fadrique</persName> a
+          <placeName>Napo<lb n="033" break="no"/>les</placeName><choice><orig>;</orig><reg>;</reg></choice> y aunque salio de <placeName>Espana</placeName> con animo de ir a <name>Sicilia</name>, la
+          <lb n="034"/>belleza desta <choice><orig>C</orig><reg>c</reg></choice>iudad<reg>,</reg> le hizo quedar en ella algun tiempo,
+          
+          
+          <pb n="39" xml:id="img_0039"/>
+          
+          
+          <lb n="001"/>donde le sucedieron varios<reg>,</reg> y diuersos casos, con los quales
+          <lb n="002"/>confirmaua la opinion de que todas las mugeres que dauan
+          <lb n="003"/>en discretas, destruhian, con sus astucias, la opinion de los
+          <lb n="004"/>hombres. (Sustentela norabuena, que algun dia dirâ lo
+          con<lb n="005" break="no"/>trario.)</p>
+      </div>
+      
+      
+      <div>
+        <p>En <placeName>Napoles</placeName> tuuo vna dama<reg>,</reg> que todas las vezes quam
+          <lb n="006"/>entraua su marido<reg>,</reg> le hazia parecer vna artesa arrimada a
+          v<lb n="007" break="no"/>na pared. Y de <placeName>Napoles</placeName> passò a <name>Roma</name>, donde tuuo amistad
+          <lb n="008"/>con otra, que por su causa matò a su marido vna noche<reg>,</reg> y le
+          <lb n="009"/>lleuò a cuestas<reg>,</reg> metido en vn costal<reg>,</reg> a echarle en el rio. En
+          <lb n="010"/>estas, y otras cosas gastò muchos años, auiendo passado diez
+          <lb n="011"/>y seys que salio de su tierra<choice><orig>. P</orig><reg>p</reg></choice>ues, como se hallasse cansado
+          <lb n="012"/>dè caminar<reg>,</reg> y falto de dineros, pues apenas tenia los
+          bastan<lb n="013" break="no"/>tes para boluer a <placeName>España</placeName>, lo puso por obra. Y como
+          desem<lb n="014" break="no"/>barcasse en <placeName>Barcelona</placeName>, despues de auer descansado algunos
+          <lb n="015"/>dias<choice><orig>:</orig><reg>y</reg></choice> echò quenta con su bolsa, comprò vna mula para
+          lle<lb n="016" break="no"/>gar a <placeName>Granada</placeName><choice><orig>,</orig><reg>(</reg></choice>que ya no auia possibilidad para criado. Y
+          <lb n="017"/>partiendose vna manana delas del mes de <name>Agosto</name>, por
+          go<lb n="018" break="no"/>zar del fresco<choice><orig>.</orig><reg>).</reg></choice></p>
+      </div>
+      
+      
+      <div>
+        <p>Poco mas auria caminado de quatro leguas,
+          <lb n="019"/>donde passando a las nueue del dia<reg>,</reg> por vn hermoso lugar,
+          <lb n="020"/>de quien era señor vn <choice><orig>D</orig><reg>d</reg></choice>uque <choice><orig>C</orig><reg>c</reg></choice>atalan, casado con vna
+          her<lb n="021" break="no"/>mosa dama <choice><orig>V</orig><reg>v</reg></choice>alenciana<choice><orig>:</orig><reg>,</reg></choice> el qual, por ahorrar gastos, estaua
+          re<lb n="022" break="no"/>tirado en sutierra. Al tiempo que don <persName>Fadrique</persName> passò por
+          <lb n="023"/>este lugar, lleuando proposito de sestear<reg>,</reg> y comer en otro
+          <lb n="024"/>que estaua mas adelante, estaua la hermosa <choice><orig>D</orig><reg>d</reg></choice>uquesa en vn
+          <lb n="025"/>balcon, y como viesse aquel caminante passar algo de
+          pries<lb n="026" break="no"/>sa<reg>,</reg> y reparasse en el ayroso talle<reg>,</reg> llamò vn criado<reg>,</reg> y le mandò
+          <lb n="027"/>que fuesse tras el, y le dixesse que ella le llamaua.</p>
+      </div>
+      
+      
+      <div>
+        <p>Pues,
+          co<lb n="028" break="no"/>mo a don <persName>Fadrique</persName> le diessen este recaudo, y siempre se
+          pre<lb n="029" break="no"/>eiaua de cortès, y mas con las damas, subiò a ver que le
+          man<lb n="030" break="no"/>daua la bellissima <choice><orig>D</orig><reg>d</reg></choice>uquesa. Y tratandola con la cortesia quam
+          <lb n="031"/>era justo, admirado de ver su hermosura<reg>,</reg> y gallardia, ella,
+          <lb n="032"/>haziendole sentar, le preguntò<reg>,</reg> con mucho agrado de donde
+          <lb n="033"/>era y porque caminaua tan apriessa, encareciendole el
+          gus<lb n="034" break="no"/>to que tendria en saberlo, porquam desde quam le auia visto, se auia
+          
+          
+          <pb n="40" xml:id="img_0040"/>
+          
+          
+          <lb n="001"/>inclinado a amarle, y assi auia determinado<reg>,</reg> de que fuesse
+          <lb n="002"/>su combidado, porque el <choice><orig>D</orig><reg>d</reg></choice>uqueestaua en caça<choice><orig>:</orig><reg>.</reg></choice></p>
+      </div>
+      
+      
+      <div>
+        <p><choice><orig>d</orig><reg>D</reg></choice>on
+          <persName>Fa<lb n="003" break="no"/>drique</persName> que no era nada corto, despues de agradecerle la
+          <lb n="004"/>merced que le hazia, le contò quien era<reg>,</reg> y lo que le auia
+          <lb n="005"/>sucedido en <placeName>Granada</placeName>, <placeName>Seuilla</placeName>, <placeName>Madrid</placeName>, <placeName>Napoles</placeName>, y
+          <placeName>Ro<lb n="006" break="no"/>ma</placeName>, con los demas sucessos de su vida, feneciendo la
+          pla<lb n="007" break="no"/>tica<reg>,</reg> con dezir que la falta de dineros<reg>,</reg> y cansado de ver
+          tier<lb n="008" break="no"/>ras, se boluia a la suya<reg>,</reg> con proposito de casarse, si hallasse
+          mu<lb n="009" break="no"/>ger a su gusto.</p>
+      </div>
+      
+      
+      <div>
+        <p><reg>¿</reg>Como ha de ser (respondio la <choice><orig>D</orig><reg>d</reg></choice>uquesa) la que
+          <lb n="010"/>ha deser de vuestro gusto<reg>?</reg></p>
+      </div>
+      
+      
+      <div>
+        <p><choice><orig>S</orig><reg>s</reg></choice>eñora, yo soy noble, como os
+          <lb n="011"/>he dicho, (replicò don <persName>Fadrique</persName>) tengo mas que
+          mediana<lb n="012" break="no"/>mente lo quam he menester<reg>,</reg> para passar la vida, y assi quando la
+          <lb n="013"/>muger que huuiesse dè ser mia<reg>,</reg> no sea muy rica, no me
+          da<lb n="014" break="no"/>râ cuydado, como sea hermosa<reg>,</reg> y bien nacida, lo que mas
+          <lb n="015"/>me agrada en las mugere es la virtud<choice><orig>,</orig><reg>;</reg></choice> essa procuro, quam los
+          <lb n="016"/>bienes de fortuna <name>Dios</name> los da, y los quita.</p>
+      </div>
+      
+      
+      <div>
+        <p>Finalmente (dixo
+          <lb n="017"/>la <choice><orig>D</orig><reg>d</reg></choice>uquesa) <reg>¿</reg>si hallassedes muger<reg>,</reg> noble, hermosa, virtuosa, y
+          <lb n="018"/>discreta, presto rindierades el cuello, al amable yugo del
+          ma<lb n="019" break="no"/>trimonio<choice><orig>.</orig><reg>?</reg></choice></p>
+      </div>
+      
+      
+      <div>
+        <p>Yo os prometo señora<reg>,</reg> (dixo don <persName>Fadrique</persName>) que
+          <lb n="020"/>vengo tan escarmentado<reg>,</reg> de las astucias de las mugeres
+          dis<lb n="021" break="no"/>cretas<reg>,</reg> que de mejor gana me dexare vencer<orig>,</orig> de vna muger
+          <lb n="022"/>necia, aunque sea fea, que no de las demas parres<reg>,</reg> que
+          de<lb n="023" break="no"/>zis<choice><orig>, s</orig><reg>. S</reg></choice>i ha de ser discreta vna muger, noha menester saber mas
+          <lb n="024"/>que saber amar a su marido, guardarle su honor<reg>,</reg> y criarle
+          <lb n="025"/>sus hijos, sin meterse en mas bachillerias.<note xml:id="d1e6771" type="comentario" n="3">
+            Este último diálogo de don <persName>Fadrique</persName> ejemplifica los esquemas sociales de la época, en los que se espera que la mujer actué de una manera en específico y, se clasifica a todas las mujeres que no siguen con este esquema como impropias. Este tipo de descripciones suele estar presente en las novelas de la época. En esta ocasión María de Zayas las emplea para ejemplificar lo que, posteriormente, quiere debatir.
+          </note>
+        </p>
+      </div>
+      
+      <div>
+        <p>
+          <reg>¿</reg>Y como (dixo la
+          <lb n="026"/><choice><orig>D</orig><reg>d</reg></choice>uquesa) sabra ser honrada, la que no sabe en que consiste
+          <lb n="027"/>el serlo? <choice><orig>n</orig><reg>¿N</reg></choice>o aduertis que el necio peca<reg>,</reg> y no sabe en que<choice><orig>,</orig><reg>?</reg></choice>
+          <lb n="028"/><choice><orig>y</orig><reg>Y</reg></choice> siendo discreta<reg>,</reg> sabra guardarse de las ocasiones.
+          Ma<lb n="029" break="no"/>la opinion es la vuestra, que a toda ley<reg>,</reg>  vna muger
+          <lb n="030"/>bien entendida, es gusto para no oluidarse jamas, y
+          al<lb n="031" break="no"/>guna vez os acordareys de mi. Mas dexando esto a
+          par<lb n="032" break="no"/>te, yo estoy tan aficionada a vuestro talle<reg>,</reg> y
+          entendi<lb n="033" break="no"/>miento, que he de bazer por vos lo que jamas creí de
+          <lb n="034"/>mi.<note xml:id="d1e6827" type="comentario" n="4">En este caso, es una mujer, la duquesa, quien defiende a todas la mujeres más allá de si su comportamiento es bien visto por los personajes masculinos; en quienes suele caer el poder de clasificar a una mujer como valerosa o no.</note>
+        </p>
+      </div> 
+      
+      <div>
+        <p>
+          Y diziendo esto<reg>,</reg>  se entrò con ela su camara, 
+          don<pb n="41" xml:id="img_0041" break="no"/><lb n="001" break="no"/>de<reg>,</reg> por mas recato<reg>,</reg>  quiso comer con su huesped, de lo
+          <lb n="002"/>qual estaua el tan admirado<reg>,</reg>  que ninguno de los
+          suces<lb n="003" break="no"/>sos que auia tenido<reg>,</reg>  le espantaua tanto<choice><orig>:</orig><reg>.</reg></choice> Despues de auer
+          <lb n="004"/>comido<reg>,</reg> y jugado vn rato, combidandoles la soledad<reg>,</reg> y
+          <lb n="005"/>el tiempo caluroso, passaron<reg>,</reg> con mucho gusto, la siesta,
+          <lb n="006"/>tan enamorado don <persName>Fadrique</persName> de las gracias<reg>,</reg> y
+          hermosu<lb n="007" break="no"/>ra de la <choice><orig>D</orig><reg>d</reg></choice>uquesa, que ya se quedara<reg>,</reg> de assiento en el
+          <lb n="008"/>lugar, si fuera cosa<reg>,</reg> que sin escandalo<reg>,</reg> lo pudiera hazer.</p></div>
+      <div>
+        <p>
+          <lb n="009"/>Ya empeçaua la noche a tender su manto sobre las
+          gen<lb n="010" break="no"/>tes<reg>,</reg> quando llegò vna criada<reg>,</reg> y le dixo<reg>,</reg> como el <choice><orig>D</orig><reg>d</reg></choice>u
+          <lb n="011" break="no"/>que era venido<reg>,</reg> tan secreto<reg>,</reg> que hasta que estuuo en
+          <lb n="012"/>casa<orig>,</orig> no fue visto, y que ya subia por la escalera<choice><orig>, n</orig><reg>. N</reg></choice>o
+          tu<lb n="013" break="no"/>uo la <choice><orig>D</orig><reg>d</reg></choice>uquesa otro remedio<reg>,</reg> sino abrir vn escaparate
+          <lb n="014"/>dorado<reg>,</reg> que estaua en la misma quadra, en que<choice><orig>l</orig><reg> </reg></choice>se
+          con<lb n="015" break="no"/>seruauan las agoas de olor, y entrarle dentro, y
+          cerran<lb n="016" break="no"/>do las puertas con la lla<choice><orig>p</orig><reg>v</reg></choice>e, ella se recostò sobre la cama.</p></div>
+      <div>
+        <p>
+          <lb n="017"/>Entrô el <choice><orig>D</orig><reg>d</reg></choice>uque, que era hombre de mas de cinquenta
+          <lb n="018"/>años, y como la vio en la cama<reg>,</reg> con tanta hermosura<reg>,</reg>
+          <lb n="019"/>que parecia <choice><orig>R</orig><reg>r</reg></choice>osa en el <choice><orig>R</orig><reg>r</reg></choice>osal, con muchas caricias<reg>,</reg> le
+          <lb n="020"/>preguntò la causa<choice><orig>. A</orig><reg>; a </reg></choice>lo que la hermosa dama respondio,
+          <lb n="021"/>que no auia otra, mas de auer querido passar la
+          calu<lb n="022" break="no"/>rosa sicsta con mas silencio<reg>,</reg> y reposo<choice><orig>:</orig><reg>,</reg></choice> y que despues<reg>,</reg> la
+          <lb n="023"/>pereza del vestirse<reg>,</reg> auia reynando<reg>: y</reg> en ella, y assi no se
+          a<lb n="024" break="no"/>uia querido leuantar.</p>
+      </div>
+      
+      
+      <div>
+        <p>Venia el <choice><orig>D</orig><reg>d</reg></choice>uque con alientos de
+          <lb n="025"/>cenar, y diziendesclo a la <choice><orig>D</orig><reg>d</reg></choice>uquesa<reg>,</reg> pidieron que les
+          tra<lb n="026" break="no"/>xessen la vianda alli donde estauan. Y despues de auer
+          <lb n="027"/>cenado con mucho espacio<reg>,</reg> y gusto, la astuta <choice><orig>D</orig><reg>d</reg></choice>uquesa<reg>,</reg>
+          des<lb n="028" break="no"/>seosa de hazerle vna burla asu encerrado amante, le
+          di<lb n="029" break="no"/>xo al <choice><orig>D</orig><reg>d</reg></choice>uque<reg>,</reg> que si se atreuia a dezirle<reg>,</reg> quantas cosas se
+          <lb n="030"/>hazian del hierro, yrespondiendo que si<choice><orig>, f</orig><reg>. F</reg></choice>inalmente,
+          en<lb n="031" break="no"/>tre la porsia del si<reg>,</reg> y no, apostaron entre los dos cien
+          es<lb n="032" break="no"/>cudos<choice><orig>. Y</orig><reg>; y</reg></choice>tomando el <choice><orig>D</orig><reg>d</reg></choice>uque la pluma empeçò de
+          es<lb n="033" break="no"/>criuir todas quantas cosas se puéden hazer del hierro<choice><orig>.</orig><reg>,</reg></choice>
+          <lb n="034"/><choice><orig>Y</orig><reg>y</reg></choice> fue su ventura de la <choice><orig>D</orig><reg>d</reg></choice>uquesa tan buena<reg>s,</reg>  para lograr
+          
+          
+          <pb n="42" xml:id="img_0042"/>
+          
+          
+          <lb n="001"/>su desseo<reg>,</reg> quam jamas el <choice><orig>D</orig><reg>d</reg></choice>uque se acordò de las llaues.</p>
+      </div>
+      
+      
+      <div>
+        <p>La <choice><orig>D</orig><reg>d</reg></choice>u
+          <lb n="002" break="no"/>quesa que vio este descuydo, y que el <choice><orig>D</orig><reg>d</reg></choice>uque, aunque ella
+          <lb n="003"/>le dezia<reg>,</reg> mirasse<reg>,</reg> si auia mas, se afirmaua no hazerse mas
+          co<lb n="004" break="no"/>sas, logrò en esto su esperança, y poniendo la mano sobre el
+          <lb n="005"/>papel, le dixo:</p>
+      </div>
+      
+      
+      <div>
+        <p>Aora, señor, mientras se os acuerda<reg>,</reg> si ay mas
+          <lb n="006"/>que dezir, os he de contar vn quento<reg>,</reg> el mas donoso que
+          a<lb n="007" break="no"/>ureys oydo envuestra vida. Estando oy en essa ventana
+          pas<lb n="008" break="no"/>sò vn <choice><orig>C</orig><reg>c</reg></choice>auallero forastero, el mas galan que mis ojos
+          vie<lb n="009" break="no"/>ron, que yua tan de priessa, que me diò desseo de
+          hablar<lb n="010" break="no"/>le<reg>,</reg> y saber la causa. Llamele, y venido<reg>,</reg> le preguntè<reg>,</reg> quien
+          <lb n="011"/>era<choice><orig>, d</orig><reg>. D</reg></choice>ixo me que era <choice><orig>G</orig><reg>g</reg></choice>ranadino<reg>,</reg> y que salio de su tierra
+          <lb n="012"/>por vn sucesso, que es este<choice><orig>:</orig><reg>(</reg></choice>y contole quanto don <persName>Fadrique</persName>
+          <lb n="013"/>le auia dicho, y lo que le auia passado en las tierras que auia
+          <lb n="014"/>estado<choice><orig>. F</orig><reg>) ,</reg></choice>eneciendo la platica<reg>,</reg> con dezirme que se yua a
+          ca<lb n="015" break="no"/>sar a su tierra, si hallasse vna muger boba, porquam venia
+          escar<lb n="016" break="no"/>mentado de las discretas. Yo, despues de auerle persuadido
+          <lb n="017"/>a dexar tal opinion, y el dadome cansas bastantes, para
+          des<lb n="018" break="no"/>culpar su proposito<choice><orig>,</orig> <reg>¡</reg></choice>par diez, señor<reg>!</reg>, que comio conmigo, y
+          <lb n="019"/>durmio la siesta<choice><orig>: y</orig><reg>.Y</reg></choice>como me entraron a dezir que veniades,
+          <lb n="020"/>le meti en esse caxon que estâ ahi, en quam se ponen las aguas
+          <lb n="021"/>destiladas<reg>.</reg></p>
+      </div>
+      
+      
+      <div>
+        <p>Alborotose el <choice><orig>D</orig><reg>d</reg></choice>uque, empeçando à pedir a
+          pries<lb n="022" break="no"/>sa las llaues. <reg>(</reg>Alo que respondio la <choice><orig>D</orig><reg>d</reg></choice>uquesa, con mucha
+          ri<lb n="023" break="no"/>sa<reg>)</reg>:</p>
+      </div>
+      
+      
+      <div>
+        <p>Passo, señor, passo, que essas son las que se os oluidan de
+          <lb n="024"/>dezir que se hazen del hierro, que lo demas fuera
+          ignoran<lb n="025" break="no"/>cia vuestra creer que auia de auer hombre que tales
+          suces<lb n="026" break="no"/>sos le huuiessen passado, ni muger, sino fuera muy necia, quam
+          <lb n="027"/>tal dixesse a su marido, si fuera verdad<choice><orig>,</orig><reg>;</reg></choice> pues quando lo
+          hu<lb n="028" break="no"/>uiera hecho, lo callara. El quento ha sido, porque os
+          acor<lb n="029" break="no"/>deys<choice><orig>. Y</orig><reg>; y</reg></choice>assi pues aueys perdido, dadme luego el dinero, quam
+          <lb n="030"/>en verdad que lo he de emplear en vna gala<reg>,</reg> para quam lo quam os
+          <lb n="031"/>ha costado tanto susto<reg>,</reg> y a mi tal artificio<reg>,</reg> luzga como es
+          ra<lb n="032" break="no"/>zon.</p>
+      </div>
+      
+      
+      <div>
+        <p><reg>¡</reg>Ay tal cosa<reg>!</reg>(respondio el <choice><orig>D</orig><reg>d</reg></choice>uque<reg>),</reg> demonio soys<choice><orig>, m</orig><reg>. M</reg></choice>iren
+          <lb n="033"/>porque modo me ha aduertido de mi oluido, yo me doy
+          <lb n="034"/>por vencido.</p>
+      </div>
+      
+      
+      <div>
+        <p>Y boluiendo al tesorero<reg>,</reg> que estaua delante<reg>,</reg>
+          
+          
+          <pb n="43" xml:id="img_0043"/>
+          
+          
+          <lb n="001"/>con otros criados, le mandò que diesse luego a la <choice><orig>D</orig><reg>d</reg></choice>uquesa
+          <lb n="002"/>los cien escudos. Con esto se salio fuera a rècebir algunos
+          <lb n="003"/>de sus vassallos, que venian a verle, y saber como le auia
+          y<lb n="004" break="no"/>do en la caça.</p>
+      </div>
+      
+      
+      <div>
+        <p>Entônces la <choice><orig>D</orig><reg>d</reg></choice>uquesa<reg>,</reg> sacando a don <persName>Fadrique</persName>
+          <lb n="005"/>de su encerramiento, que estaua temblando la temeraria
+          lo<lb n="006" break="no"/>cura de la <choice><orig>D</orig><reg>d</reg></choice>uquesa, le dio los cien ducados ganados<reg>,</reg> y
+          o<lb n="007" break="no"/>tros ciento suyos, y vna cadena con vn retrato suyo<reg>,</reg> que
+          va<lb n="008" break="no"/>lia mas de trezientos, y abraçandole, y pidiendole, la
+          escri<lb n="009" break="no"/>uiesse, le mando sacar por vna puerta falsa, que quando don
+          <lb n="010"/><persName>Fadrique</persName> se vio en la calle, no acabaua de hazerse cruzes
+          <lb n="011"/>de tal sucesso<choice><orig>:</orig><reg>.</reg></choice></p>
+      </div>
+      
+      
+      <div>
+        <p>No quiso quedar aquella noche en el lugar<reg>,</reg>
+          <lb n="012"/>sino passar a otro dos leguas mas adelante, donde auia
+          de<lb n="013" break="no"/>terminado ir a comer, sino le huuiera sucedido lo que se
+          <lb n="014"/>ha dicho<choice><orig>:</orig><reg>.</reg></choice> Yua por el camino admirando el astucia<reg>,</reg> y
+          teme<lb n="015" break="no"/>ridad de la <choice><orig>D</orig><reg>d</reg></choice>uquesa, con la llaneza<reg>,</reg> y buena condicion del
+          <lb n="016"/><choice><orig>D</orig><reg>d</reg></choice>uque, y dezia entre si<choice><orig>;</orig><reg>:</reg></choice></p>
+      </div>
+      
+      
+      <div>
+        <p>Bien digo yo que las mugeres<reg>,</reg> el
+          <lb n="017"/>saber las haze que se pierdan. Si esta no se fiara en su
+          enten<lb n="018" break="no"/>dimiento, no se atreuiera agrauiar a su marido<reg>?</reg> ni ha
+          dezir<lb n="019" break="no"/>selo<choice><orig>: y</orig><reg>. Y</reg></choice>o me librarè desto<reg>,</reg> si puedo<choice><orig>;</orig><reg>,</reg></choice> ò no casandome,<orig>,</orig> ò
+          bus<lb n="020" break="no"/>cando vna muger tan inocente<orig>,</orig> y simple, que no sepa amar<orig>,</orig>
+          <lb n="021"/>ni aborrezer, ni entienda que color tiene<orig>,</orig> y el engaño<orig>,</orig> ni
+          <lb n="022"/>la astucia.</p>
+      </div>
+      
+      
+      <div>
+        <p>Con estos pensamientos entretuuo el camino<orig>,</orig>
+          has<lb n="023" break="no"/>ta <placeName>Madrid</placeName>, donde vio a sa primo don <persName><choice><orig>Iuan</orig><reg>Juan</reg></choice></persName><reg>,</reg> ya heredado por
+          <lb n="024"/>muerte de su padre<reg>,</reg> y casado con su prima, de quien supo
+          <lb n="025"/>como <persName>Violante</persName> se auia casado<reg>,</reg> y doña <persName>Ana</persName> ydose con su
+          ma<lb n="026" break="no"/>rido a las <name>Indias</name>. De <placeName>Madrid</placeName> partiò para <placeName>Granada</placeName>, en la
+          <lb n="027"/>qual fue recebido como hijo, y no de los menos <choice><orig>I</orig><reg>i</reg></choice>lustres <reg>[de ella]</reg>.</p></div>
+      <div>
+        <p>
+          <lb n="028"/>Fuesse en casa de su tia, de la qual recebido con mil
+          cari<lb n="029" break="no"/>cias, supo lo sucedido en su ausencia<choice><orig>,</orig><reg>:</reg></choice> la religion de
+          <persName>Seraphi<lb n="030" break="no"/>na</persName>, su penitente vida<choice><orig>,</orig> <reg>(</reg></choice>tanto quam todos la tenian por vna santa<reg>)</reg>,
+          <lb n="031"/>la muerte de don <persName>Vicente</persName> de melancolia de ver la
+          religio<lb n="032" break="no"/>sa, arrepentido del desamor que con ella tuuo, deurendole
+          <lb n="033"/>la prenda mejor de su honor. Auia procurado sacarla del
+          <lb n="034"/><choice><orig>C</orig><reg>c</reg></choice>onuento, y casarse con ella, y visto que <persName>Seraphina</persName> se de
+          
+          
+          <pb n="44" xml:id="img_0044"/>
+          
+          
+          <lb n="001"/>terminò a no hazerlo en cinco dias, ayudado de vn
+          tabar<lb n="002" break="no"/>dillo, auia pagado con la vida su ingratitud. Y sabiendo que
+          <lb n="003"/>doña <persName>Gracia</persName>, la ninia que dexò en guardia, y custodia <choice><orig>de</orig><reg>[a]</reg></choice>
+          <lb n="004"/>su tia, cumpliendo en esto lo que auia ordenado, estaua
+          <lb n="005"/>en vn <choice><orig>M</orig><reg>m</reg></choice>onasterio desde antes que tuuiera quatro años, y quam
+          <lb n="006"/>tenia entonces diez y seis, la fue a ver otro dia, acompañan
+          <lb n="007" break="no"/>do a su tia, donde en donma <persName>Gracia</persName> hallò la imagen de vn <choice><orig>A</orig><reg>a</reg></choice>n
+          <lb n="008" break="no"/>gel, tanta era su hermosura<reg>,</reg> y al p<choice><orig>e</orig><reg>[a]</reg></choice>so della, su inocencia<reg>,</reg>
+          <lb n="009"/>y simplicidad, tanto que parecia figura hermosa, mas sin
+          <lb n="010"/>alma, milagro nueuo, para auerse criado entre monjas, que
+          <lb n="011"/>no ignoran nada. Y en fin, en su platica, y descuydo<orig>,</orig>
+          cono<lb n="012" break="no"/>cio don <persName>Fadrique</persName> auer hallado el mismo sugeto que
+          busca<lb n="013" break="no"/>ua, aficionado en estremo de la hermosa <persName>Gracia</persName>, y mas por
+          <lb n="014"/>parecerse mucho a <persName>Seraphina</persName> su madre, medio que facilitò
+          <lb n="015"/>mas su voluntad, dio parte de ella a su tia, la qual
+          desenga<lb n="016" break="no"/>ñada de que no era su hija, como auia pensado, aprouò la
+          <lb n="017"/>eleccion<choice><orig>;</orig><reg>. (</reg></choice>Pues don <persName>Fadrique</persName>, que tenia, sin necessidad de
+          <lb n="018"/>dote, lo quam auia menester.<reg>)</reg></p>
+      </div>
+      
+      
+      <div>
+        <p>Tomò <persName>Gracia</persName> esta ventura, como
+          <lb n="019"/>quien no sabia que gra gusto<orig>,</orig> ni desgusto, bien ni mal,
+          por<lb n="020" break="no"/>que naturalmente era bo<choice><orig>n</orig><reg>b</reg></choice>a, agrauio a su mucha belleza,
+          sien<lb n="021" break="no"/>do esto lo mhismo, quam desseaua su esposo<choice><orig>,</orig><reg>.</reg></choice></p>
+      </div>
+      
+      
+      <div>
+        <p><choice><orig>d</orig><reg>D</reg></choice>io orden don
+          <persName>Fa<lb n="022" break="no"/>drique</persName><reg>,</reg> en sus bodas, sacando galas<reg>,</reg> y joyas a la nouia, y
+          aco<lb n="023" break="no"/>modando para su viuienda<reg>,</reg> la casa de sus padres, herencia
+          <lb n="024"/>de su mayorazgo, porque no queria que su esposa viuiesse
+          <lb n="025"/>en la de su tia, sino por si, porque no se cultiuasse su rudo
+          in<lb n="026" break="no"/>genio.</p>
+      </div>
+      
+      
+      <div>
+        <p>Recibio las criadas a proposito, buscando las mas
+          igno<lb n="027" break="no"/>rantes<reg>,</reg> y menos maliciosas, siendo este el tema de su opinion,
+          <lb n="028"/>que el mucho saber hazia caer a las mugeres en mil cosas<reg>,</reg>
+          <lb n="029"/><choice><orig>y</orig><reg>Y</reg></choice> para mi, el no deuia de ser muy cuerdo, pues tal sustentaua.
+          <lb n="030"/>Aunque al principio de su historia dize diferente, porque
+          <lb n="031"/>no se que discreto puede apetecer a su contrario. Mas a
+          es<lb n="032" break="no"/>to le puede disculpar el temor de su honra, que por
+          susten<lb n="033" break="no"/>tarla le obligana a priuarse deste gusto.</p>
+      </div>
+      
+      
+      <div>
+        <p>Llego el dia de la
+          <lb n="034"/>boda, salio <persName>Gracia</persName> del <choice><orig>C</orig><reg>c</reg></choice>onuento, admirando los ojos su
+          
+          
+          <pb n="45" xml:id="img_0045"/>
+          
+          
+          <lb n="001"/>hermosura<reg>,</reg> y su simplicidad<reg>,</reg> los sentidos. Solenizose la
+          <lb n="002"/>boda<reg>,</reg> con muy grande banquete<reg>,</reg> y fiesta, hallandose en
+          <lb n="003"/>ella todos los mayores señores de <placeName>Granada</placeName>, por
+          mere<lb n="004" break="no"/>cerlo el dueño. Passò el dia<reg>,</reg> con mas priessa que la nouia
+          <lb n="005"/>quisiera, porque le pesaua de auerse de quitar los dixes<reg>,</reg> y
+          <lb n="006"/>galas. (Todo esto podia la necedad.) Despidio don
+          <persName>Fadri<lb n="007" break="no"/>que</persName> la gente, no quedando sino su familia, y cerrando
+          <lb n="008"/>las puertas, mandò recoger la gente, quedando solo con
+          <lb n="009"/><persName>Gracia</persName>, ya aliuiada de sus joyas<reg>,</reg> y, como dizen, en paños
+          <lb n="010"/>menorés, solo con vn jubon<reg>,</reg> y vn faldellin<choice><orig>:</orig><reg>;</reg></choice> y resuelto a
+          <lb n="011"/>hazer prueua de la ignorancia de su esposa, (necio mas que
+          <lb n="012"/>ella) se entrò con ella en la quadra, donde estaua la cama, y
+          <lb n="013"/>sentandose sobre ella, le pidio le oyesse dos palabras, quam
+          fue<lb n="014" break="no"/>ron estas, (ò otras tam necias)<reg>:</reg></p>
+      </div>
+      
+      
+      <div>
+        <p><choice><orig>S</orig><reg>s</reg></choice>eñora mia, ya soys mi muger,
+          <lb n="015"/>de lo que doy mil gracias al <choice><orig>C</orig><reg>c</reg></choice>ielo<choice><orig>, p</orig><reg>. P</reg></choice>ara mientras
+          viniere<lb n="016" break="no"/>mos, conuiene que hagays lo que aora os dire, y este estilo
+          <lb n="017"/>guardareys siempre<choice><orig>;</orig><reg>,</reg></choice> lo vno, porque no ofendays a <name>Dios</name>, y
+          <lb n="018"/>lo otro, para que no me deys difgusto.</p>
+      </div>
+      
+      
+      <div>
+        <p><reg>(</reg>A esto respondio
+          <lb n="019"/><persName>Gracia</persName>, con mucha humildad,<reg>)</reg> que lo haria muy de
+          volun<lb n="020" break="no"/>tad.</p>
+      </div>
+      
+      
+      <div>
+        <p><reg>¿</reg>Sabeys (replicò don <persName>Fadrique</persName>) la vida de los casados?</p></div>
+      <div>
+        <p>
+          <lb n="021"/>Yo, señor, no la sè (dixo <persName>Gracia</persName>)<choice><orig>d</orig><reg>. D</reg></choice>ezidmela vos, que
+          <lb n="022"/>yo la deprenderè, como el<name>Aue <persName>Maria</persName></name>.</p>
+      </div>
+      
+      
+      <div>
+        <p>Muy contento
+          <lb n="023"/>don <persName>Fadrique</persName> de su simplicidad, sacò luego vnas armas
+          <lb n="024"/>doradas<reg>,</reg> y poniendoselas sobre el jubon, como era
+          pe<lb n="025" break="no"/>to<reg>,</reg> y espaldar, gola, y braçaletes, sin oluidarse de las
+          <lb n="026"/>manoplas, le dio vna lança<choice><orig>,</orig><reg>;</reg></choice>y le dixo<reg>,</reg> que la vida de
+          <lb n="027"/>los casados era<reg>,</reg> que mientras el durmia, le auia ella de
+          <lb n="028"/>velar, passeandose por aquella sala. Quedò vestida
+          des<lb n="029" break="no"/>ta suerte tan hermosa<reg>,</reg> y dispuesta<reg>,</reg> que daua gusto
+          ver<lb n="030" break="no"/>la, porque lo que no auja aprouechado en el
+          entendi<lb n="031" break="no"/>miento, lo hazia en el gallardo cuerpo, que parecia con el
+          <lb n="032"/>morrion sobre los ricos cabellos<reg>,</reg> y con la espada ceñida,
+          <lb n="033"/>vna imegen de la <choice><orig>D</orig><reg>d</reg></choice>iosa <persName>Palas</persName>.</p>
+      </div>
+      
+      
+      <div>
+        <p>Armada, como digo, la
+          <lb n="034"/>hermosa dama, le mandò velarle mientras dormia, que
+          
+          
+          <pb n="46" xml:id="img_0046"/>
+          
+          
+          <lb n="001"/>lo hizo, don <persName>Fadrique</persName> con muchò reposo, acostandose con
+          <lb n="002"/>mucho gusto<reg>,</reg> y durmio hasta las cinco de la manana. Y a
+          es<lb n="003" break="no"/>ta hora se leuantò<reg>,</reg> y despues de estar vestido<reg>,</reg> tomò a doña
+          <lb n="004"/><persName>Gracia</persName> en sus braços, y con muchas ternezas<reg>,</reg> la desnudò<reg>,</reg> y
+          <lb n="005"/>acostò, diziendola que durmiesse<reg>,</reg> y reposasse<choice><orig>:</orig><reg>, y</reg></choice> dando orden
+          <lb n="006"/>a las criadas que no la despertassen hasta las onze, se fue a
+          <lb n="007"/><choice><orig>M</orig><reg>m</reg></choice>issa, y luego a sus negocios, que no le faltauan, respecto
+          <lb n="008"/>de quam auia comprado vn oficio de <choice><orig>V</orig><reg>v</reg></choice>eyntiquatro de la misma
+          <lb n="009"/><choice><orig>C</orig><reg>c</reg></choice>iudad. En esta vida passò mas de ocho dias, sin dar a
+          enten<lb n="010" break="no"/>der a <persName>Gracia</persName> otra cosa, y ella<reg>,</reg> como inocente, entendia que
+          <lb n="011"/>todas las casadas hazian lo mismo.</p>
+      </div>
+      
+      
+      <div>
+        <p>Acertò a este tiempo a
+          <lb n="012"/>suceder <reg>en el lugar</reg> algunas contiendas<choice><orig>,</orig> <reg>(</reg></choice>y disgustos<reg>)</reg><choice><orig>:</orig><reg>,</reg></choice> para lo qual
+          orde<lb n="013" break="no"/>nò el <name>Consejo</name>, que don <persName>Fadrique</persName> se partiesse por la posta<reg>,</reg> a
+          <lb n="014"/>hablar al <choice><orig>R</orig><reg>r</reg></choice>ey, no guardandole las leyes de rezien casado<reg>,</reg>
+          <lb n="015"/>por saber que, como auia estado en la <name>Corte</name>, tenia en ella
+          <lb n="016"/>muchos amigos. No le dio lugar este sucesso<reg>,</reg> a mas que
+          lle<lb n="017" break="no"/>gar a su casa, y vestirse de camino, y subiendo en la posta,
+          <lb n="018"/>dezirle a in muger<reg>,</reg> que mirasse que la vida de los casados la
+          <lb n="019"/>misma auia de ser en ausencia suya<reg>,</reg> que auia sido en
+          presen<lb n="020" break="no"/>cia, que mirasse el pecado quam haria en quebrarla<choice><orig>: e</orig><reg>.E</reg></choice>lla le
+          pro<lb n="021" break="no"/>metio guardarla muy deuota y puntualmente. Con lo qual
+          <lb n="022"/>don <persName>Fadrique</persName> partio muy contento. Y como a la <name>Corte</name> se
+          <lb n="023"/>va por poco<reg>,</reg> y se està mucho, le sucedio a el de la misma
+          suer<lb n="024" break="no"/>te, deteniendose <orig>(</orig>en ella<reg>(</reg><orig>,</orig> no solo dias, sino meses, pues duró
+          <lb n="025"/>el negocio mas de seys<reg>.</reg></p>
+      </div>
+      
+      
+      <div>
+        <p>Prosiguiendo dona <persName>Gracia</persName> su
+          enga<lb n="026" break="no"/>nio, vino a <placeName>Granada</placeName> vn <choice><orig>C</orig><reg>c</reg></choice>auallero <choice><orig>C</orig><reg>c</reg></choice>ordoues, nada necio<reg>,</reg> ni
+          <lb n="027"/>de mal talle, a tratar vn pleyto en la <name>Chancilleria</name>, y
+          andan<lb n="028" break="no"/>do por la <choice><orig>C</orig><reg>c</reg></choice>iudad<reg>,</reg> los ratos que le quedauan desocupados,
+          <lb n="029"/>vio, en vn balcon de su casa<reg>,</reg> a doña <persName>Gracia</persName>, las mas tardes
+          <lb n="030"/>haziendo su labor, de cuya vista quedò tan pagado<reg>,</reg> que no
+          <lb n="031"/>ay mas que encarecer, mas de que<reg>,</reg> cautiuo de su belleza<reg>,</reg> la
+          <lb n="032"/>empeçò a passear. Y la dama, como ignorante destas cosas,
+          <lb n="033"/>ni salia, ni entraua en esta pretension, como quien no sabia
+          <lb n="034"/>las leyes de la voluntad<reg>,</reg> y correspondencia, de cuyo descuy
+          
+          
+          <pb n="47" xml:id="img_0047"/>
+          
+          
+          <lb n="001" break="no"/>do ofendido el <choice><orig>C</orig><reg>c</reg></choice>ordoues<reg>,</reg>  andaua muy triste, las quales
+          accio<lb n="002" break="no"/>nes<reg>,</reg>  viendo vna vezina de doña <persName>Gracia</persName>, conocio por ellas<reg>,</reg>
+          <lb n="003"/>el amor quam tenia a la rezien casada<choice><orig>,</orig><reg>;</reg></choice> y assi vn dia le llamo, y
+          sa<lb n="004" break="no"/>biendo ser su sospecha verdadera, le prometio solicitarla,
+          <lb n="005"/>que nunca faltan hoyos en que cayga la virtud.</p>
+      </div>
+      
+      
+      <div>
+        <p>Fue la
+          <lb n="006"/>muger a ver a doña <persName>Gracia</persName>, y despues de auer
+          enca<lb n="007" break="no"/>recido su hermosura<reg>,</reg>  con mil alabanzas, primer ardid para
+          <lb n="008"/>derribarla, le dixo como aquel cauallero que passeaua su
+          <lb n="009"/>calle la queria mucho<reg>,</reg>  y desseaua seruirla.</p>
+      </div>
+      
+      
+      <div>
+        <p>Yo se lo
+          agra<lb n="010" break="no"/>dezco en verdad (respondio la dama) mas aora tengo
+          mu<lb n="011" break="no"/>chos criados, y hasta que se vaya alguno, no podra
+          cum<lb n="012" break="no"/>plir su desseo, aunque si quiere que yo se lo escriua a mi
+          <lb n="013"/>marido, el por darme gusto<reg>,</reg>  podra ser que le reciba.</p>
+      </div>
+      
+      
+      <div>
+        <p>Que
+          <lb n="014"/>no<reg>,</reg> señora (dixo la astuta tercera<orig>)</orig> conociendo su ignorancia<reg>)</reg>,
+          <lb n="015"/>que este cauallero es muy rico, es muy noble, tiene
+          mu<lb n="016" break="no"/>cha hazienda<reg>,</reg>  y no quiere le recibays por criado, si no
+          ser<lb n="017" break="no"/>uiros con ella, si le quereys mandar que os embie alguna
+          <lb n="018"/>joya ò regalo<choice><orig>:</orig><reg>.</reg></choice></p>
+      </div>
+      
+      
+      <div>
+        <p><choice><orig>a</orig><reg>¡ A</reg></choice>y amiga mia<reg>!</reg> (dixo dona <persName>Gracia</persName>) tengo yo
+          <lb n="019"/>tantas, que muchas vezes no se donde ponerlas.</p>
+      </div>
+      
+      
+      <div>
+        <p>Pues
+          <lb n="020"/>si assi es, dixo la tercera, que no quereys que os embie
+          <lb n="021"/>nada, dalde por lo menos licencia para que os visite, que
+          <lb n="022"/>lo dessea mucho<choice><orig>,</orig><reg>.</reg></choice></p>
+      </div>
+      
+      
+      <div>
+        <p>Venga norabuena<reg>,</reg>  (dixo la boua
+          se<lb n="023" break="no"/>ñora)<reg>, ¿</reg>quien se lo quita?</p>
+      </div>
+      
+      
+      <div>
+        <p><choice><orig>s</orig><reg>S</reg></choice>eñora (replicò ella)<reg>, ¿</reg>no veis que
+          <lb n="024"/>los criados, si le ven venir de dia publicamente lo
+          ten<lb n="025" break="no"/>dran a mal<choice><orig>.</orig><reg>?</reg></choice></p>
+      </div>
+      
+      
+      <div>
+        <p>Pues mirad, (dixo <persName>Gracia</persName>) esta llaue es de la
+          <lb n="026"/>puerta falsa del jardin, y aun de toda la casa, porque
+          <lb n="027"/>dizen que es maestra<choice><orig>, l</orig><reg>. L</reg></choice>leualda, y entre esta noche<choice><orig>;</orig><reg>,</reg></choice> y
+          <lb n="028"/>por vna escalera de caracol que ay en el, subira a la
+          <lb n="029"/>propria sala donde duermo.</p>
+      </div>
+      
+      
+      <div>
+        <p><reg>¡</reg>Ay señora mia<reg>?</reg> (dixo la
+          ter<lb n="030" break="no"/>cera) en su nombre os he de besar las manos, que està
+          <lb n="031"/>el pobre señor, despues que os vio, medio muerto.</p>
+      </div>
+      
+      
+      <div>
+        <p>Pues
+          <lb n="032"/><reg>¿</reg>con que le matè yo<reg>?</reg> (dixo <persName>Gracia</persName>)</p>
+      </div>
+      
+      
+      <div>
+        <p><choice><orig>c</orig><reg>C</reg></choice>on vuestros ojos (replicò
+          <lb n="033"/>la muger)<reg>.</reg></p>
+      </div>
+      
+      
+      <div>
+        <p><choice><orig>a</orig><reg>¡A</reg></choice>y señora (respondio <persName>Gracia</persName>) no lo crea que mis
+          <lb n="034"/>ojos no tienen espadas, mas si esta tan malo, no venga, que
+          
+          
+          <pb n="48" xml:id="img_0048"/>
+          
+          
+          <lb n="001"/>mejor es llamar al medico, y curarse.</p>
+      </div>
+      
+      
+      <div>
+        <p>Acabò la muger de
+          <lb n="002"/>conocer su ignorancia, y assi no quiso mas batallar con ella,
+          <lb n="003"/>sino<reg>,</reg> tomando su llaue, se fue a ganar las albricias, que
+          fue<lb n="004" break="no"/>ron vna rica cadena<choice><orig>, y</orig><reg>. Y</reg></choice> aquella noche don <persName>Aluaro</persName>, que
+          es<lb n="005" break="no"/>te era su nombre, entrò por el jardin, como le auian dicho,
+          <lb n="006"/>y subiendo por la escalera, assi como fue a entrar en la
+          qua<lb n="007" break="no"/>dra, vio a dosia <persName>Gracia</persName>, armada (como dizen) de punta en
+          <lb n="008"/>blanco, y con su lanęa que parecia vna <choice><orig>A</orig><reg>a</reg></choice>maçona<choice><orig>, l</orig><reg>. L</reg></choice>a luz
+          es<lb n="009" break="no"/>taua lexos, y no creyendo<reg>,</reg> ni imaginando lo que podia ser,
+          <lb n="010"/>creyendo que era alguna traycion, boluio las espaldas<reg>,</reg> con
+          <lb n="011"/>la priessa que pudo, tanto que no vio la hora de verse en la
+          <lb n="012"/>calle.</p>
+      </div>
+      
+      
+      <div>
+        <p>A la mañana dio quenta a su tercera del sucesso, y
+          <lb n="013"/>ella fue luego a ver a donma <persName>Gracia</persName>, que la recibio con
+          pre<lb n="014" break="no"/>guntarle por aquel cauallero, que deuia de estar muy malo,
+          <lb n="015"/>pues no auia venido por donde le dixo<choice><orig>;</orig><reg>.</reg></choice></p>
+      </div>
+      
+      
+      <div>
+        <p><reg>¡</reg>Ay mi señora (dixo
+          <lb n="016"/>ella) y como que vino<choice><orig>, m</orig><reg>! M</reg></choice>as dize que hallo vn hombre
+          ar<lb n="017" break="no"/>mado<reg>,</reg>  que con vna lança se passeaua por la sala.</p>
+      </div>
+      
+      
+      <div>
+        <p><reg>¡</reg>Ay <name>Dios</name><reg>!</reg> (di
+          <lb n="018" break="no"/>xo dona <persName>Gracia</persName><orig>)</orig> riendose muy de voluntad<choice><orig>,</orig><reg>) .</reg></choice> No ve que soy
+          <lb n="019"/>yo<reg>,</reg> que hago la vida de los casados, esse señor no deue de ser
+          <lb n="020"/>casado, pues pensò que era hombre<choice><orig>:</orig><reg>.</reg></choice> Digale que no
+          ten<lb n="021" break="no"/>ga miedo, que como digo soy yo.</p>
+      </div>
+      
+      
+      <div>
+        <p>Torno con esta
+          respues<lb n="022" break="no"/>ta a don <persName>Aluaro</persName><reg>,</reg> la tercera, el qual la siguiente noche fue
+          <lb n="023"/>a ver a su dama, y como la vio assi<reg>,</reg> le preguntò la causa.
+          E<lb n="024" break="no"/>lla respondio riendose<choice><orig>;</orig><reg>:</reg></choice></p>
+      </div>
+      
+      
+      <div>
+        <p><reg>¿</reg>Pues como tengo de andar sino
+          des<lb n="025" break="no"/>ta suerte<reg>,</reg> para hazer la vida de los casados<choice><orig>:</orig><reg>?</reg></choice></p>
+      </div>
+      
+      
+      <div>
+        <p><reg>¿</reg>Que vida de
+          ca<lb n="026" break="no"/>sados, señora<reg>?</reg> (respondiò don <persName>Aluaro</persName>)<choice><orig>m</orig><reg>. M</reg></choice>irad que estais
+          enga<lb n="027" break="no"/>nada, que la vida de los casados no es esta.</p>
+      </div>
+      
+      
+      <div>
+        <p>Pues señor esta
+          <lb n="028"/>es la quam me ensenno mi marido, y dize que es muy gran
+          peca<lb n="029" break="no"/>do quebrantarla. Mas si vos sabeis otra mas facil, en verdad
+          <lb n="030"/>quam me holgarè de saberla<reg>,</reg>  y de prenderla, que esta que hago
+          <lb n="031"/>es muy cansada.</p>
+      </div>
+      
+      
+      <div>
+        <p>Oyendo el desembuelto moço esta
+          simple<lb n="032" break="no"/>za, la desnudò el mesmo<reg>,</reg> y acostandose con ella<reg>,</reg> gozò lo que
+          <lb n="033"/>el necio marido auia dilatado, por hazer prouança de la
+          mo<lb n="034" break="no"/>cencia de su muger.</p>
+      </div>
+      
+      
+      <div>
+        <p>Con esta vida passaron todo el tiempo
+          
+          
+          <pb n="49" xml:id="img_0049"/>
+          
+          
+          <lb n="001"/>que estuuo don <persName>Fadrique</persName> en la <name>Corte</name>, que como huuiesse
+          <lb n="002"/>acabado los negocios<reg>,</reg>  y escriuiesse quam se venia, y don <persName>Aluaro</persName>
+          <lb n="003"/>huuiesse acabado el suyo, se boluia a <placeName>Cordoua</placeName>.</p>
+      </div>
+      
+      
+      <div>
+        <p>Llegò don
+          <persName>Fa<lb n="004" break="no"/>drique</persName> a su<reg>.</reg> casa, y fue recebido de su muger con mucho
+          gus<lb n="005" break="no"/>to, porquam no tenia sentimiento, como no tenia discrecion.
+          Ce<lb n="006" break="no"/>naron juntos, y como se acostasse don <persName>Fadrique</persName>, por venir
+          <lb n="007"/>cansado, quando pensò quam dona <persName>Gracia</persName> se estaua armando<reg>,</reg>
+          pa<lb n="008" break="no"/>ra hazer el cumplimiento de la orden quam la dexò, la vio salir
+          <lb n="009"/>desnuda<reg>,</reg> y que se entraua con el en la cama<choice><orig>, y</orig><reg>. Y</reg></choice> admirado de
+          <lb n="010"/>esta nouedad, le dixo:</p>
+      </div>
+      
+      
+      <div>
+        <p><reg>¿</reg>Pues como, señora, no hazeys la vida
+          <lb n="011"/>de los casados?</p>
+      </div>
+      
+      
+      <div>
+        <p>Andad, señor (dixo la dama) que vida de
+          ca<lb n="012" break="no"/>sados<reg>,</reg>  ni que nada<choice><orig>, h</orig><reg>. H</reg></choice>arto mejor me yua a mi con el otro
+          ma<lb n="013" break="no"/>rido, que me acostaua con el, y me regalaua mas qua vos.</p>
+      </div>
+      
+      
+      <div>
+        <p><reg>¿</reg>Pues
+          <lb n="014"/>como<reg>?</reg> (replicò don <persName>Fadrique</persName>) <reg>¿</reg>aueys tenido otro marido?</p>
+      </div>
+      
+      
+      <div>
+        <p>Si,
+          <lb n="015"/>señor (dixo donma <persName>Gracia</persName>)<choice><orig>, d</orig> <reg>. D</reg></choice>espues quam os fuistes<reg>,</reg> vino otro
+          ma<lb n="016" break="no"/>rido tan galan<reg>,</reg> y tan lindo, y me dixo<reg>,</reg> quam el me ensenaria
+          o<lb n="017" break="no"/>tra vida de casados mejor quam la vuestra.</p>
+      </div>
+      
+      
+      <div>
+        <p>Y finalmente<reg>,</reg> le
+          con<lb n="018" break="no"/>tò quanto le auia passado con el <choice><orig>C</orig><reg>c</reg></choice>auallero <choice><orig>C</orig><reg>c</reg></choice>ordoues, mas
+          <lb n="019"/>que no sabia que se auia hecho, porque assi como leyò la
+          <lb n="020"/>carta de que el venia, no le auia visto.</p>
+      </div>
+      
+      
+      <div>
+        <p>Preguntôle el
+          <lb n="021"/>desesperado<reg>,</reg> y necio don <persName>Fadrique</persName>, de donde era<orig>,</orig> y
+          co<lb n="022" break="no"/>mo se llamaua. Mas a esto respondio doña <persName>Gracia</persName><reg>,</reg> que
+          <lb n="023"/>no sabia, porque ella no le llamaua sino el otro marido.c Y
+          <lb n="024"/>viendo don <persName>Fadrique</persName> esto, y que pensando librarse<reg>,</reg> auia
+          <lb n="025"/>buscado vna ignorante, la qual<reg>,</reg> no solo le auia
+          agrauia<lb n="026" break="no"/>do, mas que tambien se lo dezia, tuuo su opinion por
+          ma<lb n="027" break="no"/>la, y se acordò de lo que le auia dicho la <choice><orig>D</orig><reg>d</reg></choice>uquesa, que
+          <lb n="028"/>las mugeres discretas saben guardar las leyes del honor, y
+          <lb n="029"/>si alguna vez las rompen, callan su yerro. Y todo el
+          tiem<lb n="030" break="no"/>po que viuio, alabaua las discretas que son virtuosas,
+          por<lb n="031" break="no"/>que no ay comparacion<orig>,</orig> ni estimacion<orig>,</orig> para ellas<choice><orig>:</orig><reg>;</reg></choice> y si
+          <lb n="032"/>no lo son, hazen sus cosas con recato<orig>,</orig> y prudencia.</p>
+      </div>
+      
+      
+      <div>
+        <p>Y
+          <lb n="033"/>viendo que yva no auia remedio a lo hecho, dissimulò su
+          des<lb n="034" break="no"/>dicha, pues por cuipa suya le sucedio, que si en las discretas
+          
+          
+          <pb n="50" xml:id="img_0050"/>
+          
+          
+          <lb n="001"/>son malas las prueuas <reg>¿</reg>que pensaua sacar de las necias<choice><orig>, y</orig><reg>? Y</reg></choice>
+          pro<lb n="002" break="no"/>curando no dexar de la mano a su muger, porque no
+          tornas<lb n="003" break="no"/>se a ofenderle, viuio algunos<choice><orig>: u</orig> <reg>an</reg></choice>os.</p>
+      </div>
+      
+      
+      <div>
+        <p>Y quando murio, por no
+          <lb n="004"/>quedarle hijos, mandò su hazienda a donma <persName>Gracia</persName>, si fuesse
+          <lb n="005"/>monja en el <choice><orig>M</orig><reg>m</reg></choice>onasterio en que estaua <persName>Seraphina</persName>, a la qual
+          <lb n="006"/>escriuio vn papel<orig>,</orig> en que le declaraua,<orig>,</orig> como era su hija. Y
+          <lb n="007"/>escriuiendo a su primo don <persName><choice><orig>luan</orig><reg>Juan</reg></choice></persName> a <placeName>Madrid</placeName>, le embiò
+          es<lb n="008" break="no"/>crita su historia de la manera que aqui va.</p>
+      </div>
+      
+      
+      <div>
+        <p>En fin don
+          <lb n="009"/><persName>Fadrique</persName>, sin poder escusarse<orig>,</orig> por mas preuenido que
+          es<lb n="010" break="no"/>tana, y sinser parte las tierras vistas<orig>,</orig> y los sucessos
+          pas<lb n="011" break="no"/>sados, vino a caer en lo mismo que temia, siendo vna
+          bo<lb n="012" break="no"/>ba quien castigò su opinion.</p>
+      </div>
+      
+      
+      <div>
+        <p>Entrò dona <persName>Gracia</persName> monja
+          <lb n="013"/>con su madre<orig>,</orig> contenta de auerse conocido las dos,
+          por<lb n="014" break="no"/>que, como era boba, facil hallò el consuelo, gastando la
+          <lb n="015"/>gruessa hazienda que le quedò<orig>,</orig>  en labrar vn grandioso
+          <lb n="016"/><choice><orig>C</orig><reg>c</reg></choice>onuento, donde viuio con mucho gusto<choice><orig>, y</orig><reg>. Y</reg></choice> yo le tengo
+          <lb n="017"/>de auer dado fin a esta marauilla<orig>,</orig>  para que se auisen los
+          ig<lb n="018" break="no"/>norantes que condenan la discrecion de las mugeres<choice><orig>: q</orig><reg>. Q</reg></choice>ue
+          <lb n="019"/>donde falta el entendimiento, no puede sobrar la virtud, y
+          <lb n="020"/>tambien que la que ha de ser mala<orig>,</orig> no importa que sea
+          ne<lb n="021" break="no"/>cia, ni la buena el ser discreta pues siendolo<orig>,</orig> sabra guardarse.
+          <lb n="022"/>Y aduiertan los que prueuan a las mugeres, al peligro que
+          <lb n="023"/>se ponen.</p></div><div><p><reg>Aquí termina la historia de don Fadrique</reg></p></div>
+      <div>
+        <p>
+          <lb n="024"/>A los vltimos acentos estaua don <persName>Alonso</persName> de su
+          entrete<lb n="025" break="no"/>nida<orig>,</orig> y gustosa marauilla, y todos absortos<orig>,</orig> y eleuados en
+          <lb n="026"/>ella, quando los despertò deste sabroso extasis<orig>,</orig> el son de
+          mu<lb n="027" break="no"/>chos<orig>,</orig> y muy acordados instrumentos<orig>,</orig> que en vna sala, antes
+          <lb n="028"/>de llegar a esta en que estauam, se tocaron. Y boluiendo a ver
+          <lb n="029"/>quien hazia tan dulce armonia, vieron entrar hasta doze
+          man<lb n="030" break="no"/>cebos vestidos de vaqueros, y monteras de raso morado, y
+          <lb n="031"/>guarnicion de plata<orig>,</orig> con hachas blancas encendidas en las
+          <lb n="032"/>manos, dançando diestrissimamente. Y despues de auer
+          he<lb n="033" break="no"/>cho vo concertado passeo, se diuidieron en dos ordenes<choice><orig>,</orig> <reg>;</reg></choice> y
+          <lb n="034"/>vno dellos, el mas ayroso<orig>,</orig> y galan, empecò a dançar
+          
+          
+          <pb n="51" xml:id="img_0051"/>
+          
+          
+          <lb n="001"/>solo con su hacha en la mano, y despues de dar la buelta por
+          <lb n="002"/>la sala, se fue a la hermosa <persName>Lisarda</persName>, y con vna cortes
+          reue<lb n="003" break="no"/>rencia<orig>,</orig>  la sacò a dançar. Obedeciò la dama, y despues de
+          <lb n="004"/>ponerla en su puesto, boluio el ayroso moço a la discreta
+          <persName>Ma<lb n="005" break="no"/>tilde</persName>, y tras della a <persName>Nise</persName>, y tomando por companero a don
+          <lb n="006"/><persName><choice><orig>Iuan</orig><reg>Juan</reg></choice></persName>, como en la dança de la hecha<orig>,</orig> se vsa, la dançaron con
+          <lb n="007"/>grandissimo desenfado<orig>,</orig>  y donayre<choice><orig>, y</orig><reg>. Y</reg></choice>dexando la hacha a
+          <persName>Lisar<lb n="008" break="no"/>da</persName>, bueltas las otras dos damas a sus assientos, prosiguio la
+          <lb n="009"/>dama, sacando a don <persName>Miguel</persName>, don <persName>Lope</persName>, y don <persName>Diego</persName><choice><orig>,</orig><reg>;</reg></choice>
+          <lb n="010"/>el qual, yendo por la sala, suplicò a <persName>Lisarda</persName>, sacase a su prima,
+          <lb n="011"/>y ella, como a quien no le estaua mal, esta voluntad se llego
+          <lb n="012"/>a la camilla donde <persName>Lisis</persName> estaua<choice><orig>, c</orig><reg>. C</reg></choice>on vna hermosa reuerencia,
+          <lb n="013"/>y muy corteses palabras, la suplicò que se siruiesse de
+          hon<lb n="014" break="no"/>rar la fiesta, pues sus quartanas eran tan corteses<orig>,</orig> que desde
+          <lb n="015"/>el primer dia que se empeçò, no la auia molestado.</p></div>
+      
+      
+      <div><p>Obede<lb n="016" break="no"/>cio <persName>Lisis</persName>, mas por dar gusto a don <persName>Diego</persName><orig>,</orig> que a su prima, y
+        <lb n="017"/>dançò tan diuinamente<orig>,</orig> que a todos dio notable contento,
+        <lb n="018"/>y mas a don <persName>Diego</persName><orig>,</orig> que<reg>,</reg> mientras durò la dança<orig>,</orig> y el boluer
+        <lb n="019"/>la a su assiento le diò a entender su voluntad, y ella a el<orig>,</orig> quan
+        <lb n="020"/>agradecida estaua, juntamente<orig>,</orig> con licencia para tratar con
+        <lb n="021"/>su madre, y deudos su casamiento.</p>
+      </div>
+      
+      
+      <div>
+        <p>Finalmente, mientras los
+          <lb n="022"/>criados de don <persName>Diego</persName> se adereçauan para el ridiculo
+          en<lb n="023" break="no"/>tremes, no quedò cauallero<orig>,</orig> ni dama en la sala<orig>,</orig> que no
+          dan<lb n="024" break="no"/>çasse<choice><orig>, e</orig><reg>. E</reg></choice>mpecose a representar, y como para dar lugar se
+          mu<lb n="025" break="no"/>dassen algunos assientos, vinieron a sentarse don <persName>Diego</persName>, y
+          <lb n="026"/>don <persName><choice><orig>luan</orig><reg>Juan</reg></choice></persName>juntos. Y don <persName><choice><orig>luan</orig><reg>Juan</reg></choice></persName><orig>,</orig> como agrauiado (le dixo a
+          <lb n="027"/>don <persName>Diego</persName>)<reg>:</reg></p>
+      </div>
+      
+      
+      <div>
+        <p><choice><orig>f</orig><reg>F</reg></choice>auorecido estais de <persName>Lisis</persName>, y si bien por auer sido
+          <lb n="028"/>pretensor suyo<orig>,</orig> me pesa, por no verme molestado de sus
+          <lb n="029"/>quexas<orig>,</orig> lo doy por bien empleado<choice><orig>,</orig><reg>;</reg></choice> mas bueno fuera auerme
+          <lb n="030"/>dado parte de esto, pues soy mesor para amigo quam para
+          ene<lb n="031" break="no"/>migo<choice><orig>,</orig><reg>.</reg></choice></p>
+      </div>
+      
+      
+      <div>
+        <p><choice><orig>a</orig><reg>A</reg></choice>ssi es (replicò don <persName>Diego</persName><orig>)</orig> algo enfadado<reg>)</reg>, que vn
+          poe<lb n="032" break="no"/>ta si es enemigo es terrible, porquam no ay nauaxa como vna
+          <lb n="033"/>pluma<choice><orig>, a</orig><reg>A</reg></choice> <persName>Lisis</persName> desseo seruir, esso vese claro<choice><orig>,</orig><reg>;</reg></choice> quam no aya fido con
+          <lb n="034"/>vuestra licencia, no es delicto, porquam como <persName>Lisis</persName> es mas suya
+          
+          
+          <pb n="52" xml:id="img_0052"/>
+          
+          
+          <lb n="001"/>que vuestra, yo con el beneplacito del dueno estoy
+          conten<lb n="002" break="no"/>to. <persName>Lisarda</persName> es vuestro cuydado, contentaos con ella,y no
+          <lb n="003"/>querays vna para estimar, y otra para maltratar. Licencia
+          <lb n="004"/>tengo de <persName>Lisis</persName> para pedirla a su madre<orig>,</orig>  por esposa, y si
+          des<lb n="005" break="no"/>to os agrauiays, aqui estoy para daros la satisfacion quam
+          qui<lb n="006" break="no"/>sieredes<orig>,</orig> y como quisieredes.</p>
+      </div>
+      
+      
+      <div>
+        <p>Soy contento (replico don <persName><choice><orig>luan</orig><reg>Juan</reg></choice></persName>)<reg>,</reg>
+          <lb n="007"/>ya no por <persName>Lisis</persName>, quam pues ella quiere ser vuestra, y yo no
+          quie<lb n="008" break="no"/>ro que sea mia<choice><orig>,</orig><reg>;</reg></choice> acabada es sobre esto la question, sino
+          por<lb n="009" break="no"/>que sepays que si soy poeta, con la pluma, soy cauallero con
+          <lb n="010"/>la espada.</p>
+      </div>
+      
+      
+      <div>
+        <p>Sea assi (dixo don <persName>Diego</persName>)<reg>,</reg> mas no es razon quam
+          per<lb n="011" break="no"/>turbemos el gusto a estas damas, arajando su fiesta<choice><orig>, t</orig><reg>. T</reg></choice>res dias
+          <lb n="012"/>faltan, dexemos que se acaben, y despues trataremos de
+          es<lb n="013" break="no"/>to donde fueredes seruido.</p>
+      </div>
+      
+      
+      <div>
+        <p>Soy contento (dixo don <persName><choice><orig>luan</orig><reg>Juan</reg></choice></persName>).
+          <lb n="014"/>Y con esto se boluieron a ver el entremes que andaua en los
+          <lb n="015"/>vltimos fines.</p>
+      </div>
+      
+      
+      <div>
+        <p>Bien oyò <persName>Lisis</persName> lo que auia passado, y aunque
+          <lb n="016"/>quisiera remediallo<orig>,</orig> se sufrio, viendo que don <persName><choice><orig>luan</orig><reg>Juan</reg></choice></persName><orig>,</orig> y don
+          <lb n="017"/><persName>Diego</persName> dexauan su desafio para despues de la fiesta, y que
+          a<lb n="018" break="no"/>uia lugar para impedir su intento.</p>
+      </div>
+      
+      
+      <div>
+        <p>Y viendo que era ya
+          ho<lb n="019" break="no"/>ra de cenar, se fueron a las mesas, donde satisfaziendo el gus
+          <lb n="020"/>to en los manjares, los ojos en la hermosura<orig>,</orig> y los
+          entendi<lb n="021" break="no"/>mientos en la sabrosa conuersacion, dando a don <persName>Alonso</persName>
+          ma<lb n="022" break="no"/>tes sobre <hi rend="italic"><choice><orig>e</orig><reg>E</reg></choice>l preuenido enganado</hi>, se recogieron a sus casas,
+          <lb n="023"/>dando fin a la segunda noche.</p></div>
+      <div>
+        <p>
+          <lb n="024"/><hi rend="bold"><reg>[Noche tercera - 1]</reg></hi></p>
+      </div>
+      
+      
+      <div>
+        <p>Tenian tan picado el gusto todos aquellos señores, y
+          se<lb n="025" break="no"/>ñoras de las dos sabrosas noches que auian passado<orig>,</orig> que
+          a<lb n="026" break="no"/>penas llego la tarde de la tercera<orig>,</orig> quando ya empecaron
+          <lb n="027"/>a juntarse en casa de la hermosissima <persName>Lisis</persName>, la qual les recibio a
+          <lb n="028"/>todos con su a costumbrada cortesia. Salio este dia la dama
+          <lb n="029"/>de negro, con muchos botones de diamantes, que en medio
+          <lb n="030"/>de tantas estrellas, parecia sol, tanta era su estremada
+          belle<lb n="031" break="no"/>ca. Pues como en recibimientos y cortesias, se passase la
+          tar<lb n="032" break="no"/>de, viendo que ya cerraua la noche, era razon dar
+          princi<lb n="033" break="no"/>pio a su entretenimiento, hizo <persName>Lisis</persName> senmal a los <choice><orig>M</orig><reg>m</reg></choice>usicos, los
+          <lb n="034"/>quales, acompanados de su diuina voz, cantaron este sone
+          
+          
+          <pb n="53" xml:id="img_0053"/>
+          
+          
+          <lb n="001" break="no"/>to. Cuyo assumpto fue el <name>Rey</name> nuestro <choice><orig>S</orig><reg>s</reg></choice>eñor don <persName>Felipe</persName>
+          <lb n="002"/><name>Quarto</name>.</p></div>
+      <lb n="003"/><div><lg n="8"><l>Sol, que en la quarta <choice><orig>E</orig><reg>e</reg></choice>sfera, al <choice><orig>S</orig><reg>s</reg></choice>ol le quita</l>
+        <lb n="004"/><l>valor, grandeza, luz, y resplandores,</l>
+        <lb n="005"/><l>perla que tuuo ser en los amores,</l>
+        <lb n="006"/><l>del <name>Sol</name> <persName>Felipo</persName>, y <choice><orig>N</orig><reg>n</reg></choice>acar <name>Margarita</name>.</l>
+        <lb n="007"/><l><name>Fenix</name>, que en nuestra <placeName>Espana</placeName> resucita,</l>
+        <lb n="008"/><l>para darle mas ser, glorias mayores,</l>
+        <lb n="009"/><l>jardin de hermosas y purpureas flores,</l>
+        <lb n="010"/><l>pues que tal flor de lis en el habita.</l>
+        <lb n="011"/><l><persName>Iupiter</persName> que gouierna el sacro <name>Coro</name>,</l>
+        <lb n="012"/><l>y en dulce ambrosia, como en luz le baña,</l>
+        <lb n="013"/><l>siendo a sus <name>Ninfas</name> musico sonoro.</l>
+        <lb n="014"/><l>Ysi la vista a la verdad no engaña,</l>
+        <lb n="015"/><l>tierno <persName>Cupido</persName> con harpones de oro;</l>
+        <lb n="016"/><l>es <persName>Felipe</persName><reg>,</reg> <name>Sol</name> nuestro, y <name>Rey</name> de <placeName>España</placeName>.</l></lg></div>
+      <div>
+        <p>
+          <lb n="017"/>De industria, la hermosa <persName>Lisis</persName>, quiso como ya
+          desenga<lb n="018" break="no"/>ñada de don <persName><choice><orig>luan</orig><reg>Juan</reg></choice></persName>, y agradecida a don <persName>Diego</persName>, mudar el estilo
+          <lb n="019"/>en sus versos, porquam no causasse el tratar de amor, ni desamor
+          <lb n="020"/>mas disgusto<orig>,</orig> en los dos competidores<choice><orig>,</orig><reg>;</reg></choice> los quales se miraron
+          <lb n="021"/>a lo falso, si bien <persName>Lisarda</persName> tenia tomada la palabra a don <persName><choice><orig>luan</orig><reg>Juan</reg></choice></persName><orig>,</orig>
+          <lb n="022"/>de quam gustando don <persName>Diego</persName>, seriam amigos.</p>
+      </div>
+      
+      
+      <div>
+        <p>Pues viendo <persName>Nise</persName>,
+          <lb n="023"/>quae le tocaua a ella la quinta marauilla<orig>,</orig> en esta tercera noche,
+          <lb n="024"/>ocupando el assiento<orig>,</orig> que para este caso estaua preuenido,
+          <lb n="025"/>empecò assi.</p></div>
+      <div>
+        <p>
+          <lb n="026"/>La fuerça del amor ninguno ay quam la ignore, y mas si se
+          a<lb n="027" break="no"/>podera de nobles pechos, porquam amor es como el sol, que
+          ha<lb n="028" break="no"/>ze los efectos conforme por do passa. En mi marauilla se
+          ve<lb n="029" break="no"/>rà mas claro, la qual es desta suerte.</p></div>
+      <div>
+        <p>
+          <lb n="030"/>FIN DELA QVARTA NOVELA.</p></div>
+      
+    </body>
+  </text>
+</TEI>
