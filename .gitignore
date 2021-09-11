@@ -1,7 +1,4 @@
 /.idea/**/*
 /.idea/
-<<<<<<< HEAD
 *.xml
-=======
-*.xml
->>>>>>> f94a4a057afac8069e988ebf2671e52fa519a5ac
+*.bak
