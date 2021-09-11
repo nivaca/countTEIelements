@@ -9,30 +9,37 @@ elementname = "note"
 
 def count_and_add_n(lines: list) -> list:
     n = 0
-    pattern = re.compile(f"<{elementname} ")
+    orig_pattern = re.compile(f"<{elementname} ")
     for line in lines:
-        if re.search(pattern, line):
-            print(f"  Original {line = }")
+        if re.search(orig_pattern, line):
+            print(f"  {line = }")
             n += 1
             pattern = re.compile(f"(<{elementname} .+?>)")
             match = re.search(pattern, line)
             orig_element = match.group(1)  # make a copy of the original element
             print(f"  {orig_element =}")
             new_element = orig_element  # this is a working copy
-            if check_if_has_n(orig_element):
-                new_element = delete_existing_n(new_element)
-            new_element = add_correct_n(new_element, n)
+            new_element = check_and_remove_n(new_element)
+            new_element = add_correct_n(new_element, str(n))
             print(f"  {new_element = }")
             pattern = re.compile(new_element)
-            line = re.sub(orig_element, new_element, line)
-            print(f"  New {line = }")
+            newline = re.sub(orig_element, new_element, line)
+            print(f"  {newline = }")
 
 
-def add_correct_n(element: str, value: int) -> str:
+def check_and_remove_n(element: str) -> str:
+    """ Checks if element has @n and if so removes it.
+    Also cleanups the spaces. """
+    if check_if_has_n(element):
+        element = delete_existing_n(element)
+    return element
+
+
+def add_correct_n(element: str, nstring: str) -> str:
     pattern = re.compile(r'(<note .+)>')
     match = re.search(pattern, element)
     element: str = match.group(1)
-    tail: str = f' n="{str(value)}">'
+    tail: str = f' n="{nstring}">'
     return element + tail
 
 
