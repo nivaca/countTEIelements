@@ -1,4 +1,4 @@
-abstract:  Python script to count and encode (n="") the notes on a TEI document
+abstract:  Python script count the occurrances of a TEI element and adds the @n="{count}"
 authors:
   - family-names: Vaughan
     given-names: Nicolas
@@ -9,10 +9,9 @@ keywords:
   - TEI
   - regex
   - Python
-  - LaTeX
 license: CC-BY-NC-SA-4.0
 licence-url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
 message: If you use this software, please cite it using these metadata.
-repository-code: "https://github.com/nivaca/countteinotes"
-title: countteinotes
+repository-code: "https://github.com/nivaca/countTEIelements"
+title: countTEIelements
 version: 0.1

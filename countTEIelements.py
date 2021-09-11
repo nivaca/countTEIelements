@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+""" Counts the occurrances of a TEI element and adds the @n="{count}" """
 
 import re
 import sys
