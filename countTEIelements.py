@@ -88,10 +88,10 @@ def make_backup(inputfile: str):
 
 
 @click.command()
-@click.option('--onlydelete', default=False, help='Only remove @n in element.')
-@click.option('--dry', default=False, flag_value=True, help='Dry run (do not make any changes).')
-@click.option('--elementname', default="note", help='XML element to be counted.')
-@click.argument('inputfile')
+@click.option('--onlydelete', default=False, help='Only remove @n in element.', show_default=True)
+@click.option('--dry', default=False, flag_value=True, help='Dry run (do not make any changes).', show_default=True)
+@click.option('--elementname', default="note", help='XML element to be counted.', show_default=True)
+@click.argument('inputfile', type=click.Path(exists=True))
 def main(inputfile: str, elementname: str, dry: bool, onlydelete: bool):
     if inputfile[-3:] != "xml":
         print(f"{inputfile} is not an XML file. Aborting...")
