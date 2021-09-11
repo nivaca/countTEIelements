@@ -3,11 +3,10 @@
 
 import re
 import sys
+import click
 
-elementname = "note"
 
-
-def check_if_needed(lines: list) -> bool:
+def check_if_needed(lines: list, elementname: str) -> bool:
     match = False
     orig_pattern = re.compile(f"<{elementname} ")
     for line in lines:
@@ -16,12 +15,12 @@ def check_if_needed(lines: list) -> bool:
     return match
 
 
-def count_and_add_n(lines: list) -> list:
+def count_and_add_n(lines: list, elementname: str) -> list[list, int]:
     n = 0
+    newlines: list[str] = []
     orig_pattern = re.compile(f"<{elementname} ")
     for line in lines:
         if re.search(orig_pattern, line):
-            print(f"  {line = }")
             n += 1
             pattern = re.compile(f"(<{elementname} .+?>)")
             match = re.search(pattern, line)
@@ -29,8 +28,9 @@ def count_and_add_n(lines: list) -> list:
             new_element = orig_element  # this is a working copy
             new_element = check_and_remove_n(new_element)
             new_element = add_correct_n(new_element, str(n))
-            newline = re.sub(orig_element, new_element, line)
-            print(f"  {newline = }")
+            line = re.sub(orig_element, new_element, line)
+        newlines.append(line)
+    return [newlines, n]
 
 
 def check_and_remove_n(element: str) -> str:
@@ -79,32 +79,42 @@ def cleanup_element(element: str) -> str:
     return element
 
 
-def main():
-    num_args = len(sys.argv)
-    inputfile = ""
+@click.command()
+@click.option('--dry', default=False, help='Dry run (do not make any changes).')
+@click.option('--elementname', default="note", help='XML element to be counted.')
+@click.argument('inputfile')
+def main(inputfile: str, elementname: str, dry: bool):
+    # num_args = len(sys.argv)
+    # inputfile = ""
+    # if num_args > 1:
+    #     inputfile = sys.argv[1]
+    # else:
+    #     print(f"Usage: python3 countteinotes file.xml")
+    #     exit(1)
+    #
 
-    if num_args > 1:
-        inputfile = sys.argv[1]
-    else:
-        print(f"Usage: python3 countteinotes file.xml")
-        exit(1)
-    
     if inputfile[-3:] != "xml":
-        print(f"Usage: python3 countteinotes file.xml")
-        exit(1)
+        print(f"{inputfile} is not an XML file. Aborting...")
+        sys.exit(1)
 
-    outputfile = inputfile[0:-4] + "_out.tex"
+    # outputfile = inputfile[0:-4] + "_out.xml"
 
     with open(inputfile) as f:
         lines = f.readlines()
-        if not check_if_needed(lines):
+        if not check_if_needed(lines, elementname):
             print(f"{inputfile} doesn't contain element <{elementname}>. Aborting...")
             sys.exit(1)
+        outlist = count_and_add_n(lines, elementname)
+        newlines = outlist[0]
+        numchanges = outlist[1]
 
-        newlines = count_and_add_n(lines)
-
-        with open(outputfile, "w") as outf:
-            outf.writelines(newlines)
+    if dry:
+        print(f"  Dry run:")
+        print(f"  {numchanges} instances of <{elementname}> would have been overwritten in {inputfile}.")
+    else:
+        with open(inputfile, "w") as f:
+            f.writelines(newlines)
+            print(f"  {numchanges} instances of <{elementname}> were overwritten in {inputfile}.")
 
 
 if __name__ == "__main__":
