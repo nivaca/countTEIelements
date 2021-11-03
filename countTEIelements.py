@@ -51,8 +51,8 @@ def add_correct_n(element: str, nstring: str) -> str:
 
 
 def check_if_has_n(element: str) -> bool:
-    patterns = [re.compile(r'n="\d+"'),
-                re.compile(r"n='\d+'")]
+    patterns = [re.compile(r'n=".+?"'),
+                re.compile(r"n='.+?'")]
     has_pattern = False
     for pattern in patterns:
         if re.search(pattern, element):
@@ -61,8 +61,8 @@ def check_if_has_n(element: str) -> bool:
 
 
 def delete_existing_n(element: str) -> str:
-    patterns = [re.compile(r'n="\d+"'),
-                re.compile(r"n='\d+'")]
+    patterns = [re.compile(r'n=".+?"'),
+                re.compile(r"n='.+?'")]
     for pattern in patterns:
         if re.search(pattern, element):
             element = re.sub(pattern, "", element)
